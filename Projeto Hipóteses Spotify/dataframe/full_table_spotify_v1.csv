@@ -1,0 +1,949 @@
+track_id,track_name,artist_s__name,artist_count,released_year,released_month,released_day,release_date_concat,release_year_month_concat,total_playlists,in_spotify_playlists,in_spotify_charts,streams,in_apple_playlists,in_apple_charts,in_deezer_playlists,in_deezer_charts,bpm,danceability__,valence__,energy__,acousticness__,instrumentalness__,liveness__,speechiness__,bpm_quartil,bpm_categorizada,danceability_quartil,danceability_categorizada,valence_quartil,valence_categorizada,energy_quartil,energy_categorizada,acousticness_quartil,acousticness_categorizada,instrumentalness_quartil,instrumentalness_categorizada,liveness_quartil,liveness_categorizada,speechiness_quartil,speechiness_categorizada
+6909746,white christmas,bing crosby john scott trotter his orchestra ken darby singers,3,1942,1,1,1942-01-01,1942-01,12136,11940,0,395591396,73,79,123,0,96,23,19,25,91,0,40,3,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,4,Alto,1,Baixo
+4002890,a holly jolly christmas single version,burl ives,1,1952,1,1,1952-01-01,1952-01,8111,7930,0,395591396,108,120,73,0,140,67,81,36,64,0,15,3,3,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,3,Baixo,1,Baixo
+6372609,jingle bell rock,bobby helms,1,1957,1,1,1957-01-01,1957-01,10595,10326,0,741301563,165,99,104,0,119,74,78,37,84,0,6,3,2,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,1,Baixo,1,Baixo
+8167749,deck the hall remastered 1999,nat king cole,1,1959,1,1,1959-01-01,1959-01,3405,3299,0,127027715,65,39,41,0,107,69,96,36,81,0,8,4,2,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto,4,Alto,1,Baixo,1,Baixo
+5350503,it s the most wonderful time of the year,andy williams,1,1963,10,14,1963-10-14,1963-10,9221,8879,0,663832097,182,107,160,0,202,24,76,60,77,0,12,4,4,Alto,1,Baixo,4,Alto,2,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo
+6900582,sleigh ride,the ronettes,1,1963,11,22,1963-11-22,1963-11,10490,10114,0,404664135,114,74,262,0,92,53,84,77,40,0,32,3,1,Baixo,1,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo,4,Alto,1,Baixo
+6250958,have you ever seen the rain ,creedence clearwater revival,1,1968,7,1,1968-07-01,1968-07,16614,15890,14,1145727611,71,37,653,0,116,74,76,70,7,0,13,3,2,Baixo,3,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo
+2148200,happy xmas war is over ,john lennon the harlem community choir the plastic ono band yoko ono,4,1971,12,1,1971-12-01,1971-12,11349,10829,0,460492795,130,1,390,0,147,33,39,61,32,0,77,3,4,Alto,1,Baixo,2,Baixo,2,Baixo,3,Baixo,4,Alto,4,Alto,1,Baixo
+1534505,dream on,aerosmith,1,1973,1,5,1973-01-05,1973-01,173,168,0,838586769,0,0,5,0,80,39,24,43,39,0,23,3,1,Baixo,1,Baixo,1,Baixo,1,Baixo,3,Baixo,1,Baixo,3,Baixo,1,Baixo
+8502696,riptide,vance joy,1,1975,1,1,1975-01-01,1975-01,32426,31123,55,2009094673,300,65,1003,1,102,48,50,73,43,0,15,4,2,Baixo,1,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo
+8476304,wonderful christmastime edited version remastered 2011,paul mccartney,1,1979,11,16,1979-11-16,1979-11,1715,1685,0,403939487,1,0,29,0,95,75,74,58,36,0,9,3,1,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo,3,Baixo,1,Baixo,1,Baixo
+6552512,every breath you take remastered 2003,the police,1,1983,1,6,1983-01-06,1983-01,23579,22439,19,1593270737,211,74,929,0,117,82,73,45,54,0,7,3,2,Baixo,4,Alto,4,Alto,1,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo
+7224008,last christmas,wham ,1,1984,1,1,1984-01-01,1984-01,23729,22153,0,1159176109,274,111,1302,0,107,74,88,65,28,0,46,3,2,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo,4,Alto,1,Baixo
+4738813,merry christmas everyone,shakin stevens,1,1984,1,1,1984-01-01,1984-01,1182,1087,0,351636786,90,35,5,0,101,72,91,87,14,0,13,3,2,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,3,Baixo,1,Baixo
+3891081,do they know it s christmas 1984 version,band aid,1,1984,11,25,1984-11-25,1984-11,14827,14169,0,481697415,209,30,449,0,115,60,23,57,0,2,27,3,2,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,4,Alto,1,Baixo
+6593931,driving home for christmas 2019 remaster,chris rea,1,1986,1,1,1986-01-01,1986-01,944,888,0,429504768,50,0,6,0,180,51,87,58,36,0,18,4,4,Alto,1,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo,3,Baixo,1,Baixo
+1024668,master of puppets remastered ,metallica,1,1986,3,3,1986-03-03,1986-03,6598,6080,0,704171068,112,198,406,1,105,54,59,83,0,44,20,4,2,Baixo,1,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo,1,Baixo
+8217918,something in the way remastered 2021,nirvana,1,1991,9,24,1991-09-24,1991-09,10756,9514,0,368646862,45,27,1197,0,106,44,8,20,74,42,11,3,2,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo
+4490744,all i want for christmas is you,mariah carey,1,1994,10,28,1994-10-28,1994-10,28134,25653,0,1449779435,387,132,2094,0,150,34,33,63,16,0,7,4,4,Alto,1,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,1,Baixo
+2828618,california love original version explicit ,dr dre 2pac roger,3,1995,12,28,1995-12-28,1995-12,20564,18773,0,579395142,128,17,1663,0,92,77,76,84,3,0,38,4,1,Baixo,3,Baixo,4,Alto,4,Alto,1,Baixo,3,Baixo,4,Alto,1,Baixo
+8262886,iris,the goo goo dolls,1,1998,3,31,1998-03-31,1998-03,13820,13101,9,1284942608,137,5,582,0,156,32,49,72,0,0,9,4,4,Alto,1,Baixo,2,Baixo,3,Baixo,1,Baixo,2,Baixo,1,Baixo,1,Baixo
+4527090,yellow,chris molitor,1,1999,1,1,1999-01-01,1999-01,35607,31358,43,1755214421,196,2,4053,5,173,43,28,66,0,0,23,3,4,Alto,1,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo,1,Baixo
+2059327,sparks,coldplay,1,2000,7,10,2000-07-10,2000-07,11655,10826,4,624101957,24,0,805,0,103,37,17,27,75,5,10,3,2,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo
+7699876,my only wish this year ,britney spears,1,2000,11,7,2000-11-07,2000-11,7353,6952,0,261116938,115,53,286,0,147,67,69,72,17,0,19,3,4,Alto,2,Baixo,3,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo
+7890756,the scientist,coldplay,1,2002,8,5,2002-08-05,2002-08,38943,30992,6,1608164312,124,25,7827,1,146,56,21,44,73,0,11,2,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo
+3412305,somewhere only we know,keane,1,2004,1,1,2004-01-01,2004-01,25361,20015,16,1089402494,107,69,5239,0,172,45,33,59,6,0,8,3,4,Alto,1,Baixo,2,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo,1,Baixo
+3126367,viva la vida,coldplay,1,2008,1,1,2008-01-01,2008-01,38226,33898,62,1592909789,233,0,4095,9,138,49,42,62,9,0,11,3,3,Baixo,1,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,2,Baixo,1,Baixo
+6735267,enchanted,taylor swift,1,2010,1,1,2010-01-01,2010-01,4701,4564,16,621660989,24,101,113,0,164,45,24,62,8,0,16,3,4,Alto,1,Baixo,1,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo
+6057014,es un secreto,plan b,1,2010,7,20,2010-07-20,2010-07,515,492,36,540654286,4,3,19,0,95,84,52,77,12,0,7,4,1,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo,1,Baixo
+5046895,talking to the moon,bruno mars,1,2010,10,4,2010-10-04,2010-10,7976,7109,2,1062956628,5,0,862,0,146,52,7,61,51,0,11,3,4,Alto,1,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo
+2237089,rolling in the deep,adele,1,2010,11,29,2010-11-29,2010-11,42159,35684,6,1472799873,195,125,6280,2,105,73,52,76,13,0,5,3,2,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,2,Baixo,1,Baixo,1,Baixo
+4350729,set fire to the rain,adele,1,2011,1,1,2011-01-01,2011-01,16990,14739,43,1163620694,88,112,2163,5,108,61,47,68,0,0,13,3,2,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,2,Baixo,3,Baixo,1,Baixo
+1216337,summertime sadness,lana del rey,1,2011,1,1,2011-01-01,2011-01,22054,20333,52,983637508,89,143,1632,3,112,56,24,66,7,0,12,3,2,Baixo,1,Baixo,1,Baixo,2,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo
+7921549,bloody mary,lady gaga,1,2011,1,1,2011-01-01,2011-01,4252,3909,0,372476382,66,26,277,3,100,59,49,65,2,0,13,3,2,Baixo,2,Baixo,2,Baixo,2,Baixo,1,Baixo,3,Baixo,3,Baixo,1,Baixo
+5666047,mistletoe,justin bieber,1,2011,1,1,2011-01-01,2011-01,10082,9577,0,629173063,195,111,310,0,162,67,88,54,51,0,9,4,4,Alto,2,Baixo,4,Alto,2,Baixo,4,Alto,1,Baixo,1,Baixo,1,Baixo
+7546342,it s beginning to look a lot like christmas,michael bubl ,1,2011,10,14,2011-10-14,2011-10,12937,12353,0,807561936,35,0,549,0,93,35,38,23,91,0,29,3,1,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo
+8895699,sweater weather,the neighbourhood,1,2012,5,14,2012-05-14,2012-05,17635,16413,61,2282771485,166,87,1056,1,124,61,41,81,5,2,10,3,3,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto,2,Baixo,1,Baixo
+5999455,why d you only call me when you re high ,arctic monkeys,1,2013,1,1,2013-01-01,2013-01,24532,23389,29,1267333350,54,70,1089,2,92,70,81,63,4,0,8,4,1,Baixo,3,Baixo,4,Alto,2,Baixo,1,Baixo,1,Baixo,1,Baixo,1,Baixo
+2664577,do i wanna know ,arctic monkeys,1,2013,1,1,2013-01-01,2013-01,36649,33783,26,1788326445,133,92,2733,1,85,55,42,53,17,0,22,3,1,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo,3,Baixo,1,Baixo
+1406287,i wanna be yours,arctic monkeys,1,2013,1,1,2013-01-01,2013-01,13465,12859,110,1297026226,24,98,582,2,135,48,44,42,12,2,11,3,3,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,2,Baixo,1,Baixo
+4152167,all of me,john legend,1,2013,8,1,2013-08-01,2013-08,32063,27221,0,2086124197,308,118,4534,2,120,42,33,26,92,0,13,3,2,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo
+8126826,ginseng strip 2002,yung lean,1,2013,8,16,2013-08-16,2013-08,4436,4310,0,240769997,13,0,113,1,115,60,37,71,8,0,48,4,2,Baixo,2,Baixo,2,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo
+3181974,thinking out loud,ed sheeran,1,2014,1,1,2014-01-01,2014-01,37290,33032,0,2280566092,363,129,3895,0,79,78,58,45,47,0,18,3,1,Baixo,4,Alto,3,Baixo,1,Baixo,4,Alto,1,Baixo,3,Baixo,1,Baixo
+7456153,the nights,avicii,1,2014,1,1,2014-01-01,2014-01,18728,17354,8,1456081449,92,122,1282,0,126,53,66,85,2,0,24,4,3,Baixo,1,Baixo,3,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto,1,Baixo
+4635311,after dark,mr kitty,1,2014,8,8,2014-08-08,2014-08,1780,1776,14,646886885,1,9,3,0,140,58,4,60,7,41,8,3,3,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo,1,Baixo
+4795987,night changes,one direction,1,2014,11,17,2014-11-17,2014-11,7186,7124,18,1131090940,60,20,2,0,120,67,40,52,86,0,12,4,2,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo
+8584244,i love you so,the walters,1,2014,11,28,2014-11-28,2014-11,7715,7536,7,972164968,44,19,135,0,76,58,46,67,65,0,13,4,1,Baixo,2,Baixo,2,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo
+4765423,space song,beach house,1,2015,1,1,2015-01-01,2015-01,18256,17852,4,789753877,69,76,335,0,147,51,62,79,22,13,14,3,4,Alto,1,Baixo,3,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo,1,Baixo
+7792660,wait a minute ,willow,1,2015,1,11,2015-01-11,2015-01,12314,11985,0,924193303,79,80,250,3,101,76,63,71,3,0,10,3,2,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,2,Baixo,2,Baixo,1,Baixo
+1630789,the night we met,lord huron,1,2015,2,2,2015-02-02,2015-02,19524,18515,35,1410088830,70,82,939,1,174,45,10,37,97,25,64,4,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo
+1168222,atlantis,seafret,1,2015,4,22,2015-04-22,2015-04,3222,3045,6,571386359,43,53,134,1,166,40,23,48,5,0,12,3,4,Alto,1,Baixo,1,Baixo,1,Baixo,1,Baixo,3,Baixo,3,Baixo,1,Baixo
+6950436,alien blues,vundabar,1,2015,7,24,2015-07-24,2015-07,1961,1930,0,370068639,3,0,28,0,82,47,44,76,8,91,9,3,1,Baixo,1,Baixo,2,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,1,Baixo
+2634614,daddy issues,the neighbourhood,1,2015,10,30,2015-10-30,2015-10,10197,9771,4,1127468248,42,70,384,0,85,59,33,52,7,15,12,3,1,Baixo,2,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,2,Baixo,1,Baixo
+7498965,house of memories,panic at the disco,1,2016,1,15,2016-01-15,2016-01,3108,2948,0,582863434,10,2,150,0,110,51,48,82,0,0,5,3,2,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,1,Baixo
+3872585,pope is a rockstar,sales,1,2016,4,20,2016-04-20,2016-04,2020,1966,0,156658366,4,2,50,0,90,73,31,45,85,24,11,3,1,Baixo,3,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo
+5831523,closer,the chainsmokers halsey,2,2016,5,31,2016-05-31,2016-05,30526,28032,0,2591224264,315,159,2179,0,95,75,64,52,41,0,11,3,1,Baixo,3,Baixo,3,Baixo,1,Baixo,3,Baixo,3,Baixo,2,Baixo,1,Baixo
+4944285,me and your mama,childish gambino,1,2016,11,10,2016-11-10,2016-11,8915,8775,0,445590495,33,60,107,1,118,56,25,45,1,3,7,3,2,Baixo,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,1,Baixo
+2886961,snowman,sia,1,2017,1,1,2017-01-01,2017-01,5725,5140,0,690104769,85,110,500,0,105,72,33,51,48,0,9,3,2,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,1,Baixo,1,Baixo
+3253565,perfect,ed sheeran,1,2017,1,1,2017-01-01,2017-01,18697,16596,13,2559529074,7,0,2094,0,95,60,17,45,16,0,11,2,1,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo
+6523480,something just like this,the chainsmokers coldplay,2,2017,2,22,2017-02-22,2017-02,26403,23375,21,2204080728,336,188,2692,3,103,61,47,65,3,0,17,4,2,Baixo,2,Baixo,2,Baixo,2,Baixo,1,Baixo,1,Baixo,3,Baixo,1,Baixo
+1323431,apocalypse,cigarettes after sex,1,2017,3,21,2017-03-21,2017-03,13942,13091,17,841749534,61,96,790,2,94,37,17,47,2,46,11,3,1,Baixo,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,2,Baixo,1,Baixo
+4495422,dandelions,ruth b ,1,2017,4,28,2017-04-28,2017-04,3523,3423,21,1116995633,41,100,59,1,117,61,45,69,2,0,9,3,2,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,2,Baixo,1,Baixo,1,Baixo
+8186517,infinity,jaymes young,1,2017,6,23,2017-06-23,2017-06,4795,4375,0,888046992,24,0,396,0,122,67,50,67,15,0,30,4,3,Baixo,2,Baixo,2,Baixo,3,Baixo,2,Baixo,3,Baixo,4,Alto,1,Baixo
+4826716,lovely bonus track,billie eilish khalid,2,2017,8,11,2017-08-11,2017-08,16331,15032,30,2355719893,221,96,1078,2,115,35,12,30,93,0,10,3,2,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo
+4824782,good looking,suki waterhouse,1,2017,10,20,2017-10-20,2017-10,2300,2264,0,184706613,11,6,25,0,150,37,27,56,8,0,13,3,4,Alto,1,Baixo,1,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo
+8797570,cold heart pnau remix,dua lipa elton john pnau,3,2017,11,10,2017-11-10,2017-11,22515,21097,52,1605224506,384,135,1034,37,116,80,92,80,4,0,10,3,2,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo,3,Baixo,2,Baixo,1,Baixo
+1471634,softcore,the neighbourhood,1,2018,3,9,2018-03-09,2018-03,4073,3947,12,599770206,33,102,93,0,94,57,36,58,5,0,15,3,1,Baixo,1,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo,1,Baixo
+6029543,i was never there,the weeknd gesaffelstein,2,2018,3,29,2018-03-29,2018-03,4360,4188,15,705469769,30,70,142,0,114,32,17,74,14,0,17,3,2,Baixo,1,Baixo,1,Baixo,3,Baixo,2,Baixo,1,Baixo,3,Baixo,1,Baixo
+1611239,let me down slowly,alec benjamin,1,2018,5,25,2018-05-25,2018-05,6782,5897,19,1374581173,0,0,885,0,150,65,51,55,73,0,14,3,4,Alto,2,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,3,Baixo,1,Baixo
+2699923,slow dancing in the dark,joji,1,2018,9,12,2018-09-12,2018-09,10314,10211,0,1122364376,38,79,65,0,89,52,28,48,54,1,19,3,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,3,Baixo,1,Baixo
+5074676,shallow,lady gaga bradley cooper,2,2018,9,27,2018-09-27,2018-09,19858,16636,12,2159346687,368,155,2854,6,96,57,30,40,38,0,26,3,1,Baixo,1,Baixo,1,Baixo,1,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo
+8408827,someone you loved,lewis capaldi,1,2018,11,8,2018-11-08,2018-11,20076,17836,53,2887241814,440,125,1800,0,110,50,45,41,75,0,11,3,2,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo
+5476124,we fell in love in october,girl in red,1,2018,11,21,2018-11-21,2018-11,6904,6858,0,723043854,31,21,15,0,130,57,24,37,11,18,16,3,3,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo,4,Alto,3,Baixo,1,Baixo
+6002262,lost in the fire,the weeknd gesaffelstein,2,2019,1,11,2019-01-11,2019-01,8288,7731,2,686734357,110,145,447,0,101,66,18,68,9,0,12,4,2,Baixo,2,Baixo,1,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo
+6181977,arcade,duncan laurence,1,2019,3,7,2019-03-07,2019-03,7337,6646,0,991336132,107,47,584,1,72,45,27,33,82,0,14,4,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,3,Baixo,1,Baixo
+8251078,those eyes,new west,1,2019,5,10,2019-05-10,2019-05,1575,1507,14,411747614,24,71,44,1,120,60,24,35,73,0,31,3,2,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo
+1660982,se o,shawn mendes camila cabello,2,2019,6,19,2019-06-19,2019-06,17248,15010,2,2484812918,453,50,1785,1,117,76,77,52,4,0,8,3,2,Baixo,3,Baixo,4,Alto,1,Baixo,1,Baixo,1,Baixo,1,Baixo,1,Baixo
+2020928,circles,post malone,1,2019,8,30,2019-08-30,2019-08,20688,19664,16,2132335812,391,73,633,3,120,70,59,75,24,0,9,4,2,Baixo,3,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,1,Baixo,1,Baixo
+1050544,forever,labrinth,1,2019,10,4,2019-10-04,2019-10,3777,3618,0,282883169,21,86,138,0,80,56,19,46,92,72,11,3,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo
+8290102,formula,labrinth,1,2019,10,4,2019-10-04,2019-10,3570,3444,7,554875730,24,85,102,0,145,57,23,66,4,6,15,4,4,Alto,2,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo,1,Baixo
+4812397,car s outside,james arthur,1,2019,10,18,2019-10-18,2019-10,893,794,10,265882712,38,25,61,0,150,34,24,56,4,0,11,3,4,Alto,1,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,1,Baixo
+5400474,san lucas,kevin kaarl,1,2019,11,7,2019-11-07,2019-11,417,407,1,244891912,5,0,5,0,92,58,27,36,86,0,9,3,1,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo
+6327262,falling,harry styles,1,2019,12,13,2019-12-13,2019-12,7934,7556,0,1023187129,124,24,254,0,110,57,6,27,84,0,9,3,2,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo
+3347693,after hours,the weeknd,1,2020,2,19,2020-02-19,2020-02,8347,8084,6,698086140,45,115,218,1,109,66,16,57,10,1,12,3,2,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo,4,Alto,2,Baixo,1,Baixo
+3775590,la zona,bad bunny,1,2020,2,29,2020-02-29,2020-02,1216,1188,0,312622938,13,1,15,0,94,76,81,80,20,0,25,4,1,Baixo,3,Baixo,4,Alto,4,Alto,3,Baixo,3,Baixo,4,Alto,1,Baixo
+2079388,meet me at our spot,the anxiety willow tyler cole,3,2020,3,13,2020-03-13,2020-03,6871,6734,0,530511203,47,14,90,0,95,77,40,47,2,0,9,3,1,Baixo,3,Baixo,2,Baixo,1,Baixo,1,Baixo,1,Baixo,1,Baixo,1,Baixo
+1961503,save your tears,the weeknd,1,2020,3,20,2020-03-20,2020-03,12997,12688,13,1591223784,197,115,112,0,118,68,61,82,2,0,50,3,2,Baixo,2,Baixo,3,Baixo,4,Alto,1,Baixo,1,Baixo,4,Alto,1,Baixo
+5864281,heather,conan gray,1,2020,3,20,2020-03-20,2020-03,6483,6170,7,1301799902,82,1,231,0,92,47,25,43,62,0,32,3,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,2,Baixo,4,Alto,1,Baixo
+5142009,save your tears with ariana grande remix ,ariana grande the weeknd,2,2020,3,20,2020-03-20,2020-03,9869,9161,5,1221813483,240,98,468,3,118,65,63,79,3,0,10,3,2,Baixo,2,Baixo,3,Baixo,4,Alto,1,Baixo,2,Baixo,2,Baixo,1,Baixo
+7179210,still with you,jung kook,1,2020,6,5,2020-06-05,2020-06,41,31,39,38411956,2,107,8,0,88,53,34,47,9,0,83,4,1,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo
+6556428,august,taylor swift,1,2020,7,24,2020-07-24,2020-07,7410,7324,22,607123776,25,81,61,1,90,51,42,61,53,0,9,3,1,Baixo,1,Baixo,2,Baixo,2,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo
+1839223,mood feat iann dior ,24kgoldn iann dior,2,2020,7,24,2020-07-24,2020-07,13727,12854,0,1699402402,237,27,636,0,91,70,76,72,22,0,27,4,1,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo,4,Alto,1,Baixo
+1203746,bad habits,ed sheeran,1,2020,9,3,2020-09-03,2020-09,14044,12755,8,1555511105,344,97,945,15,126,81,59,90,5,0,36,3,3,Baixo,4,Alto,3,Baixo,4,Alto,1,Baixo,1,Baixo,4,Alto,1,Baixo
+5106082,angels like you,miley cyrus,1,2020,11,27,2020-11-27,2020-11,3575,3372,19,570515054,65,48,138,1,122,67,49,64,10,0,10,3,3,Baixo,2,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,2,Baixo,1,Baixo
+7243247,i really want to stay at your house,rosa walton hallie coggins,2,2020,12,18,2020-12-18,2020-12,699,668,1,140430339,0,0,31,0,125,49,13,74,0,0,9,4,3,Baixo,1,Baixo,1,Baixo,3,Baixo,1,Baixo,2,Baixo,1,Baixo,1,Baixo
+7345306,leave the door open,bruno mars anderson paak silk sonic,3,2021,3,5,2021-03-05,2021-03,15223,14417,0,1115880852,237,123,569,0,148,59,72,62,18,0,9,3,4,Alto,2,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo,1,Baixo,1,Baixo
+5624903,i wanna be your slave,m ne,1,2021,3,19,2021-03-19,2021-03,5372,4873,0,851070493,65,88,434,3,133,75,96,61,0,0,18,4,3,Baixo,3,Baixo,4,Alto,2,Baixo,1,Baixo,1,Baixo,3,Baixo,1,Baixo
+3090144,you belong with me taylor s ve,taylor swift,1,2021,4,9,2021-04-09,2021-04,2667,2619,12,350381515,47,90,1,0,130,63,49,73,5,0,9,3,3,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,2,Baixo,1,Baixo,1,Baixo
+8360758,kiss me more feat sza ,sza doja cat,2,2021,4,9,2021-04-09,2021-04,16746,15867,0,1575467011,382,65,497,0,111,77,74,66,30,0,13,3,2,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo,4,Alto,3,Baixo,1,Baixo
+3739768,por las noches,peso pluma,1,2021,6,11,2021-06-11,2021-06,469,457,24,330346424,8,116,4,3,92,81,39,60,31,0,7,3,1,Baixo,4,Alto,2,Baixo,2,Baixo,3,Baixo,1,Baixo,1,Baixo,1,Baixo
+4365318,pepas,farruko,1,2021,6,24,2021-06-24,2021-06,15331,14114,17,1309887447,252,109,965,20,130,76,44,77,1,0,13,3,3,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,1,Baixo,3,Baixo,1,Baixo
+5459112,permission to dance,bts,1,2021,7,9,2021-07-09,2021-07,1952,1801,2,608334048,77,134,74,0,125,70,65,74,1,0,34,4,3,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,3,Baixo,4,Alto,1,Baixo
+4782067,happier than ever edit,billie eilish,1,2021,7,28,2021-07-28,2021-07,2016,1959,0,412795151,19,0,38,0,81,45,12,57,7,0,23,3,1,Baixo,1,Baixo,1,Baixo,2,Baixo,2,Baixo,4,Alto,4,Alto,1,Baixo
+5737293,happier than ever,billie eilish,1,2021,7,30,2021-07-30,2021-07,8897,8476,0,1056760045,138,133,283,0,65,31,31,24,76,0,14,4,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo
+8641758,until i found you,stephen sanchez,1,2021,9,1,2021-09-01,2021-09,4650,4427,4,726434358,69,100,154,20,202,34,25,51,69,0,18,4,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,3,Baixo,1,Baixo
+7429862,angel baby,troye sivan,1,2021,9,9,2021-09-09,2021-09,2043,1959,9,408843328,52,25,32,0,145,56,41,57,1,0,13,3,4,Alto,1,Baixo,2,Baixo,2,Baixo,1,Baixo,3,Baixo,3,Baixo,1,Baixo
+4162862,my universe,coldplay bts,2,2021,9,24,2021-09-24,2021-09,6127,6127,13,1061966512,0,0,0,0,105,58,42,68,1,0,14,4,2,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,2,Baixo,3,Baixo,1,Baixo
+4727736,better days neiked x mae muller x polo g ,neiked mae muller polo g,3,2021,9,24,2021-09-24,2021-09,4269,4091,0,421040617,105,2,73,13,110,72,67,68,0,0,14,4,2,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,3,Baixo,1,Baixo
+7732446,easy on me,adele,1,2021,10,14,2021-10-14,2021-10,11110,10195,20,1406111294,258,87,657,22,142,60,13,37,58,0,13,3,4,Alto,2,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo
+4421880,tacones rojos,sebastian yatra,1,2021,10,22,2021-10-22,2021-10,3209,3047,9,510876816,77,31,85,5,123,75,93,86,8,0,14,3,3,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,2,Baixo,3,Baixo,1,Baixo
+1001428,the motto,ti sto ava,2,2021,11,4,2021-11-04,2021-11,9659,9151,6,656013912,240,107,268,0,118,75,46,76,3,0,9,4,2,Baixo,3,Baixo,2,Baixo,3,Baixo,1,Baixo,1,Baixo,1,Baixo,1,Baixo
+6719600,all too well 10 minute version taylor s version from the vault ,taylor swift,1,2021,11,12,2021-11-12,2021-11,4715,4635,5,583687007,50,49,30,1,93,63,21,52,28,0,9,3,1,Baixo,2,Baixo,1,Baixo,1,Baixo,3,Baixo,1,Baixo,1,Baixo,1,Baixo
+3657141,what else can i do ,stephanie beatriz diane guerrero,2,2021,11,19,2021-11-19,2021-11,823,802,0,154797871,13,27,8,0,120,72,54,71,26,0,10,4,2,Baixo,3,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,2,Baixo,1,Baixo
+4923214,it ll be okay,shawn mendes,1,2021,12,1,2021-12-01,2021-12,2110,1950,0,287201015,56,8,104,0,78,40,7,29,62,0,9,3,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo
+3521113,christmas tree,v,1,2021,12,24,2021-12-24,2021-12,523,509,9,317622165,8,106,6,0,139,44,18,38,70,0,12,4,3,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo
+4600873,when i m gone with katy,katy perry alesso,2,2021,12,29,2021-12-29,2021-12,3424,3270,0,226897599,89,21,65,0,125,69,70,89,4,0,49,3,3,Baixo,2,Baixo,3,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto,1,Baixo
+8941056,entre nosotros remix con nicki nicole ,lit killah maria becerra tiago pzk nicki nicole,4,2022,1,5,2022-01-05,2022-01,803,759,3,236940480,32,0,12,0,170,70,61,44,40,0,37,4,4,Alto,3,Baixo,3,Baixo,1,Baixo,3,Baixo,3,Baixo,4,Alto,1,Baixo
+2717112,starry eyes,the weeknd,1,2022,1,7,2022-01-07,2022-01,1026,1014,0,74601456,1,17,11,0,86,28,13,41,50,0,19,3,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo
+5426643,less than zero,the weeknd,1,2022,1,7,2022-01-07,2022-01,2879,2800,0,200660871,18,77,61,0,143,53,50,79,0,0,8,3,4,Alto,1,Baixo,2,Baixo,4,Alto,1,Baixo,3,Baixo,1,Baixo,1,Baixo
+2038144,don t break my,the weeknd,1,2022,1,7,2022-01-07,2022-01,1191,1184,0,63803529,1,5,6,0,122,77,25,62,34,0,23,3,3,Baixo,3,Baixo,1,Baixo,2,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo
+8715137,miserable man,david kushner,1,2022,1,7,2022-01-07,2022-01,833,788,0,124407432,13,0,32,1,110,63,31,35,93,0,29,3,2,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo
+6145430,here we go again feat tyler the cr,the weeknd tyler the creator,3,2022,1,7,2022-01-07,2022-01,1434,1420,0,88103848,7,18,7,0,135,41,27,64,36,0,60,3,3,Baixo,1,Baixo,1,Baixo,2,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo
+4491971,is there someone else ,the weeknd,1,2022,1,7,2022-01-07,2022-01,2928,2881,6,391251368,13,89,34,0,135,70,60,58,4,0,16,3,3,Baixo,3,Baixo,3,Baixo,2,Baixo,1,Baixo,1,Baixo,3,Baixo,1,Baixo
+6429519,where did you go ,mnek jax jones,2,2022,1,26,2022-01-26,2022-01,4785,4531,0,300983101,135,74,119,1,127,77,53,78,19,0,29,4,3,Baixo,3,Baixo,3,Baixo,4,Alto,3,Baixo,2,Baixo,4,Alto,1,Baixo
+6554322,brividi,mahmood blanco,2,2022,2,2,2022-02-02,2022-02,1240,1175,0,135079152,34,1,31,0,123,52,44,60,40,0,26,3,3,Baixo,1,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo,4,Alto,1,Baixo
+4703367,i m tired from euphoria an original hbo series,labrinth,1,2022,2,4,2022-02-04,2022-02,1972,1888,0,121913181,26,1,58,0,71,28,26,20,19,0,30,3,1,Baixo,1,Baixo,1,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto,1,Baixo
+1392259,ojos marrones,lasso,1,2022,2,6,2022-02-06,2022-02,836,795,11,263280370,26,18,15,1,120,81,72,65,4,0,14,4,2,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo,2,Baixo,3,Baixo,1,Baixo
+6363032,calm down,r ,1,2022,2,9,2022-02-09,2022-02,4870,4013,10,445763624,107,44,750,22,107,81,82,78,38,0,12,4,2,Baixo,4,Alto,4,Alto,4,Alto,3,Baixo,4,Alto,2,Baixo,1,Baixo
+1130135,the joker and the queen feat taylor swift ,ed sheeran taylor swift,2,2022,2,11,2022-02-11,2022-02,1510,1430,0,146789379,46,1,34,0,134,53,31,31,92,0,28,3,3,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,2,Baixo,4,Alto,1,Baixo
+2153574,ya no somos ni seremos,christian nodal,1,2022,2,18,2022-02-18,2022-02,925,866,16,319757142,27,84,32,7,140,59,73,45,44,0,34,3,3,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo
+7860258,bam bam feat ed sheeran ,camila cabello ed sheeran,2,2022,3,4,2022-03-04,2022-03,6788,6111,4,756907987,185,40,492,9,95,76,96,70,18,0,33,4,1,Baixo,3,Baixo,4,Alto,3,Baixo,2,Baixo,4,Alto,4,Alto,1,Baixo
+6009839,plan a,paulo londra,1,2022,3,23,2022-03-23,2022-03,1156,1105,0,240661097,32,0,19,0,174,58,56,83,5,0,7,4,4,Alto,2,Baixo,3,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo,1,Baixo
+2987518,rumbat ,daddy yankee,1,2022,3,25,2022-03-25,2022-03,1336,1264,0,157990698,20,4,52,0,95,69,90,91,6,0,35,4,1,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,4,Alto,1,Baixo
+2150360,soy el unico,yahritza y su esencia,1,2022,3,25,2022-03-25,2022-03,235,226,0,126443991,5,0,4,0,84,71,63,45,45,0,11,3,1,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo
+3448376,calm down with selena gomez ,r ma selena g,2,2022,3,25,2022-03-25,2022-03,7632,7112,77,899183384,202,119,318,38,107,80,82,80,43,0,14,4,2,Baixo,4,Alto,4,Alto,4,Alto,4,Alto,1,Baixo,3,Baixo,1,Baixo
+4518298,when you re gone,shawn mendes,1,2022,3,31,2022-03-31,2022-03,2211,2092,0,255120451,75,11,44,0,147,60,58,69,2,0,58,4,4,Alto,2,Baixo,3,Baixo,3,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo
+3108040,still life,bigbang,1,2022,4,5,2022-04-05,2022-04,204,181,0,53909146,16,14,7,0,118,68,24,58,44,0,6,3,2,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo,1,Baixo,1,Baixo
+7477767,evergreen you didn t deserve me a,omar apollo,1,2022,4,8,2022-04-08,2022-04,2618,2499,0,227918678,70,0,49,0,82,70,31,34,60,1,11,4,1,Baixo,3,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo
+7653113,ceilings,lizzy mcalpine,1,2022,4,8,2022-04-08,2022-04,3357,3242,9,293186992,67,55,48,0,148,51,27,33,48,0,22,3,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo
+6107898,something in the orange,zach bryan,1,2022,4,22,2022-04-22,2022-04,3395,3282,12,449701773,67,84,46,16,110,59,22,38,42,0,12,3,2,Baixo,2,Baixo,1,Baixo,1,Baixo,3,Baixo,2,Baixo,2,Baixo,1,Baixo
+7680579,until i found you with em beihold em beihold version,em beihold stephen sanchez,2,2022,4,22,2022-04-22,2022-04,2921,2790,30,600976848,60,96,71,0,101,34,32,57,78,0,20,3,2,Baixo,1,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo,3,Baixo,1,Baixo
+8272175,with you,ha sung woon jimin,2,2022,4,24,2022-04-24,2022-04,358,343,2,240580042,4,35,11,1,150,53,14,43,64,0,13,3,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,3,Baixo,1,Baixo
+3132809,no se va,grupo frontera,1,2022,4,28,2022-04-28,2022-04,963,924,18,404887295,17,80,22,9,173,59,69,53,12,0,23,3,4,Alto,2,Baixo,3,Baixo,1,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo
+8238387,hold my hand,lady gaga,1,2022,5,3,2022-05-03,2022-05,2861,2528,0,238350348,63,8,270,2,148,51,21,63,5,0,41,3,4,Alto,1,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo
+3647986,otro atardecer,bad bunny the mar ,2,2022,5,6,2022-05-06,2022-05,1704,1681,7,319546754,10,30,13,0,108,78,55,60,59,0,7,4,2,Baixo,3,Baixo,3,Baixo,2,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo
+7384134,ojitos lindos,bomba est reo bad b,2,2022,5,6,2022-05-06,2022-05,6305,6135,38,1133865788,71,113,99,13,80,65,27,69,8,0,53,4,1,Baixo,2,Baixo,1,Baixo,3,Baixo,2,Baixo,3,Baixo,4,Alto,1,Baixo
+4662762,tarot,bad bunny jhay cortez,2,2022,5,6,2022-05-06,2022-05,2531,2482,20,608228647,27,77,22,2,114,80,42,68,2,0,66,4,2,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo
+1459555,moscow mule,bad bunny,1,2022,5,6,2022-05-06,2022-05,4731,4572,33,909001996,74,113,85,9,100,80,29,67,29,0,12,3,2,Baixo,4,Alto,1,Baixo,3,Baixo,3,Baixo,2,Baixo,2,Baixo,1,Baixo
+6402604,thought you should know,morgan wallen,1,2022,5,6,2022-05-06,2022-05,985,968,4,203221468,16,53,1,0,140,53,51,70,49,0,14,3,3,Baixo,1,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo
+2645476,tak ingin usai,keisya levronka,1,2022,5,13,2022-05-13,2022-05,236,220,4,184807630,16,5,0,0,130,49,14,40,82,0,11,3,3,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo
+7556948,crown,kendrick lamar,1,2022,5,13,2022-05-13,2022-05,1505,1493,0,42485571,2,0,10,0,170,37,14,24,80,0,11,4,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo
+3575524,you proof,morgan wallen,1,2022,5,13,2022-05-13,2022-05,2174,2128,9,367814306,37,88,9,0,120,73,64,85,25,0,61,3,2,Baixo,3,Baixo,3,Baixo,4,Alto,3,Baixo,4,Alto,4,Alto,1,Baixo
+4809507,en el radio un cochinero,victor cibrian,1,2022,5,13,2022-05-13,2022-05,520,514,0,164856284,5,36,1,0,154,70,97,62,47,0,10,4,4,Alto,3,Baixo,4,Alto,2,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo
+7697062,cinema,harry styles,1,2022,5,20,2022-05-20,2022-05,2217,2171,0,189236868,18,1,28,0,106,83,90,64,35,5,9,4,2,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,4,Alto,1,Baixo,1,Baixo
+8507943,grapejuice,harry styles,1,2022,5,20,2022-05-20,2022-05,2008,1986,0,199587884,7,1,15,0,183,65,88,72,36,14,20,3,4,Alto,2,Baixo,4,Alto,3,Baixo,3,Baixo,4,Alto,3,Baixo,1,Baixo
+4505539,satellite,harry styles,1,2022,5,20,2022-05-20,2022-05,3413,3291,5,311482393,43,28,79,0,139,58,30,46,14,0,9,3,3,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo,2,Baixo,1,Baixo,1,Baixo
+1436447,daylight,harry styles,1,2022,5,20,2022-05-20,2022-05,2836,2775,0,290833204,21,11,40,0,146,69,63,45,48,0,18,4,4,Alto,2,Baixo,3,Baixo,1,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo
+5154676,matilda,harry styles,1,2022,5,20,2022-05-20,2022-05,3326,3218,3,366214458,29,10,79,0,114,51,39,29,90,0,10,4,2,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo
+7543802,daydreaming,harry styles,1,2022,5,20,2022-05-20,2022-05,1938,1900,1,187703102,15,1,23,0,114,71,90,81,31,2,13,3,2,Baixo,3,Baixo,4,Alto,4,Alto,3,Baixo,4,Alto,3,Baixo,1,Baixo
+1740150,kahani suno 2 0,kaifi khalil,1,2022,5,31,2022-05-31,2022-05,164,162,6,156777415,1,10,1,0,140,58,26,38,91,0,10,4,3,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo
+4618597,for youth,bts,1,2022,6,10,2022-06-10,2022-06,344,327,0,114546317,5,40,12,0,117,63,29,51,43,0,25,4,2,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo
+2773298,don t you worry,david guetta shakira black eyed peas,3,2022,6,16,2022-06-16,2022-06,2771,2442,0,240918092,81,4,248,1,132,82,49,88,20,0,21,3,3,Baixo,4,Alto,2,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo,1,Baixo
+2577311,left and right feat jung kook of bts ,charlie puth bts jung kook,3,2022,6,24,2022-06-24,2022-06,3149,3107,39,720434240,38,0,4,0,101,88,72,59,62,0,9,3,2,Baixo,4,Alto,4,Alto,2,Baixo,4,Alto,4,Alto,1,Baixo,1,Baixo
+4431554,quevedo bzrp music sessions vol 52,bizarrap quevedo,2,2022,7,6,2022-07-06,2022-07,8764,8506,45,1356565093,94,65,164,14,128,62,55,78,1,3,23,4,3,Baixo,2,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo,1,Baixo
+8171348,come back home from purple hearts ,sofia carson,1,2022,7,12,2022-07-12,2022-07,590,367,0,97610446,28,67,195,0,145,56,43,53,24,0,12,4,4,Alto,1,Baixo,2,Baixo,1,Baixo,3,Baixo,2,Baixo,2,Baixo,1,Baixo
+3183051,golden hour,jvke,1,2022,7,15,2022-07-15,2022-07,4690,4511,36,751134527,70,58,109,18,94,51,14,59,65,18,25,3,1,Baixo,1,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo
+4890651,nonsense,sabrina carpenter,1,2022,7,15,2022-07-15,2022-07,2453,2346,27,342897938,69,12,38,8,139,74,68,68,3,0,26,4,3,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,4,Alto,1,Baixo
+5898111,here with me,d4vd,1,2022,7,17,2022-07-17,2022-07,3408,3246,23,635412045,94,85,68,1,132,58,27,48,50,0,12,3,3,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo
+3163708,kesariya from brahmastra ,pritam arijit singh amitabh bhattacharya,3,2022,7,17,2022-07-17,2022-07,322,292,6,366599607,26,98,4,0,94,58,44,57,57,0,10,3,1,Baixo,2,Baixo,2,Baixo,2,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo
+8013969,romantic homicide,d4vd,1,2022,7,20,2022-07-20,2022-07,2467,2335,23,681583126,82,55,50,0,132,56,20,55,45,1,32,3,3,Baixo,1,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo
+3317105,sin se ,ovy on the drums quevedo,2,2022,7,22,2022-07-22,2022-07,1128,1097,2,209106362,18,10,13,1,118,82,75,85,33,1,11,4,2,Baixo,4,Alto,4,Alto,4,Alto,3,Baixo,4,Alto,2,Baixo,1,Baixo
+4389214,komang,raim laode,1,2022,8,16,2022-08-16,2022-08,164,158,4,137123880,5,6,1,1,134,70,35,41,41,0,10,3,3,Baixo,3,Baixo,2,Baixo,1,Baixo,3,Baixo,1,Baixo,2,Baixo,1,Baixo
+8693885,forget me,lewis capaldi,1,2022,9,9,2022-09-09,2022-09,2697,2520,4,239411309,93,95,84,9,102,67,72,74,30,0,36,4,2,Baixo,2,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo,4,Alto,1,Baixo
+5904115,shut down,blackpink,1,2022,9,16,2022-09-16,2022-09,1639,1524,17,482175240,53,120,62,0,110,82,67,69,0,0,18,4,2,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo,3,Baixo,3,Baixo,1,Baixo
+3533833,celestial,ed sheeran,1,2022,9,29,2022-09-29,2022-09,1805,1639,0,176474912,86,14,80,0,123,57,50,85,5,0,16,4,3,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo,2,Baixo,3,Baixo,1,Baixo
+6321372,the loneliest,m ne,1,2022,10,7,2022-10-07,2022-10,1991,1585,5,225093344,78,65,328,1,130,52,24,60,0,0,8,3,3,Baixo,1,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo,1,Baixo
+4942277,maan meri jaan,king,1,2022,10,12,2022-10-12,2022-10,300,288,6,319566866,11,80,1,0,96,70,40,51,35,0,10,4,1,Baixo,3,Baixo,2,Baixo,1,Baixo,3,Baixo,4,Alto,2,Baixo,1,Baixo
+3910891,just wanna rock,lil uzi vert,1,2022,10,17,2022-10-17,2022-10,4114,3995,13,457184829,72,27,47,0,150,49,4,55,7,0,6,3,4,Alto,1,Baixo,1,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,1,Baixo
+6044216,qu ago,yuridia angela aguilar,2,2022,10,20,2022-10-20,2022-10,697,660,15,236857112,19,59,18,5,98,73,88,57,56,0,5,2,1,Baixo,3,Baixo,4,Alto,2,Baixo,4,Alto,1,Baixo,1,Baixo,1,Baixo
+5282587,snow on the beach feat lana del rey ,taylor swift lana del rey,2,2022,10,21,2022-10-21,2022-10,2478,2415,0,323437194,33,57,30,0,110,66,19,32,69,0,12,4,2,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo
+6372213,labyrinth,taylor swift,1,2022,10,21,2022-10-21,2022-10,1618,1597,0,187339835,6,3,15,0,110,48,15,31,80,22,12,4,2,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo
+6333549,malas decisiones,kenia os,1,2022,10,26,2022-10-26,2022-10,586,542,2,156214700,23,2,21,0,110,81,64,79,5,0,31,3,2,Baixo,4,Alto,3,Baixo,4,Alto,1,Baixo,1,Baixo,4,Alto,1,Baixo
+4343383,the astronaut,jin,1,2022,10,28,2022-10-28,2022-10,506,481,9,203436468,10,100,15,1,125,54,22,76,0,0,14,3,3,Baixo,1,Baixo,1,Baixo,3,Baixo,1,Baixo,2,Baixo,3,Baixo,1,Baixo
+4562499,lift me up from black panther wakanda forever music from and inspired by,rihanna,1,2022,10,28,2022-10-28,2022-10,3652,3311,0,297328960,129,31,212,1,177,25,17,30,90,0,13,3,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo
+3476877,my mind me,selena gomez,1,2022,11,3,2022-11-03,2022-11,1051,953,0,91473363,61,13,37,1,144,60,24,39,57,0,8,3,4,Alto,2,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,1,Baixo,1,Baixo
+3461405,antidepresan,mabel matiz mert demir,2,2022,11,4,2022-11-04,2022-11,330,313,2,136689549,10,6,7,1,100,70,92,59,3,0,10,3,2,Baixo,3,Baixo,4,Alto,2,Baixo,1,Baixo,3,Baixo,2,Baixo,1,Baixo
+3984533,con la brisa,ludwig goransson foudeqush,2,2022,11,4,2022-11-04,2022-11,501,486,0,71095708,8,1,7,0,114,62,25,44,51,33,14,3,2,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,3,Baixo,1,Baixo
+7021208,apna bana le from bhediya ,arijit singh sachin jigar,2,2022,11,5,2022-11-05,2022-11,97,86,0,139836056,11,101,0,0,94,59,44,56,80,0,6,3,1,Baixo,2,Baixo,2,Baixo,2,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo
+2817956,boy s a liar,pinkpantheress,1,2022,11,30,2022-11-30,2022-11,1280,1225,0,156338624,27,0,28,13,133,66,74,84,25,0,21,4,3,Baixo,2,Baixo,4,Alto,4,Alto,3,Baixo,1,Baixo,3,Baixo,1,Baixo
+3381390,tak segampang itu,anggi marito,1,2022,12,2,2022-12-02,2022-12,220,213,6,179659294,7,6,0,0,130,51,18,44,76,0,11,3,3,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo
+2840055,one thing at a time,morgan wallen,1,2022,12,2,2022-12-02,2022-12,827,811,4,148469433,11,58,5,0,142,61,92,91,0,0,26,3,4,Alto,2,Baixo,4,Alto,4,Alto,1,Baixo,2,Baixo,4,Alto,1,Baixo
+5025330,kill bill,sza,1,2022,12,8,2022-12-08,2022-12,8453,8109,77,1163093654,183,162,161,12,89,64,43,73,5,17,16,4,1,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,4,Alto,3,Baixo,1,Baixo
+2068804,zona de perigo,leo santana,1,2022,12,8,2022-12-08,2022-12,622,531,4,134294498,20,1,71,2,135,81,97,77,75,0,35,3,3,Baixo,4,Alto,4,Alto,3,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo
+5239763,le ,mar lia mendo,1,2022,12,9,2022-12-09,2022-12,1111,993,4,267789608,30,84,88,1,130,74,79,87,45,0,30,3,3,Baixo,3,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo,4,Alto,1,Baixo
+3923468,nobody gets me,sza,1,2022,12,9,2022-12-09,2022-12,2653,2536,6,284908316,59,100,58,13,100,36,28,28,81,0,18,3,2,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,3,Baixo,1,Baixo
+1936946,besharam rang from pathaan ,vishal shekhar shilpa rao caralisa monteiro kumaar vishal dadlani shekhar ravjiani,6,2022,12,12,2022-12-12,2022-12,153,130,4,140187018,21,79,2,0,116,77,65,80,6,0,15,4,2,Baixo,3,Baixo,3,Baixo,4,Alto,2,Baixo,4,Alto,3,Baixo,1,Baixo
+2437608,omg,newjeans,1,2023,1,2,2023-01-02,2023-01,1824,1783,27,430977451,26,124,15,1,127,80,74,77,36,0,11,4,3,Baixo,4,Alto,4,Alto,3,Baixo,3,Baixo,2,Baixo,2,Baixo,1,Baixo
+5911914,love again,the kid laroi,1,2023,1,27,2023-01-27,2023-01,1388,1283,0,147538971,57,4,48,0,107,66,47,40,72,0,11,3,2,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo
+3546129,everything i love,morgan wallen,1,2023,1,31,2023-01-31,2023-01,590,579,0,95623148,11,54,0,0,104,56,72,85,0,0,15,3,2,Baixo,1,Baixo,4,Alto,4,Alto,1,Baixo,1,Baixo,3,Baixo,1,Baixo
+2313207,watch this arizonatears pluggnb remix,sped up nightcore arizonatears lil uzi vert,3,2023,2,5,2023-02-05,2023-02,1659,1638,10,207033255,0,0,21,0,130,69,36,90,1,10,15,4,3,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo,1,Baixo
+4832204,if we ever broke up,mae stephens,1,2023,2,10,2023-02-10,2023-02,2187,2040,4,165584767,81,27,66,9,116,90,96,73,62,0,9,4,2,Baixo,4,Alto,4,Alto,3,Baixo,4,Alto,1,Baixo,1,Baixo,1,Baixo
+4538543,heaven,niall horan,1,2023,2,17,2023-02-17,2023-02,1662,1553,2,144584800,61,6,48,0,92,57,68,76,7,0,33,3,1,Baixo,1,Baixo,3,Baixo,3,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo
+2013796,cupid twin ver ,fifty fifty,1,2023,2,24,2023-02-24,2023-02,3111,2942,77,496795686,91,212,78,6,120,78,76,59,43,0,34,3,2,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo,3,Baixo,4,Alto,1,Baixo
+8571641,cupid,fifty fifty,1,2023,2,24,2023-02-24,2023-02,571,526,10,139681964,15,93,30,0,120,77,94,66,65,0,38,3,2,Baixo,3,Baixo,4,Alto,3,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo
+2820265,thinkin b,morgan wallen,1,2023,3,3,2023-03-03,2023-03,626,604,6,125917280,22,101,0,0,140,66,43,76,49,0,12,3,3,Baixo,2,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo
+1413502, 98 braves,morgan wallen,1,2023,3,3,2023-03-03,2023-03,288,282,0,56533272,6,15,0,0,142,49,48,67,10,0,26,3,4,Alto,1,Baixo,2,Baixo,3,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo
+3970396,man made a bar feat eric church ,morgan wallen eric church,2,2023,3,3,2023-03-03,2023-03,344,329,0,58890931,14,35,1,0,148,50,49,76,12,0,12,3,4,Alto,1,Baixo,2,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo
+3853127,ain t tha,morgan wallen,1,2023,3,3,2023-03-03,2023-03,360,356,4,88791109,4,20,0,0,121,64,67,80,0,0,36,3,3,Baixo,2,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto,4,Alto,1,Baixo
+5972088,devil don ,morgan wallen,1,2023,3,3,2023-03-03,2023-03,168,166,0,32526947,2,10,0,0,125,53,32,66,38,0,9,3,3,Baixo,1,Baixo,1,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,1,Baixo
+1892693,ella baila sola,eslabon armado peso pluma,2,2023,3,16,2023-03-16,2023-03,3167,3090,50,725980112,34,222,43,13,148,67,83,76,48,0,8,3,4,Alto,2,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo
+5243367,say yes to heaven,lana del rey,1,2023,3,17,2023-03-17,2023-03,2112,2000,46,127567540,49,105,63,1,100,49,17,35,71,9,11,3,2,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo
+8499304,fast car,luke combs,1,2023,3,24,2023-03-24,2023-03,1538,1446,12,157058870,57,97,35,0,98,71,67,60,19,0,12,3,1,Baixo,3,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo,2,Baixo,1,Baixo
+8091023,like crazy,jimin,1,2023,3,24,2023-03-24,2023-03,627,596,68,363369738,8,104,23,2,120,63,36,73,0,0,36,4,2,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,3,Baixo,4,Alto,1,Baixo
+7881394,like crazy english version ,jimin,1,2023,3,24,2023-03-24,2023-03,382,373,19,173627354,4,72,5,0,120,62,32,76,0,0,39,4,2,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo
+3143453,happy,nf,1,2023,3,25,2023-03-25,2023-03,693,660,0,52722996,22,7,11,0,106,73,22,86,31,0,12,4,2,Baixo,3,Baixo,1,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo,1,Baixo
+1710471,chanel,becky g peso pluma,2,2023,3,30,2023-03-30,2023-03,717,681,10,161460990,15,92,21,2,132,85,53,68,40,0,9,4,3,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo,2,Baixo,1,Baixo,1,Baixo
+4837745,flower,jisoo,1,2023,3,31,2023-03-31,2023-03,879,839,18,232896922,20,110,20,0,124,84,64,39,3,0,11,4,3,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo,4,Alto,2,Baixo,1,Baixo
+7107144,baby don t hurt me,david guetta anne marie coi leray,3,2023,4,6,2023-04-06,2023-04,4635,4277,66,177740666,145,111,213,11,128,60,23,91,0,0,12,3,3,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo,1,Baixo
+2708944,fr gil feat grupo front,yahritza y su esencia grupo frontera,2,2023,4,7,2023-04-07,2023-04,715,672,34,188933502,19,108,24,9,150,61,39,73,37,0,11,3,4,Alto,2,Baixo,2,Baixo,3,Baixo,3,Baixo,4,Alto,2,Baixo,1,Baixo
+5374189,daylight,david kushner,1,2023,4,14,2023-04-14,2023-04,3790,3528,98,387570742,80,156,182,24,130,51,32,43,83,0,9,3,3,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo
+2264316,double fantasy with future ,the weeknd future,2,2023,4,21,2023-04-21,2023-04,1233,1169,0,96180277,36,65,28,0,119,60,10,57,1,0,50,3,2,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo,3,Baixo,4,Alto,1,Baixo
+4916659,mami chula,quevedo jhayco,2,2023,4,27,2023-04-27,2023-04,919,875,4,61105704,17,13,27,0,120,80,33,70,22,0,9,4,2,Baixo,4,Alto,2,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,1,Baixo
+6271365,abcdario,junior h eden mu ,2,2023,5,13,2023-05-13,2023-05,274,262,5,89933133,8,60,4,1,129,70,42,43,78,0,11,3,3,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo
+5158640,america has a problem feat kendrick lamar ,kendrick lamar beyonc ,2,2023,5,19,2023-05-19,2023-05,963,896,0,57089066,34,2,33,0,126,78,20,70,1,0,16,4,3,Baixo,3,Baixo,1,Baixo,3,Baixo,1,Baixo,2,Baixo,3,Baixo,1,Baixo
+1166211,snow on the beach feat more lana del rey ,lana del rey taylor swift,2,2023,5,26,2023-05-26,2023-05,369,359,2,60350538,1,0,9,0,110,66,32,40,81,0,11,3,2,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo
+2101565,hits different,taylor swift,1,2023,5,26,2023-05-26,2023-05,568,547,0,68616963,15,15,6,0,106,67,24,78,15,0,30,4,2,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,3,Baixo,4,Alto,1,Baixo
+4053069,stand by me feat morgan wallen ,lil durk morgan wallen,2,2023,5,26,2023-05-26,2023-05,410,381,5,46065667,23,82,6,0,134,76,61,58,6,0,16,3,3,Baixo,3,Baixo,3,Baixo,2,Baixo,2,Baixo,1,Baixo,3,Baixo,1,Baixo
+6609930,am i dreaming metro boomin a ap rocky roisee ,a ap rocky metro boomin roisee,3,2023,6,2,2023-06-02,2023-06,772,727,16,94186466,17,60,28,1,90,60,13,53,4,0,21,4,1,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo,3,Baixo,3,Baixo,1,Baixo
+8365464,take two,bts,1,2023,6,9,2023-06-09,2023-06,719,674,47,118482347,20,106,25,4,93,62,57,59,3,0,38,3,1,Baixo,2,Baixo,3,Baixo,2,Baixo,1,Baixo,3,Baixo,4,Alto,1,Baixo
+3225408,lagunas,jasiel nu ez peso p,2,2023,6,22,2023-06-22,2023-06,64,58,18,39058561,2,106,4,2,116,77,79,62,33,1,15,3,2,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo,4,Alto,3,Baixo,1,Baixo
+7529779,i can see you taylor s version from the,taylor swift,1,2023,7,7,2023-07-07,2023-07,631,516,38,52135248,73,119,42,1,123,69,82,76,6,0,6,3,3,Baixo,2,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo,1,Baixo,1,Baixo
+6801500,enchanted taylor s version ,taylor swift,1,2023,7,7,2023-07-07,2023-07,188,148,24,39578178,32,93,8,2,82,51,22,53,1,0,15,3,1,Baixo,1,Baixo,1,Baixo,1,Baixo,1,Baixo,1,Baixo,3,Baixo,1,Baixo
+7366228,columbia,quevedo,1,2023,7,7,2023-07-07,2023-07,769,714,43,58149378,25,89,30,13,100,67,26,71,37,0,11,4,2,Baixo,2,Baixo,1,Baixo,3,Baixo,3,Baixo,4,Alto,2,Baixo,1,Baixo
+6063105,back to december taylor s version ,taylor swift,1,2023,7,7,2023-07-07,2023-07,160,139,17,39228929,16,72,5,0,142,50,20,64,1,0,12,3,4,Alto,1,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,1,Baixo
+1404326,what was i made for from the motion picture barbie ,billie eilish,1,2023,7,13,2023-07-13,2023-07,1048,873,104,30546883,80,227,95,24,78,44,14,9,96,0,10,3,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo
+4487095,overdrive,post malone,1,2023,7,14,2023-07-14,2023-07,477,410,36,14780425,36,32,31,1,140,56,48,73,0,0,35,4,3,Baixo,1,Baixo,2,Baixo,3,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo
+4082370,seven feat latto explicit ver ,latto jung kook,2,2023,7,14,2023-07-14,2023-07,641,553,147,141381703,43,263,45,10,125,80,89,83,31,0,8,4,3,Baixo,4,Alto,4,Alto,4,Alto,3,Baixo,1,Baixo,1,Baixo,1,Baixo
+3087104,the christmas song merry christmas to you remastered 1999,nat king cole,1,1946,11,1,1946-11-01,1946-11,11891,11500,0,389771964,140,72,251,0,139,36,22,15,84,0,11,4,3,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo,2,Baixo
+8753775,let it snow let it snow let it snow ,frank sinatra b swanson quartet,2,1950,1,1,1950-01-01,1950-01,11117,10585,0,473248298,126,108,406,0,143,60,86,32,88,0,34,6,4,Alto,2,Baixo,4,Alto,1,Baixo,4,Alto,2,Baixo,4,Alto,2,Baixo
+3092002,jingle bells remastered 1999,frank sinatra,1,1957,1,1,1957-01-01,1957-01,4423,4326,0,178660459,32,3,65,0,175,51,94,34,73,0,10,5,4,Alto,1,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo
+8576945,rockin around the christmas tree,brenda lee,1,1958,1,1,1958-01-01,1958-01,15391,14994,0,769213520,191,168,206,0,140,70,85,41,71,0,45,5,3,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo
+1291434,it s beginning to look a lot like christmas with mitchell ayres his orchestra ,perry como the fontane sisters mitchell ayres his orchestra,3,1958,1,1,1958-01-01,1958-01,6537,6290,0,295998468,89,39,158,0,113,73,72,32,77,0,15,5,2,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo
+4277985,let it snow let it snow let it snow ,dean martin,1,1959,11,16,1959-11-16,1959-11,6877,6512,0,446390129,88,1,277,0,134,45,72,24,91,0,18,4,3,Baixo,1,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,3,Baixo,2,Baixo
+3867590,christmas baby please come home ,darlene love,1,1963,11,22,1963-11-22,1963-11,9455,9122,0,242767149,121,58,212,0,126,34,35,76,39,0,8,5,3,Baixo,1,Baixo,2,Baixo,3,Baixo,3,Baixo,4,Alto,1,Baixo,2,Baixo
+4069645,feliz navidad,jos felic,1,1970,11,1,1970-11-01,1970-11,3819,3788,0,520034544,21,3,10,0,148,50,96,82,47,0,34,4,4,Alto,1,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo,4,Alto,2,Baixo
+3739389,bohemian rhapsody remastered 2011,queen,1,1975,10,31,1975-10-31,1975-10,46124,40112,3,2197010679,321,162,5691,8,71,41,23,40,27,0,30,5,1,Baixo,1,Baixo,1,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto,2,Baixo
+8729578,pass the dutchie,musical youth,1,1982,1,1,1982-01-01,1982-01,6282,5328,0,195918494,54,76,900,0,151,73,88,67,20,0,32,5,4,Alto,3,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo,4,Alto,2,Baixo
+7807270,miss you,southstar,1,1982,5,16,1982-05-16,1982-05,2216,2020,0,154356956,77,10,119,0,145,66,24,58,17,0,19,5,4,Alto,2,Baixo,1,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,2,Baixo
+7451979,take on me,a ha,1,1984,10,19,1984-10-19,1984-10,50069,44927,17,1479115056,34,0,5108,6,84,57,86,90,2,0,9,5,1,Baixo,1,Baixo,4,Alto,4,Alto,1,Baixo,3,Baixo,1,Baixo,2,Baixo
+7080917,sweet child o mine,guns n roses,1,1987,1,1,1987-01-01,1987-01,48179,41231,1,1553497987,228,151,6720,3,125,45,67,90,9,11,10,5,3,Baixo,1,Baixo,3,Baixo,4,Alto,2,Baixo,4,Alto,2,Baixo,2,Baixo
+6316146,creep,radiohead,1,1992,9,21,1992-09-21,1992-09,43677,36724,7,1271293243,146,72,6807,5,92,53,12,34,1,0,12,4,1,Baixo,1,Baixo,1,Baixo,1,Baixo,1,Baixo,2,Baixo,2,Baixo,2,Baixo
+5939675,gangsta s paradise,coolio l v ,2,1995,7,11,1995-07-11,1995-07,11031,10624,17,1357608774,21,0,386,0,80,63,40,61,9,0,56,6,1,Baixo,2,Baixo,2,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo
+6161550,cupid twin ver fifty fifty spe,sped up 8282,1,1997,1,1,1997-01-01,1997-01,478,472,2,103762518,0,0,6,0,144,74,75,73,42,0,9,4,4,Alto,3,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo,1,Baixo,2,Baixo
+3049716,numb,linkin park,1,2003,3,24,2003-03-24,2003-03,27491,20111,5,1361425037,39,0,7341,0,110,50,24,86,0,0,64,4,2,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,4,Alto,4,Alto,2,Baixo
+7806612,gasolina,daddy yankee,1,2004,7,13,2004-07-13,2004-07,7008,6457,18,657723613,98,95,453,0,96,86,74,80,33,0,8,6,1,Baixo,4,Alto,4,Alto,4,Alto,3,Baixo,3,Baixo,1,Baixo,2,Baixo
+2616615,you make it feel like christmas feat blake shelton ,gwen stefani blake shelton,2,2005,9,20,2005-09-20,2005-09,2715,2577,0,180577478,108,56,30,0,93,63,93,88,1,0,12,4,1,Baixo,2,Baixo,4,Alto,4,Alto,1,Baixo,4,Alto,3,Baixo,2,Baixo
+7750995,505,arctic monkeys,1,2007,4,20,2007-04-20,2007-04,14603,13985,25,1217120710,30,80,588,1,140,52,20,85,0,0,7,5,3,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,2,Baixo
+2008299,just the way you are,bruno mars,1,2010,1,1,2010-01-01,2010-01,24134,21106,13,1641426668,82,0,2946,0,109,63,46,85,1,0,9,5,2,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo,3,Baixo,1,Baixo,2,Baixo
+3780370,somebody that i used to know,gotye kimbra,2,2011,1,1,2011-01-01,2011-01,49523,42798,0,1457139296,217,136,6508,1,129,86,75,52,54,0,10,4,3,Baixo,4,Alto,4,Alto,1,Baixo,4,Alto,4,Alto,2,Baixo,2,Baixo
+4242212,we found love,rihanna calvin harris,2,2011,1,1,2011-01-01,2011-01,41771,36843,21,1235005533,321,91,4607,1,128,73,60,77,3,0,11,4,3,Baixo,3,Baixo,3,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo,2,Baixo
+4319986,holly jolly christmas,michael bubl ,1,2011,10,14,2011-10-14,2011-10,7951,7655,0,476244795,5,0,291,0,151,65,70,47,87,0,9,4,4,Alto,2,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo
+8580552,demons,imagine dragons,1,2012,1,1,2012-01-01,2012-01,30184,26694,13,1840364617,65,82,3425,4,180,33,38,71,20,0,28,5,4,Alto,1,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,2,Baixo
+1967014,payphone,maroon 5 wiz khalifa,2,2012,1,1,2012-01-01,2012-01,16090,14143,4,1479264469,56,38,1891,1,110,74,51,74,2,0,29,4,2,Baixo,3,Baixo,2,Baixo,3,Baixo,1,Baixo,2,Baixo,4,Alto,2,Baixo
+2391919,another love,tom odell,1,2012,10,15,2012-10-15,2012-10,22015,18371,83,1813673666,250,122,3394,19,123,45,13,54,70,0,9,4,3,Baixo,1,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo
+3369956,locked out of heaven,bruno mars,1,2012,12,5,2012-12-05,2012-12,1978,1622,9,1481349984,0,0,356,0,144,73,87,70,6,0,28,5,4,Alto,3,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo
+3509026,when i was your man,bruno mars,1,2012,12,5,2012-12-05,2012-12,3226,2420,11,1661187319,0,0,806,0,145,60,43,27,94,0,14,4,4,Alto,2,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo
+7325433,counting stars,onerepublic,1,2013,1,1,2013-01-01,2013-01,32788,29215,43,2011464183,179,97,3394,11,122,66,48,71,6,0,12,4,3,Baixo,2,Baixo,2,Baixo,3,Baixo,2,Baixo,3,Baixo,2,Baixo,2,Baixo
+5906167,get lucky radio edit,pharrell williams nile rodgers daft punk,3,2013,1,1,2013-01-01,2013-01,61316,52898,0,933815613,203,1,8215,0,116,79,87,81,4,0,10,4,2,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo,1,Baixo,2,Baixo,2,Baixo
+7405938,wake me up radio edit,avicii,1,2013,1,1,2013-01-01,2013-01,57486,50887,34,1970673297,315,160,6284,1,124,53,66,78,0,0,16,5,3,Baixo,1,Baixo,3,Baixo,4,Alto,1,Baixo,3,Baixo,3,Baixo,2,Baixo
+3968436,bound 2,kanye west,1,2013,1,1,2013-01-01,2013-01,20113,19806,7,703301727,33,11,274,0,149,37,28,66,14,0,9,5,4,Alto,1,Baixo,1,Baixo,3,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo
+7256696,take me to church,hozier,1,2013,9,13,2013-09-13,2013-09,28614,23804,31,2135158446,187,99,4623,1,129,57,41,66,63,0,12,5,3,Baixo,1,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo,2,Baixo,2,Baixo
+4278371,underneath the tree,kelly clarkson,1,2013,10,25,2013-10-25,2013-10,6991,6596,0,485285717,144,99,251,0,160,51,69,81,0,0,21,5,4,Alto,1,Baixo,3,Baixo,4,Alto,1,Baixo,2,Baixo,3,Baixo,2,Baixo
+1776310,i m not the only one,sam smith,1,2014,1,1,2014-01-01,2014-01,19587,17492,3,1606986953,136,24,1959,0,82,68,50,49,56,0,8,4,1,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,1,Baixo,2,Baixo
+3921634,blank space,taylor swift,1,2014,1,1,2014-01-01,2014-01,11998,11434,53,1355959075,154,123,410,2,96,75,57,68,9,0,13,6,1,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo,2,Baixo
+4796316,style,taylor swift,1,2014,1,1,2014-01-01,2014-01,8075,7830,42,786181836,94,111,151,4,95,60,48,79,0,0,12,4,1,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo,3,Baixo,2,Baixo,2,Baixo
+8987545,lovers rock,tv girl,1,2014,6,5,2014-06-05,2014-06,6378,6339,13,466231982,3,1,36,1,105,56,57,87,0,1,10,4,2,Baixo,1,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto,2,Baixo,2,Baixo
+5324238,photograph,ed sheeran,1,2014,6,20,2014-06-20,2014-06,21459,18778,3,2236667932,228,105,2453,0,108,61,20,38,61,0,10,5,2,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo,2,Baixo
+1904373,cool for the summer,demi lovato,1,2015,1,1,2015-01-01,2015-01,9975,9243,0,677389855,155,5,577,0,114,59,30,62,1,0,8,4,2,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo
+7435337,freaks,surf curse,1,2015,5,10,2015-05-10,2015-05,3150,3006,3,824420218,23,21,121,0,180,35,41,94,0,63,5,5,4,Alto,1,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,2,Baixo
+1928790,one dance,drake wizkid kyla,3,2016,4,4,2016-04-04,2016-04,47321,43257,24,2713922350,433,107,3631,0,104,77,36,63,1,0,36,5,2,Baixo,3,Baixo,2,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,2,Baixo
+3210546,selfish,pnb rock,1,2016,6,23,2016-06-23,2016-06,2483,2468,0,380319238,15,0,0,0,102,64,4,60,11,0,19,4,2,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,2,Baixo
+7587856,say you won t let go,james arthur,1,2016,9,9,2016-09-09,2016-09,17462,15722,16,2420461338,231,37,1509,0,99,40,45,56,69,0,9,5,1,Baixo,1,Baixo,2,Baixo,2,Baixo,4,Alto,2,Baixo,1,Baixo,2,Baixo
+4096612,there s nothing holdin me back,shawn mendes,1,2016,9,23,2016-09-23,2016-09,13981,12382,0,1714490998,229,57,1370,2,122,86,97,80,36,0,9,6,3,Baixo,4,Alto,4,Alto,4,Alto,3,Baixo,1,Baixo,1,Baixo,2,Baixo
+5300224,sex drugs etc ,beach weather,1,2016,11,4,2016-11-04,2016-11,3140,3006,16,480507035,47,60,87,12,144,57,47,84,1,1,52,4,4,Alto,2,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto,4,Alto,2,Baixo
+1014962,dark red,steve lacy,1,2017,2,20,2017-02-20,2017-02,10683,10431,7,920045682,71,53,181,0,172,60,77,78,45,0,12,6,4,Alto,2,Baixo,4,Alto,4,Alto,4,Alto,3,Baixo,2,Baixo,2,Baixo
+4131863,bored,billie eilish,1,2017,3,30,2017-03-30,2017-03,4493,4204,0,777765388,39,45,250,0,120,60,11,33,90,0,8,5,2,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo
+1386091,swim,chase atlantic,1,2017,10,4,2017-10-04,2017-10,2809,2742,0,498960285,5,1,62,0,120,67,8,54,27,0,8,4,2,Baixo,2,Baixo,1,Baixo,2,Baixo,3,Baixo,2,Baixo,1,Baixo,2,Baixo
+5821993,don t bl,taylor swift,1,2017,11,8,2017-11-08,2017-11,4894,4875,23,685032533,19,45,0,0,136,62,19,53,11,0,6,4,3,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo
+7387090,merry christmas,ed sheeran elton john,2,2017,11,10,2017-11-10,2017-11,2422,2209,0,135723538,72,90,141,0,114,59,60,94,24,0,10,4,2,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo,1,Baixo,2,Baixo,2,Baixo
+2052397,beggin,m ne,1,2017,12,8,2017-12-08,2017-12,9706,8559,0,1367810478,183,64,964,9,134,71,59,80,13,0,36,5,3,Baixo,3,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo,4,Alto,2,Baixo
+6824324,hope,xxxtentacion,1,2018,3,16,2018-03-16,2018-03,3937,3659,0,1200808494,11,10,267,0,146,59,23,46,66,0,15,6,4,Alto,2,Baixo,1,Baixo,1,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo
+6387600,call out my name,the weeknd,1,2018,3,29,2018-03-29,2018-03,12039,11087,6,1449799467,151,107,801,1,134,45,17,60,21,0,33,4,3,Baixo,1,Baixo,1,Baixo,2,Baixo,3,Baixo,2,Baixo,4,Alto,2,Baixo
+3827571,sunflower spider man into the spider verse,post malone swae lee,2,2018,10,9,2018-10-09,2018-10,25309,24094,78,2808096550,372,117,843,4,90,76,91,50,54,0,7,5,1,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo,1,Baixo,2,Baixo
+2468710,love nwantiti ah ah ah ,ckay,1,2019,7,26,2019-07-26,2019-07,6005,5669,2,726837877,74,0,262,14,93,74,53,73,61,0,13,4,1,Baixo,3,Baixo,3,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo
+4117642,all of the girls you loved before,taylor swift,1,2019,8,23,2019-08-23,2019-08,1327,1282,6,185240616,26,6,19,0,96,72,40,47,71,0,13,4,1,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo
+6373026,mary on a cross,ghost,1,2019,9,13,2019-09-13,2019-09,2784,2668,2,387080183,38,266,78,0,130,47,56,90,0,0,10,4,3,Baixo,1,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto,2,Baixo,2,Baixo
+2635416,memories,maroon 5,1,2019,9,20,2019-09-20,2019-09,11312,9974,2,1759567999,272,67,1066,1,91,77,60,32,84,0,8,5,1,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,4,Alto,1,Baixo,2,Baixo
+3153550,under the influence,chris brown,1,2019,10,4,2019-10-04,2019-10,3995,3859,26,929964809,133,181,3,0,117,73,31,69,6,0,11,4,2,Baixo,3,Baixo,1,Baixo,3,Baixo,2,Baixo,3,Baixo,2,Baixo,2,Baixo
+3869741,watermelon sugar,harry styles,1,2019,11,17,2019-11-17,2019-11,23564,21915,34,2322580122,437,115,1212,12,95,55,56,82,12,0,34,5,1,Baixo,1,Baixo,3,Baixo,4,Alto,2,Baixo,4,Alto,4,Alto,2,Baixo
+8483246,adore you,harry styles,1,2019,12,6,2019-12-06,2019-12,14219,13454,1,1439191367,246,71,519,2,99,68,57,77,2,0,10,5,2,Baixo,2,Baixo,3,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo,2,Baixo
+1464404,middle of the night,elley duh ,1,2020,1,10,2020-01-10,2020-01,4375,4057,8,872137015,78,21,240,1,186,41,9,61,2,0,12,5,4,Alto,1,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo,3,Baixo,2,Baixo
+6261319,heartbreak anniversary,giveon,1,2020,2,21,2020-02-21,2020-02,5719,5398,4,951637566,111,127,210,0,129,61,59,46,56,0,13,5,3,Baixo,2,Baixo,3,Baixo,1,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo
+8134740,la santa,daddy yankee bad bunny,2,2020,2,29,2020-02-29,2020-02,5042,4890,20,759208783,52,42,100,0,93,74,59,87,3,0,8,5,1,Baixo,3,Baixo,3,Baixo,4,Alto,1,Baixo,1,Baixo,1,Baixo,2,Baixo
+2602763,you broke me first,tate mcrae,1,2020,4,17,2020-04-17,2020-04,7123,6638,0,1180094974,167,19,318,0,124,64,8,37,79,0,9,5,3,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo
+5865058,nao identificado,fujii kaze,1,2020,5,20,2020-05-20,2020-05,718,685,14,403097450,24,94,9,0,158,60,52,76,17,0,19,5,4,Alto,2,Baixo,3,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo,2,Baixo
+2685773,cardigan,taylor swift,1,2020,7,24,2020-07-24,2020-07,8171,7923,29,812019557,106,112,142,4,130,61,53,58,55,0,27,4,3,Baixo,2,Baixo,3,Baixo,2,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo
+3574464,dakiti,bad bunny jhay cortez,2,2020,10,30,2020-10-30,2020-10,11929,11215,21,1763363713,189,166,525,9,110,73,14,57,40,0,11,5,2,Baixo,3,Baixo,1,Baixo,2,Baixo,3,Baixo,3,Baixo,2,Baixo,2,Baixo
+6721865,todo de ti,rauw alejandro,1,2020,11,2,2020-11-02,2020-11,12431,11975,8,1168642797,188,75,268,6,128,81,57,63,40,1,10,4,3,Baixo,4,Alto,3,Baixo,2,Baixo,3,Baixo,4,Alto,2,Baixo,2,Baixo
+2480109,bones,imagine dragons,1,2021,3,11,2021-03-11,2021-03,4623,4198,44,838079900,98,108,327,17,114,77,65,72,2,0,7,5,2,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo
+2346155,leave before you love me with jonas brothers ,marshmello jonas brothers,2,2021,4,28,2021-04-28,2021-04,5146,4893,4,651732901,143,24,110,0,120,72,67,72,0,0,13,4,2,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,2,Baixo,3,Baixo,2,Baixo
+3393833,thunder,prezioso gabry ponte lum x,3,2021,5,7,2021-05-07,2021-05,5159,4846,10,422691058,54,16,259,0,101,67,40,90,3,0,34,6,2,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo,1,Baixo,4,Alto,2,Baixo
+1198357,traitor,juan cruz toledo huilen toledo,2,2021,5,21,2021-05-21,2021-05,5476,5257,6,1230855859,85,43,134,0,176,29,12,33,68,0,12,5,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto,2,Baixo,2,Baixo,2,Baixo
+8096695,favorite crime,olivia rodrigo,1,2021,5,21,2021-05-21,2021-05,3800,3681,0,783706581,20,21,99,0,173,40,19,29,86,0,34,4,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo
+4105518,c ,rauw alejandro,1,2021,6,25,2021-06-25,2021-06,2711,2636,3,465959382,36,82,39,0,102,77,26,63,58,0,11,5,2,Baixo,3,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo,2,Baixo,2,Baixo
+2023156,stay with justin bieber ,justin bieber the kid laroi,2,2021,7,9,2021-07-09,2021-07,18340,17050,36,2665343922,492,99,798,31,170,59,48,76,4,0,10,5,4,Alto,2,Baixo,2,Baixo,3,Baixo,1,Baixo,3,Baixo,2,Baixo,2,Baixo
+4586215,take my breath,the weeknd,1,2021,8,6,2021-08-06,2021-08,6910,6392,0,432702334,174,73,344,0,121,75,53,74,2,0,11,5,3,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,2,Baixo,2,Baixo
+2643038,every summertime,niki,1,2021,8,10,2021-08-10,2021-08,1246,1211,2,290228626,30,2,5,0,79,63,76,67,38,0,6,4,1,Baixo,2,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo,1,Baixo,2,Baixo
+1513475,out out feat charli xcx saweetie ,charli xcx jax jones joel corry saweetie,4,2021,8,13,2021-08-13,2021-08,7213,6890,0,427486004,122,11,201,0,124,79,79,84,2,0,5,5,3,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo,3,Baixo,1,Baixo,2,Baixo
+6389379, abcdefu,gayle,1,2021,8,13,2021-08-13,2021-08,7960,7215,0,1007612429,170,12,575,18,122,70,42,54,30,0,37,5,3,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,4,Alto,2,Baixo
+2439081,acapulco,jason derulo,1,2021,9,1,2021-09-01,2021-09,3391,3098,0,363467642,111,5,182,1,122,77,51,79,5,0,16,5,3,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,1,Baixo,3,Baixo,2,Baixo
+6352056,nost l,chris brown rvssian rauw alejandro,3,2021,9,8,2021-09-08,2021-09,2925,2780,2,436695353,86,76,59,0,98,73,60,85,17,0,24,5,1,Baixo,3,Baixo,3,Baixo,4,Alto,2,Baixo,1,Baixo,4,Alto,2,Baixo
+5334385,salimo de noche,trueno tiago pzk,2,2021,10,21,2021-10-21,2021-10,1095,1057,0,261414174,17,5,21,0,84,67,78,63,29,0,12,5,1,Baixo,2,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo,2,Baixo,2,Baixo
+7368008,moth to a flame with the weeknd ,the weeknd swedish house mafia,2,2021,10,22,2021-10-22,2021-10,7893,7495,17,611994237,114,172,284,2,120,56,16,67,0,0,11,4,2,Baixo,1,Baixo,1,Baixo,3,Baixo,1,Baixo,2,Baixo,2,Baixo,2,Baixo
+7068825,one right now with the weeknd ,the weeknd post malone,2,2021,11,5,2021-11-05,2021-11,4914,4771,0,539595276,68,18,75,0,97,68,72,78,4,0,7,5,1,Baixo,2,Baixo,4,Alto,4,Alto,1,Baixo,2,Baixo,1,Baixo,2,Baixo
+4439384,smokin out the window,bruno mars anderson paak silk sonic,3,2021,11,5,2021-11-05,2021-11,5102,4963,0,383550148,63,40,76,0,82,63,85,62,6,0,35,4,1,Baixo,2,Baixo,4,Alto,2,Baixo,2,Baixo,4,Alto,4,Alto,2,Baixo
+3329363,la fama with the weeknd ,the weeknd rosal ,2,2021,11,11,2021-11-11,2021-11,5228,4640,3,374706940,81,93,507,6,136,77,82,30,95,0,13,5,3,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo
+7423770,dos oruguitas,sebastian yatra,1,2021,11,19,2021-11-19,2021-11,1023,925,0,167076418,24,47,74,0,94,42,47,36,76,0,9,5,1,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,4,Alto,1,Baixo,2,Baixo
+2820520,oh my god,adele,1,2021,11,19,2021-11-19,2021-11,4735,4431,0,466214729,105,7,199,0,88,53,55,73,9,0,3,5,1,Baixo,1,Baixo,3,Baixo,3,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo
+5555264,sunroof,nicky youre dazy,2,2021,12,3,2021-12-03,2021-12,4007,3741,17,652704649,156,35,110,19,131,77,84,71,35,0,15,4,3,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,3,Baixo,2,Baixo
+8465611,the color violet,tory lanez,1,2021,12,10,2021-12-10,2021-12,2609,2585,32,415932686,3,79,21,1,105,65,46,53,16,0,9,5,2,Baixo,2,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo
+7717973,cigarettes,juice wrld,1,2021,12,10,2021-12-10,2021-12,996,975,0,185408548,11,0,10,0,160,60,47,62,3,0,38,4,4,Alto,2,Baixo,2,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,2,Baixo
+5380546,fingers crossed,lauren spencer smith lauren spencer smith lauren spencer smith,3,2022,1,5,2022-01-05,2022-01,2370,2235,0,349585590,65,7,70,16,109,60,45,47,62,0,31,5,2,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,4,Alto,2,Baixo
+7175350,dawn fm,the weeknd,1,2022,1,7,2022-01-07,2022-01,818,811,0,53933526,1,8,6,0,78,27,10,49,62,0,49,5,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,4,Alto,2,Baixo
+7332091,phantom regret by jim,the weeknd,1,2022,1,7,2022-01-07,2022-01,772,768,0,31959571,1,1,3,0,108,46,23,48,75,30,14,4,2,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo
+6131592,gasoline,the weeknd,1,2022,1,7,2022-01-07,2022-01,2322,2297,0,116903579,11,29,14,0,123,74,35,73,0,0,21,5,3,Baixo,3,Baixo,2,Baixo,3,Baixo,1,Baixo,3,Baixo,3,Baixo,2,Baixo
+7853001,out of time,the weeknd,1,2022,1,7,2022-01-07,2022-01,3822,3711,0,339659802,49,88,62,0,93,65,82,74,27,0,32,5,1,Baixo,2,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo,4,Alto,2,Baixo
+4064553,polaroid love,enhypen,1,2022,1,10,2022-01-10,2022-01,488,461,0,211372494,10,56,17,0,138,74,65,67,46,0,36,4,3,Baixo,3,Baixo,3,Baixo,3,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo
+5922471,the rumbling tv size ,sim,1,2022,1,10,2022-01-10,2022-01,277,254,0,71014967,0,4,23,0,145,41,65,88,0,0,26,5,4,Alto,1,Baixo,3,Baixo,4,Alto,1,Baixo,3,Baixo,4,Alto,2,Baixo
+3814674,malvada,z fe,1,2022,1,28,2022-01-28,2022-01,693,601,0,154119539,28,73,64,0,135,89,89,86,16,0,8,5,3,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo,2,Baixo,1,Baixo,2,Baixo
+2661792,vampiro,matu wiu ,3,2022,1,30,2022-01-30,2022-01,605,540,4,187772591,26,3,39,0,115,78,63,64,1,0,7,4,2,Baixo,3,Baixo,3,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo
+1159428,she s all i wanna be,tate mcrae,1,2022,2,4,2022-02-04,2022-02,2867,2711,0,343197054,105,12,51,0,160,61,65,64,1,0,12,4,4,Alto,2,Baixo,3,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo,2,Baixo
+6829928,pasoori,shae gill ali sethi,2,2022,2,6,2022-02-06,2022-02,362,349,6,284249832,10,22,3,0,92,71,67,60,7,0,6,4,1,Baixo,3,Baixo,3,Baixo,2,Baixo,2,Baixo,2,Baixo,1,Baixo,2,Baixo
+6213355,bussin,nicki minaj lil baby,2,2022,2,11,2022-02-11,2022-02,886,847,0,64714573,25,0,14,0,140,89,75,70,6,0,13,5,3,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo,2,Baixo,3,Baixo,2,Baixo
+5697442,darari,treasure,1,2022,2,15,2022-02-15,2022-02,345,328,0,182978249,10,21,7,0,85,72,55,64,49,0,7,4,1,Baixo,3,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo
+6348243,chale,eden mu ,1,2022,2,18,2022-02-18,2022-02,724,695,11,299648208,16,41,13,1,189,55,86,44,40,0,7,4,4,Alto,1,Baixo,4,Alto,1,Baixo,3,Baixo,2,Baixo,1,Baixo,2,Baixo
+1230186,space man,sam ryder,1,2022,2,22,2022-02-22,2022-02,1403,1329,0,54682594,42,51,32,0,80,47,33,83,18,0,10,5,1,Baixo,1,Baixo,2,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,2,Baixo
+2762640,freaky deaky,tyga doja cat,2,2022,2,25,2022-02-25,2022-02,1774,1729,0,153240879,26,1,19,0,104,80,24,65,2,0,9,4,2,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo,3,Baixo,1,Baixo,2,Baixo
+7700274,hati hati di jalan,tulus,1,2022,3,3,2022-03-03,2022-03,212,200,2,202677468,12,4,0,0,72,64,76,44,70,9,12,4,1,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto,4,Alto,2,Baixo,2,Baixo
+7036044,stefania kalush orchestra ,kalush,1,2022,3,10,2022-03-10,2022-03,569,555,0,53729194,10,4,4,0,105,83,32,82,14,0,12,4,2,Baixo,4,Alto,1,Baixo,4,Alto,2,Baixo,2,Baixo,2,Baixo,2,Baixo
+8399372,ferrari,james hype miggy dela rosa,2,2022,3,14,2022-03-14,2022-03,8106,7758,28,462791599,173,79,175,0,125,84,70,69,1,0,5,5,3,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo,1,Baixo,1,Baixo,2,Baixo
+4342968,crazy what love can do,david guetta ella henderson becky hill,3,2022,3,18,2022-03-18,2022-03,5571,5290,0,286739476,139,73,142,0,123,60,46,71,3,0,16,4,3,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,2,Baixo,3,Baixo,2,Baixo
+6642483,10 things i hate about you,leah kate,1,2022,3,23,2022-03-23,2022-03,1339,1301,0,185550869,23,1,15,0,154,54,45,79,1,0,17,5,4,Alto,1,Baixo,2,Baixo,4,Alto,1,Baixo,3,Baixo,3,Baixo,2,Baixo
+6390690,x ltima,daddy yankee bad bunny,2,2022,3,25,2022-03-25,2022-03,2784,2697,1,349746291,55,3,32,0,90,81,59,83,9,0,11,5,1,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo,1,Baixo,2,Baixo,2,Baixo
+8055412,love dive,ive,1,2022,4,5,2022-04-05,2022-04,794,753,8,305771063,28,124,13,0,118,70,54,71,0,0,33,4,2,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,2,Baixo,4,Alto,2,Baixo
+4557678,chance,paulo londra,1,2022,4,6,2022-04-06,2022-04,243,225,0,89566512,11,0,7,0,138,72,22,46,24,0,9,6,3,Baixo,3,Baixo,1,Baixo,1,Baixo,3,Baixo,2,Baixo,1,Baixo,2,Baixo
+6966778,provenza,karol g,1,2022,4,21,2022-04-21,2022-04,6848,6587,34,885093467,114,104,147,11,111,87,53,52,66,1,11,5,2,Baixo,4,Alto,3,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,2,Baixo
+4627428,in the stars,benson boone,1,2022,4,29,2022-04-29,2022-04,2359,2224,8,382199619,48,40,87,1,78,36,30,54,34,0,14,5,1,Baixo,1,Baixo,1,Baixo,2,Baixo,3,Baixo,2,Baixo,3,Baixo,2,Baixo
+1532080,dos mil 16,bad bunny,1,2022,5,6,2022-05-06,2022-05,913,892,3,338422004,10,24,11,0,130,82,50,67,12,0,13,5,3,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo,2,Baixo
+4764570,yo no soy celoso,bad bunny,1,2022,5,6,2022-05-06,2022-05,1197,1179,0,313113297,7,21,11,0,142,87,93,59,28,0,17,5,4,Alto,4,Alto,4,Alto,2,Baixo,3,Baixo,1,Baixo,3,Baixo,2,Baixo
+2786767,un ratito,bad bunny,1,2022,5,6,2022-05-06,2022-05,1132,1112,6,417230415,7,30,13,1,93,79,22,55,31,0,12,5,1,Baixo,4,Alto,1,Baixo,2,Baixo,3,Baixo,2,Baixo,2,Baixo,2,Baixo
+5617904,me fui de vacaciones,bad bunny,1,2022,5,6,2022-05-06,2022-05,1474,1443,0,305650299,9,11,22,1,85,71,43,65,23,0,9,5,1,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,1,Baixo,2,Baixo
+1621586,efecto,bad bunny,1,2022,5,6,2022-05-06,2022-05,4081,4004,33,1047480053,34,65,43,6,98,80,23,48,14,0,6,5,1,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo,3,Baixo,1,Baixo,2,Baixo
+2166194,un coco,bad bunny,1,2022,5,6,2022-05-06,2022-05,1043,1029,28,403231558,5,28,9,0,152,84,74,69,21,0,18,6,4,Alto,4,Alto,4,Alto,3,Baixo,3,Baixo,2,Baixo,3,Baixo,2,Baixo
+6107475,this love taylor s ve,taylor swift,1,2022,5,6,2022-05-06,2022-05,1533,1492,0,132171975,26,2,15,0,144,47,7,50,32,0,7,4,4,Alto,1,Baixo,1,Baixo,1,Baixo,3,Baixo,1,Baixo,1,Baixo,2,Baixo
+6133453,neverita,bad bunny,1,2022,5,6,2022-05-06,2022-05,2645,2590,30,671365962,20,64,35,6,122,88,43,50,7,0,14,5,3,Baixo,4,Alto,2,Baixo,1,Baixo,2,Baixo,1,Baixo,3,Baixo,2,Baixo
+2226206,supermodel,m ne,1,2022,5,13,2022-05-13,2022-05,2531,2265,0,231657891,93,12,173,11,121,64,80,88,0,0,12,6,3,Baixo,2,Baixo,4,Alto,4,Alto,1,Baixo,1,Baixo,2,Baixo,2,Baixo
+4467778,i ain t worried,onerepublic,1,2022,5,13,2022-05-13,2022-05,9130,8431,76,1085685420,241,127,458,37,140,71,82,81,11,0,6,5,3,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,1,Baixo,2,Baixo
+2135563,late night talking,harry styles,1,2022,5,20,2022-05-20,2022-05,7826,7461,8,743693613,166,42,199,16,115,71,90,73,30,0,11,5,2,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,2,Baixo,2,Baixo
+4671002,boyfriends,harry styles,1,2022,5,20,2022-05-20,2022-05,1573,1517,0,137070925,26,2,30,0,118,42,32,20,94,0,11,4,2,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo,2,Baixo
+6193307,love of my life,harry styles,1,2022,5,20,2022-05-20,2022-05,1977,1933,0,233671263,13,2,31,0,118,56,20,54,67,0,6,5,2,Baixo,1,Baixo,1,Baixo,2,Baixo,4,Alto,2,Baixo,1,Baixo,2,Baixo
+2307433,little freak,harry styles,1,2022,5,20,2022-05-20,2022-05,2361,2302,0,273194684,20,3,39,0,142,56,40,54,72,0,10,4,4,Alto,1,Baixo,2,Baixo,2,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo
+1041777,music for a sushi restaurant,harry styles,1,2022,5,20,2022-05-20,2022-05,4595,4449,1,334733572,80,11,66,0,107,72,36,72,26,6,11,4,2,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo,4,Alto,2,Baixo,2,Baixo
+3894522,la bachata,manuel turizo,1,2022,5,26,2022-05-26,2022-05,7104,6804,45,1214083358,139,111,161,15,125,84,85,68,58,0,22,4,3,Baixo,4,Alto,4,Alto,3,Baixo,4,Alto,1,Baixo,3,Baixo,2,Baixo
+3169976,potion with dua lipa young thug ,calvin harris dua lipa young thug,3,2022,5,27,2022-05-27,2022-05,4175,3983,0,190625045,73,45,119,0,100,82,76,70,16,0,8,5,2,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo
+3786238,nos comemos feat ozuna ,ozuna tiago pzk,2,2022,6,2,2022-06-02,2022-06,898,896,0,138334433,0,0,2,0,92,83,56,82,10,0,9,5,1,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo,4,Alto,1,Baixo,2,Baixo
+2230668,so good,halsey,1,2022,6,9,2022-06-09,2022-06,1127,1057,0,91781263,51,14,19,0,83,63,29,62,4,0,18,4,1,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo,3,Baixo,3,Baixo,2,Baixo
+7688790,cash in cash out,pharrell williams tyler the creator 21 savage,4,2022,6,10,2022-06-10,2022-06,2376,2313,0,136676504,34,0,29,0,120,88,15,56,1,0,8,6,2,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo
+2434062,glimpse of us,joji,1,2022,6,10,2022-06-10,2022-06,6597,6330,6,988515741,109,42,158,3,170,44,27,32,89,0,14,5,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo
+5409588,numb,marshmello khalid,2,2022,6,10,2022-06-10,2022-06,4072,3879,2,295307001,107,76,86,1,120,91,63,77,12,1,10,5,2,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,4,Alto,2,Baixo,2,Baixo
+4130067,b o t a baddest of them all edit,interplanetary criminal eliza rose,2,2022,6,15,2022-06-15,2022-06,5368,5153,6,244585109,102,53,113,12,137,74,71,89,24,61,15,5,3,Baixo,3,Baixo,4,Alto,4,Alto,3,Baixo,4,Alto,3,Baixo,2,Baixo
+7531207,massive,drake,1,2022,6,17,2022-06-17,2022-06,5390,5263,0,195628667,66,89,61,0,125,51,5,68,12,2,15,6,3,Baixo,1,Baixo,1,Baixo,3,Baixo,2,Baixo,4,Alto,3,Baixo,2,Baixo
+1532170,poland,lil yachty,1,2022,6,23,2022-06-23,2022-06,1646,1584,0,115331792,38,0,24,0,150,70,26,56,14,83,11,5,4,Alto,3,Baixo,1,Baixo,2,Baixo,2,Baixo,4,Alto,2,Baixo,2,Baixo
+7629327,pop ,nayeon,1,2022,6,24,2022-06-24,2022-06,604,571,0,213505179,19,21,14,0,97,80,36,86,4,0,3,5,1,Baixo,4,Alto,2,Baixo,4,Alto,1,Baixo,1,Baixo,1,Baixo,2,Baixo
+4334346,bad habit,steve lacy,1,2022,6,29,2022-06-29,2022-06,8472,8186,12,822633917,155,72,131,16,169,69,69,51,63,0,38,4,4,Alto,3,Baixo,3,Baixo,1,Baixo,4,Alto,2,Baixo,4,Alto,2,Baixo
+5678676,more,j hope,1,2022,7,1,2022-07-01,2022-07,582,565,0,155795783,6,52,11,0,97,78,31,72,1,0,11,4,1,Baixo,4,Alto,1,Baixo,3,Baixo,1,Baixo,3,Baixo,2,Baixo,2,Baixo
+2489568,stay with me with justin timberlake halsey pharrell ,calvin harris halsey pharrell williams justin timberlake,4,2022,7,15,2022-07-15,2022-07,3291,3113,0,123473120,54,6,124,1,126,81,90,73,28,0,29,4,3,Baixo,4,Alto,4,Alto,3,Baixo,3,Baixo,1,Baixo,4,Alto,2,Baixo
+1239958,tv,billie eilish,1,2022,7,21,2022-07-21,2022-07,3142,3009,2,338564981,68,89,65,0,141,41,9,25,84,1,14,4,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo
+1035366,lokera,brray rauw alejandro lyanno,3,2022,7,25,2022-07-25,2022-07,3437,3301,30,471819764,72,64,64,6,102,83,58,83,21,0,10,5,2,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo,2,Baixo
+3519068,lovezinho,treyce,1,2022,7,28,2022-07-28,2022-07,267,242,0,70069745,12,2,13,0,128,82,61,59,30,0,12,4,3,Baixo,4,Alto,3,Baixo,2,Baixo,3,Baixo,1,Baixo,2,Baixo,2,Baixo
+5724140,attention,newjeans,1,2022,8,1,2022-08-01,2022-08,822,799,12,264717480,14,141,9,0,105,81,70,65,24,0,8,4,2,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,1,Baixo,1,Baixo,2,Baixo
+5405010,miss you,robin schulz oliver tree,2,2022,8,5,2022-08-05,2022-08,6035,5730,10,497225336,108,16,197,3,145,59,20,74,1,0,15,5,4,Alto,2,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo
+7158907,siempre pendientes,peso pluma luis r conriquez,2,2022,8,15,2022-08-15,2022-08,704,685,5,295152154,15,79,4,2,136,77,71,75,33,1,13,4,3,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo,4,Alto,3,Baixo,2,Baixo
+5165382,i m good blue ,bebe rexha david guetta,2,2022,8,26,2022-08-26,2022-08,13310,12482,80,1109433169,291,184,537,45,128,56,38,97,4,0,35,4,3,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto,2,Baixo
+4794318,eu gosto assim ao vivo,gustavo mioto mari fernandez,2,2022,9,16,2022-09-16,2022-09,1566,1473,4,222612678,27,64,66,1,154,64,61,91,15,0,72,4,4,Alto,2,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo,4,Alto,2,Baixo
+6204936,star walkin league of legends worlds anthem ,lil nas x,1,2022,9,22,2022-09-22,2022-09,2937,2616,0,332506354,113,17,208,0,142,64,31,72,15,0,9,5,4,Alto,2,Baixo,1,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,2,Baixo
+5031236,besos moja2,wisin yandel rosal ,2,2022,9,29,2022-09-29,2022-09,2569,2460,13,309483971,53,7,56,3,94,74,64,73,6,0,10,6,1,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,3,Baixo,2,Baixo,2,Baixo
+2475712,agudo m gi,styrx utku inc thezth,3,2022,10,10,2022-10-10,2022-10,341,323,0,90598517,4,0,14,0,130,65,49,80,22,4,7,5,3,Baixo,2,Baixo,2,Baixo,4,Alto,3,Baixo,4,Alto,1,Baixo,2,Baixo
+8143341,bye bye,marshmello juice wrld,2,2022,10,14,2022-10-14,2022-10,791,766,0,84697729,16,0,9,0,83,65,24,53,6,0,51,4,1,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo,3,Baixo,4,Alto,2,Baixo
+1910640,monoton ,ozuna shakira,2,2022,10,19,2022-10-19,2022-10,3913,3645,15,380726517,118,34,150,4,132,87,82,70,42,0,21,5,3,Baixo,4,Alto,4,Alto,3,Baixo,3,Baixo,1,Baixo,3,Baixo,2,Baixo
+6773043,en la de ella,feid sech jhayco,3,2022,10,20,2022-10-20,2022-10,1366,1320,0,133895612,29,26,17,0,97,82,67,77,8,0,12,5,1,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo,2,Baixo,2,Baixo,2,Baixo
+8346039,anti hero,taylor swift,1,2022,10,21,2022-10-21,2022-10,9489,9082,56,999748277,242,142,165,9,97,64,51,63,12,0,19,5,1,Baixo,2,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo,2,Baixo
+1386595,sweet nothing,taylor swift,1,2022,10,21,2022-10-21,2022-10,1769,1747,0,186104310,9,6,13,0,177,34,39,16,97,0,12,5,4,Alto,1,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo,2,Baixo
+1587452,the great war,taylor swift,1,2022,10,21,2022-10-21,2022-10,1286,1274,0,181382590,1,6,11,0,96,57,55,74,22,0,8,4,1,Baixo,2,Baixo,3,Baixo,3,Baixo,3,Baixo,4,Alto,1,Baixo,2,Baixo
+7204092,bombonzinho ao vivo,israel rodolffo ana castela,2,2022,11,3,2022-11-03,2022-11,1353,1254,6,263453310,26,69,73,2,158,65,72,95,31,0,92,5,4,Alto,2,Baixo,4,Alto,4,Alto,3,Baixo,3,Baixo,4,Alto,2,Baixo
+3301347,die for you,joji,1,2022,11,4,2022-11-04,2022-11,1777,1703,0,246390068,38,45,36,16,148,47,15,52,38,13,29,5,4,Alto,1,Baixo,1,Baixo,1,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo
+6728037,alone,burna boy,1,2022,11,4,2022-11-04,2022-11,841,782,2,96007391,27,18,32,1,90,61,32,67,15,0,11,5,1,Baixo,2,Baixo,1,Baixo,3,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo
+1438195,spin bout u,drake 21 savage,2,2022,11,4,2022-11-04,2022-11,1688,1652,2,198365537,26,52,10,0,130,77,20,70,1,0,16,5,3,Baixo,3,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo
+4978027,dreamers music from the fifa world cup qatar 2022 official soundtrack ,bts jung kook fifa sound,3,2022,11,20,2022-11-20,2022-11,935,889,20,323358833,11,78,35,0,115,71,34,88,16,0,44,4,2,Baixo,3,Baixo,2,Baixo,4,Alto,2,Baixo,4,Alto,4,Alto,2,Baixo
+8283550,raindrops insane with travis scott ,travis scott metro boomin,2,2022,12,2,2022-12-02,2022-12,893,880,0,110649992,3,7,10,0,112,80,15,54,9,0,38,5,2,Baixo,4,Alto,1,Baixo,2,Baixo,2,Baixo,4,Alto,4,Alto,2,Baixo
+2927588,creepin ,the weeknd 21 savage metro boomin,3,2022,12,2,2022-12-02,2022-12,6394,6036,88,843957510,113,149,245,23,98,71,17,61,36,0,8,5,1,Baixo,3,Baixo,1,Baixo,2,Baixo,3,Baixo,2,Baixo,1,Baixo,2,Baixo
+2540650,too many nights feat don toliver with future ,future metro boomin don toliver,3,2022,12,2,2022-12-02,2022-12,2146,2110,58,286400165,17,119,19,2,88,68,17,71,15,0,11,5,1,Baixo,2,Baixo,1,Baixo,3,Baixo,2,Baixo,3,Baixo,2,Baixo,2,Baixo
+8110201,que vuelvas,carin leon grupo frontera,2,2022,12,9,2022-12-09,2022-12,805,763,26,2762,21,110,21,9,162,49,78,64,19,0,11,4,4,Alto,1,Baixo,4,Alto,2,Baixo,3,Baixo,4,Alto,2,Baixo,2,Baixo
+5179092,ghost in the machine feat phoebe bridgers ,sza phoebe bridgers,2,2022,12,9,2022-12-09,2022-12,1654,1634,0,110073250,16,20,4,0,125,62,59,43,84,3,11,5,3,Baixo,2,Baixo,3,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,2,Baixo
+4611820,special,sza,1,2022,12,9,2022-12-09,2022-12,915,906,0,88092256,6,21,3,0,76,60,19,20,78,0,11,5,1,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo
+2070479,gone girl,sza,1,2022,12,9,2022-12-09,2022-12,897,892,0,65362788,3,17,2,0,150,43,42,44,57,0,15,6,4,Alto,1,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo
+4991676,f2f,sza,1,2022,12,9,2022-12-09,2022-12,995,989,0,67540165,5,9,1,0,90,53,47,74,9,0,34,4,1,Baixo,1,Baixo,2,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo
+8689972,blind,sza,1,2022,12,9,2022-12-09,2022-12,1518,1484,0,163284000,22,51,12,0,114,46,60,28,91,0,21,4,2,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo
+2733163,playa del ingl ,myke towers quevedo,2,2022,12,15,2022-12-15,2022-12,1765,1701,15,221409663,30,15,34,2,113,79,66,74,8,0,11,5,2,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo
+8001796,marisola remix,duki nicki nicole cris mj standly stars music chile,5,2022,12,15,2022-12-15,2022-12,1895,1845,16,223582566,20,8,30,2,95,77,72,87,17,0,7,5,1,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,4,Alto,1,Baixo,2,Baixo
+4031115,bebe dame,fuerza regida grupo frontera,2,2022,12,16,2022-12-16,2022-12,897,849,22,367316268,27,129,21,7,157,54,75,60,30,0,7,5,4,Alto,1,Baixo,4,Alto,2,Baixo,3,Baixo,3,Baixo,1,Baixo,2,Baixo
+6744187,en paris,el chachito junior h,2,2022,12,24,2022-12-24,2022-12,411,406,5,198275403,3,31,2,1,139,70,77,48,37,0,12,5,3,Baixo,3,Baixo,4,Alto,1,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo
+4669801,shakira bzrp music sessions vol 53,shakira bizarrap,2,2023,1,11,2023-01-11,2023-01,6097,5724,44,721975598,119,108,254,29,122,78,50,63,27,0,9,5,3,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo,2,Baixo
+7349725,vibe feat jimin of bts ,taeyang jimin,2,2023,1,13,2023-01-13,2023-01,451,415,2,152850295,15,40,21,1,100,79,60,68,7,0,26,4,2,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,3,Baixo,4,Alto,2,Baixo
+1824533,sial,mahalini,1,2023,1,23,2023-01-23,2023-01,138,134,4,166570053,4,6,0,0,120,56,20,43,89,0,12,4,2,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo
+7143216,prc,natanael cano peso pluma,2,2023,1,23,2023-01-23,2023-01,990,961,26,436027885,19,143,10,6,138,78,89,83,10,0,12,5,3,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,4,Alto,2,Baixo,2,Baixo
+1078549,el gordo trae el mando,chino pacas,1,2023,1,27,2023-01-27,2023-01,550,539,21,255932395,7,71,4,2,140,74,96,80,18,0,5,5,3,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,1,Baixo,2,Baixo
+3252628,last night,morgan wallen,1,2023,1,31,2023-01-31,2023-01,2487,2420,19,429829812,52,107,15,1,204,52,52,68,46,0,15,4,4,Alto,1,Baixo,3,Baixo,3,Baixo,4,Alto,1,Baixo,3,Baixo,2,Baixo
+2841488,i wrote the book,morgan wallen,1,2023,1,31,2023-01-31,2023-01,445,430,0,83021468,15,17,0,0,144,68,83,81,9,0,8,4,4,Alto,2,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,1,Baixo,2,Baixo
+2084763,rosa pastel,jasiel nu ez peso p,2,2023,2,2,2023-02-02,2023-02,210,200,4,90025258,8,77,2,1,123,70,86,68,24,0,11,4,3,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo,2,Baixo,2,Baixo
+1726395,boy s a liar pt 2,pinkpantheress ice spice,2,2023,2,3,2023-02-03,2023-02,5440,5184,41,156338624,154,84,102,14,133,70,86,81,25,0,25,5,3,Baixo,3,Baixo,4,Alto,4,Alto,3,Baixo,4,Alto,4,Alto,2,Baixo
+7230461,di que si,grupo marca registrada grupo frontera,2,2023,2,3,2023-02-03,2023-02,364,356,10,147290338,4,64,4,2,182,57,80,59,8,0,6,5,4,Alto,2,Baixo,4,Alto,2,Baixo,2,Baixo,2,Baixo,1,Baixo,2,Baixo
+1488746,oi balde ao vivo,z neto crist,1,2023,2,14,2023-02-14,2023-02,904,845,2,145458418,12,57,47,1,108,67,55,67,60,0,80,5,2,Baixo,2,Baixo,3,Baixo,3,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo
+3895305,private landing feat justin bieber future ,don toliver future justin bieber,3,2023,2,23,2023-02-23,2023-02,1237,1190,0,105062254,29,3,18,0,137,84,44,67,8,0,11,6,3,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo
+2770990,moonlight,kali uchis,1,2023,2,24,2023-02-24,2023-02,2773,2649,42,256483385,67,79,57,1,137,64,88,72,51,0,17,5,3,Baixo,2,Baixo,4,Alto,3,Baixo,4,Alto,1,Baixo,3,Baixo,2,Baixo
+2098417,seu brilho sumiu ao vivo,israel rodolffo mari fernandez,2,2023,3,1,2023-03-01,2023-03,1025,967,5,138517666,7,29,51,1,154,63,75,92,31,0,91,5,4,Alto,2,Baixo,4,Alto,4,Alto,3,Baixo,4,Alto,4,Alto,2,Baixo
+3746522,born with a beer in my hand,morgan wallen,1,2023,3,3,2023-03-03,2023-03,208,203,0,34450974,5,9,0,0,148,53,61,81,5,0,36,4,4,Alto,1,Baixo,3,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto,2,Baixo
+7412049,el merengue,marshmello manuel turizo,2,2023,3,3,2023-03-03,2023-03,2304,2114,44,223633238,80,75,110,11,124,78,70,68,3,1,11,4,3,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,2,Baixo,2,Baixo
+1549051,miracle with ellie goulding ,calvin harris ellie goulding,2,2023,3,10,2023-03-10,2023-03,5527,5120,48,211050784,161,115,246,9,143,64,31,87,4,4,8,4,4,Alto,2,Baixo,1,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,2,Baixo
+5560446,coco chanel,bad bunny eladio carrion,2,2023,3,17,2023-03-17,2023-03,2019,1962,38,250305248,28,89,29,5,150,68,14,76,4,0,10,4,4,Alto,2,Baixo,1,Baixo,3,Baixo,1,Baixo,2,Baixo,2,Baixo,2,Baixo
+6247887,lala,myke towers,1,2023,3,23,2023-03-23,2023-03,1580,1474,48,133716286,48,126,58,14,92,71,61,74,7,0,10,4,1,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,4,Alto,2,Baixo,2,Baixo
+5763974,void,melanie martinez,1,2023,3,29,2023-03-29,2023-03,637,596,0,67070410,29,9,12,0,100,72,42,66,18,4,19,4,2,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo,4,Alto,3,Baixo,2,Baixo
+8171349,las morras,blessd peso pluma,2,2023,4,4,2023-04-04,2023-04,303,291,8,127026613,8,78,4,1,133,78,90,84,31,0,7,4,3,Baixo,3,Baixo,4,Alto,4,Alto,3,Baixo,1,Baixo,1,Baixo,2,Baixo
+6987709,peaches from the super mario bros movie ,jack black,1,2023,4,7,2023-04-07,2023-04,34,34,0,68216992,0,0,0,0,92,71,41,31,79,0,10,5,1,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,2,Baixo,2,Baixo
+3475077,never felt so alone,labrinth,1,2023,4,7,2023-04-07,2023-04,1827,1730,3,117747907,46,5,51,0,98,44,36,41,50,0,38,5,1,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,4,Alto,2,Baixo
+7517093,i am,ive,1,2023,4,10,2023-04-10,2023-04,389,366,15,123132751,16,102,7,0,122,68,38,88,1,0,8,5,3,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo,2,Baixo
+2619841,chemical,post malone,1,2023,4,14,2023-04-14,2023-04,2643,2528,39,172825906,56,91,59,3,170,50,37,90,0,0,12,5,4,Alto,1,Baixo,2,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo,2,Baixo
+1197669,un x100to,bad bunny grupo frontera,2,2023,4,17,2023-04-17,2023-04,2971,2876,40,505671438,41,205,54,12,83,57,56,72,23,0,27,5,1,Baixo,1,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,2,Baixo
+6882173,conex es de m fia feat rich,rich the kid matu ,2,2023,4,30,2023-04-30,2023-04,443,385,4,77233241,17,7,41,1,117,77,69,58,39,0,26,5,2,Baixo,3,Baixo,3,Baixo,2,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo
+2012053,unforgiven feat nile rodgers ,nile rodgers le sserafim,2,2023,5,1,2023-05-01,2023-05,350,327,13,92035115,14,110,9,0,104,80,38,88,11,0,11,5,2,Baixo,4,Alto,2,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo,2,Baixo
+1849027,t ,dennis mc kevin o chris,2,2023,5,4,2023-05-04,2023-05,831,731,15,111947664,27,17,73,4,130,86,59,96,50,1,9,5,3,Baixo,4,Alto,3,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo,2,Baixo
+4603662,don t ever say love me feat rm of bts ,rm colde,2,2023,5,4,2023-05-04,2023-05,115,105,0,34502215,5,9,5,0,145,54,19,48,36,0,37,5,4,Alto,1,Baixo,1,Baixo,1,Baixo,3,Baixo,2,Baixo,4,Alto,2,Baixo
+6675451,mejor que yo,mambo kingz dj luian anuel aa,3,2023,5,4,2023-05-04,2023-05,695,675,1,50847624,9,13,11,0,178,62,56,66,18,0,12,5,4,Alto,2,Baixo,3,Baixo,2,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo
+6895326,curtains,ed sheeran,1,2023,5,5,2023-05-05,2023-05,779,715,0,39893489,37,3,27,0,176,50,44,76,10,0,32,5,4,Alto,1,Baixo,2,Baixo,3,Baixo,2,Baixo,2,Baixo,4,Alto,2,Baixo
+1121286,queencard, g i dle,1,2023,5,15,2023-05-15,2023-05,468,451,33,96273746,10,126,7,0,130,82,69,83,3,0,27,5,3,Baixo,4,Alto,3,Baixo,4,Alto,1,Baixo,3,Baixo,4,Alto,2,Baixo
+3747351,phir aur kya chahiye from zara hatke zara bachke ,arijit singh sachin jigar amitabha bhattacharya,3,2023,5,15,2023-05-15,2023-05,185,178,6,64533040,6,71,1,0,100,56,53,55,53,0,12,4,2,Baixo,1,Baixo,3,Baixo,2,Baixo,4,Alto,4,Alto,2,Baixo,2,Baixo
+6293464,cheques,shubh,1,2023,5,19,2023-05-19,2023-05,74,67,8,47956378,7,10,0,0,90,74,36,63,26,0,27,5,1,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo,2,Baixo,4,Alto,2,Baixo
+6953068,tere vaaste from zara hatke zara bachke ,sachin jigar shadab faridi altamash faridi amitabh bhattacharya varun jain,5,2023,5,22,2023-05-22,2023-05,186,182,8,54225632,3,88,1,0,110,76,96,72,32,0,9,4,2,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo,1,Baixo,2,Baixo
+5310138,dance the night from barbie the album ,dua lipa,1,2023,5,25,2023-05-25,2023-05,3131,2988,101,127408954,0,0,143,38,110,67,78,85,2,0,33,5,2,Baixo,2,Baixo,4,Alto,4,Alto,1,Baixo,1,Baixo,4,Alto,2,Baixo
+6776344,bye,peso pluma,1,2023,5,26,2023-05-26,2023-05,345,324,14,95053634,13,110,8,2,122,78,70,81,57,0,10,5,3,Baixo,3,Baixo,3,Baixo,4,Alto,4,Alto,1,Baixo,2,Baixo,2,Baixo
+7757967,peso pluma bzrp music sessions vol 55,bizarrap peso pluma,2,2023,5,31,2023-05-31,2023-05,1362,1313,40,200647221,17,152,32,11,133,85,81,67,26,0,12,5,3,Baixo,4,Alto,4,Alto,3,Baixo,3,Baixo,3,Baixo,2,Baixo,2,Baixo
+4801316,los del espacio,big one duki lit killah maria becerra fmk rusherking emilia tiago pzk,8,2023,6,1,2023-06-01,2023-06,1206,1150,31,123122413,22,33,34,7,120,81,63,68,11,0,11,4,2,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo
+8125634,self love spider man across the spider verse metro boomin coi leray ,metro boomin coi leray,2,2023,6,2,2023-06-02,2023-06,355,332,5,70106975,18,41,5,0,120,78,5,30,21,0,13,5,2,Baixo,3,Baixo,1,Baixo,1,Baixo,3,Baixo,4,Alto,3,Baixo,2,Baixo
+8760891,el cielo,feid myke towers sky rompiendo,3,2023,6,2,2023-06-02,2023-06,1399,1298,38,107753850,44,64,57,10,106,72,17,64,7,0,10,5,2,Baixo,3,Baixo,1,Baixo,2,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo
+3461847, it goes like nanana edit,peggy gou,1,2023,6,15,2023-06-15,2023-06,2368,2259,59,57876440,0,0,109,17,130,67,96,88,12,19,8,4,3,Baixo,2,Baixo,4,Alto,4,Alto,2,Baixo,4,Alto,1,Baixo,2,Baixo
+8262356,rauw alejandro bzrp music sessions vol 56,rauw alejandro bizarrap,2,2023,6,21,2023-06-21,2023-06,928,871,32,66902503,25,59,32,5,128,78,59,65,10,0,26,5,3,Baixo,3,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo,4,Alto,2,Baixo
+1717593,luna,junior h peso pluma,2,2023,6,22,2023-06-22,2023-06,228,201,11,55842345,19,117,8,1,128,75,79,63,33,0,15,4,3,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo,3,Baixo,2,Baixo
+6452995,lady gaga,gabito ballesteros junior h peso pluma,3,2023,6,22,2023-06-22,2023-06,353,332,26,86444842,11,163,10,4,140,65,87,74,22,0,42,4,3,Baixo,2,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo,4,Alto,2,Baixo
+3670203,baby hello,rauw alejandro bizarrap,2,2023,6,23,2023-06-23,2023-06,1104,1004,35,54266102,42,80,58,3,130,77,84,89,17,0,43,5,3,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,4,Alto,4,Alto,2,Baixo
+2869874,tulum,peso pluma grupo frontera,2,2023,6,28,2023-06-28,2023-06,299,266,34,52294266,20,185,13,8,168,56,63,87,39,0,11,5,4,Alto,1,Baixo,3,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo,2,Baixo
+4576591,mojabi ghost,tainy bad bunny,2,2023,6,29,2023-06-29,2023-06,935,859,40,61245289,35,109,41,14,122,81,74,71,14,0,56,4,3,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo,2,Baixo,4,Alto,2,Baixo
+8209238,mi bello angel,natanael cano,1,2023,6,30,2023-06-30,2023-06,96,86,8,31873544,7,76,3,1,128,81,90,77,1,0,9,5,3,Baixo,4,Alto,4,Alto,3,Baixo,1,Baixo,3,Baixo,1,Baixo,2,Baixo
+4928987,new jeans,newjeans,1,2023,7,7,2023-07-07,2023-07,89,77,35,29562220,8,166,4,4,134,81,53,72,51,0,12,5,3,Baixo,4,Alto,3,Baixo,3,Baixo,4,Alto,2,Baixo,2,Baixo,2,Baixo
+8943060,mine taylor s version ,taylor swift,1,2023,7,7,2023-07-07,2023-07,126,99,15,36912123,21,52,6,1,121,65,49,78,0,0,17,4,3,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo,3,Baixo,3,Baixo,2,Baixo
+4214662,quema,sog ryan castro peso pluma,3,2023,7,13,2023-07-13,2023-07,480,437,31,11599388,17,29,26,3,97,79,92,89,5,0,6,5,1,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo,2,Baixo,1,Baixo,2,Baixo
+8597238,run rudolph run single version,chuck berry,1,1958,1,1,1958-01-01,1958-01,8784,8612,0,245350949,120,30,52,0,152,69,94,71,79,0,7,8,4,Alto,3,Baixo,4,Alto,3,Baixo,4,Alto,1,Baixo,1,Baixo,3,Baixo
+8965193,everybody wants to rule the world,tears for fears,1,1985,2,17,1985-02-17,1985-02,44507,41751,25,1205951614,101,32,2655,0,112,64,54,81,36,0,11,6,2,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo,3,Baixo
+1832626,running up that hill a deal with god ,kate bush,1,1985,9,16,1985-09-16,1985-09,22604,21811,0,1024858327,117,1,676,3,108,63,20,55,72,0,6,6,2,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,2,Baixo,1,Baixo,3,Baixo
+5615333,smells like teen spirit remastered 2021,nirvana,1,1991,9,10,1991-09-10,1991-09,62623,49991,9,1690192927,265,121,12367,4,117,52,73,91,0,0,11,7,2,Baixo,1,Baixo,4,Alto,4,Alto,1,Baixo,2,Baixo,2,Baixo,3,Baixo
+2102834,sigue,ed sheeran j balvin,2,1996,11,24,1996-11-24,1996-11,1476,1370,0,106933107,46,8,60,0,88,89,59,64,5,0,19,7,1,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo,2,Baixo,3,Baixo,3,Baixo
+3363172,forgot about dre,eminem dr dre,2,1999,1,1,1999-01-01,1999-01,20819,19067,0,675039469,78,15,1674,0,134,93,61,74,9,0,17,8,3,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,4,Alto,3,Baixo,3,Baixo
+2670198,the real slim shady,eminem,1,2000,1,1,2000-01-01,2000-01,24115,20763,27,1424589568,81,53,3271,1,104,95,78,66,3,0,4,6,2,Baixo,4,Alto,4,Alto,3,Baixo,1,Baixo,1,Baixo,1,Baixo,3,Baixo
+4552573,in the end,linkin park,1,2000,10,24,2000-10-24,2000-10,31936,25065,6,1624165576,63,0,6808,2,105,55,40,90,1,0,32,6,2,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto,3,Baixo
+1663974,without me,eminem,1,2002,1,1,2002-01-01,2002-01,25068,21081,43,1687664027,98,76,3889,5,112,92,67,66,0,0,36,9,2,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo,3,Baixo,4,Alto,3,Baixo
+4238748,superman,eminem dina rae,2,2002,5,26,2002-05-26,2002-05,8638,7615,14,655466831,18,51,1005,0,130,80,64,76,2,0,20,6,3,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo,3,Baixo,3,Baixo,3,Baixo
+1512850,mr brightside,the killers,1,2003,9,23,2003-09-23,2003-09,57348,51979,15,1806617704,306,99,5063,2,148,35,24,93,0,0,10,8,4,Alto,1,Baixo,1,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo,3,Baixo
+3451143,sure thing,miguel,1,2010,5,25,2010-05-25,2010-05,14373,13801,19,950906471,137,125,435,6,81,68,51,60,3,0,19,10,1,Baixo,2,Baixo,3,Baixo,2,Baixo,1,Baixo,3,Baixo,3,Baixo,3,Baixo
+4458161,radio,lana del rey,1,2011,1,1,2011-01-01,2011-01,9695,9389,46,284819874,24,122,282,3,150,42,20,86,21,0,9,9,4,Alto,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo,3,Baixo
+3605651,can t hold us feat ray dalton ,ray dalton ryan lewis macklemore,3,2011,8,16,2011-08-16,2011-08,12826,6074,52,1953533826,201,44,6551,2,146,63,88,93,3,0,10,8,4,Alto,2,Baixo,4,Alto,4,Alto,1,Baixo,2,Baixo,2,Baixo,3,Baixo
+1729982,lover,taylor swift,1,2012,1,1,2012-01-01,2012-01,8771,8448,23,882831184,160,110,163,0,206,43,50,55,50,0,15,10,4,Alto,1,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo,3,Baixo,3,Baixo
+7811952,money trees,kendrick lamar jay rock,2,2012,1,1,2012-01-01,2012-01,27556,26792,32,1093605526,69,113,695,0,144,74,37,53,7,0,21,10,4,Alto,3,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo,3,Baixo
+8274842,montagem fr punk,ayparia unxbected,2,2012,6,20,2012-06-20,2012-06,650,641,50,58054811,1,52,8,0,129,63,84,82,70,8,9,7,3,Baixo,2,Baixo,4,Alto,4,Alto,4,Alto,4,Alto,1,Baixo,3,Baixo
+2061482,only love can hurt like this,paloma faith,1,2014,1,1,2014-01-01,2014-01,5603,5148,0,588955257,90,22,365,0,91,57,30,89,10,0,33,8,1,Baixo,1,Baixo,1,Baixo,4,Alto,2,Baixo,3,Baixo,4,Alto,3,Baixo
+6380084,the hills,the weeknd,1,2015,5,27,2015-05-27,2015-05,27858,25744,4,1947371785,122,94,1992,0,136,36,12,57,9,0,14,8,3,Baixo,1,Baixo,1,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo,3,Baixo
+7159285,makeba,jain,1,2015,6,22,2015-06-22,2015-06,8913,6060,53,165484133,150,148,2703,22,116,82,40,66,39,51,25,7,2,Baixo,4,Alto,2,Baixo,3,Baixo,3,Baixo,4,Alto,4,Alto,3,Baixo
+8213022,unstoppable,sia,1,2016,1,21,2016-01-21,2016-01,8945,7681,13,939844851,119,66,1145,2,174,47,27,78,11,0,10,8,4,Alto,1,Baixo,1,Baixo,4,Alto,2,Baixo,1,Baixo,2,Baixo,3,Baixo
+1992045,notion,the rare occasions,1,2016,8,5,2016-08-05,2016-08,2480,2393,0,421135627,22,13,65,0,160,31,30,88,7,0,8,8,4,Alto,1,Baixo,1,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo,3,Baixo
+8897005,pink white,frank ocean,1,2016,8,20,2016-08-20,2016-08,21952,21574,30,806397070,112,68,266,1,160,54,54,55,67,0,42,11,4,Alto,1,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo
+8292846,hey mickey ,baby tate,1,2016,9,27,2016-09-27,2016-09,503,482,0,122763672,9,1,12,4,135,92,73,51,55,0,15,6,3,Baixo,4,Alto,4,Alto,1,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo
+7476887,die for you,the weeknd,1,2016,11,24,2016-11-24,2016-11,2575,2483,59,1647990401,68,21,24,0,134,59,51,52,9,0,15,7,3,Baixo,2,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo
+7910702,stargirl interlude,the weeknd lana del rey,2,2016,11,24,2016-11-24,2016-11,1293,1275,32,611700552,13,8,5,0,90,59,52,48,38,5,10,11,1,Baixo,2,Baixo,3,Baixo,1,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo
+4299313,shape of you,ed sheeran,1,2017,1,6,2017-01-06,2017-01,39022,32181,10,3562543890,33,0,6808,7,96,83,93,65,58,0,9,8,1,Baixo,4,Alto,4,Alto,2,Baixo,4,Alto,1,Baixo,1,Baixo,3,Baixo
+4181228,believer,imagine dragons,1,2017,1,31,2017-01-31,2017-01,22205,18986,23,2594040133,250,121,2969,10,125,77,74,78,4,0,23,11,3,Baixo,3,Baixo,4,Alto,4,Alto,1,Baixo,3,Baixo,3,Baixo,3,Baixo
+2143818,one kiss with dua lipa ,calvin harris dua lipa,2,2017,6,2,2017-06-02,2017-06,30968,27705,10,1897517891,537,122,2726,6,124,79,59,86,4,0,8,11,3,Baixo,4,Alto,3,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,3,Baixo
+4446199,see you again,tyler the creator kali uchis,3,2017,7,21,2017-07-21,2017-07,13711,13387,64,1047101291,77,58,247,1,79,56,58,56,37,0,11,10,1,Baixo,1,Baixo,3,Baixo,2,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo
+6047703,astronaut in the ocean,masked wolf,1,2019,1,1,2019-01-01,2019-01,7815,7191,0,1138474110,146,18,478,0,150,78,47,70,18,0,15,9,4,Alto,4,Alto,2,Baixo,3,Baixo,3,Baixo,3,Baixo,3,Baixo,3,Baixo
+7304378,boy with luv feat halsey ,halsey bts,2,2019,4,12,2019-04-12,2019-04,4632,4260,0,1065580332,113,92,259,0,120,65,80,86,9,0,19,10,2,Baixo,2,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo,3,Baixo,3,Baixo
+2969661,dance monkey,tones and i,1,2019,5,10,2019-05-10,2019-05,28657,24529,0,2864791672,533,167,3595,6,98,82,54,59,69,0,18,10,1,Baixo,4,Alto,3,Baixo,2,Baixo,4,Alto,2,Baixo,3,Baixo,3,Baixo
+2775772,heart to heart,mac demarco,1,2019,5,10,2019-05-10,2019-05,1696,1640,0,244658767,27,27,29,1,150,90,64,14,67,35,11,10,4,Alto,4,Alto,3,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo
+6792432,all for us from the hbo original series euphoria,labrinth zendaya,2,2019,8,4,2019-08-04,2019-08,5382,5342,0,426204830,33,123,7,0,141,37,17,67,2,0,34,9,4,Alto,1,Baixo,1,Baixo,3,Baixo,1,Baixo,2,Baixo,4,Alto,3,Baixo
+8725160,love nwantiti remix,ckay ax el dj yo ,3,2019,8,30,2019-08-30,2019-08,2795,2696,0,540539717,42,2,57,0,120,58,44,60,44,9,5,6,2,Baixo,2,Baixo,2,Baixo,2,Baixo,4,Alto,4,Alto,1,Baixo,3,Baixo
+6891911,don t start now,dua lipa,1,2019,10,31,2019-10-31,2019-10,29186,27119,0,2303033973,532,77,1535,3,124,79,68,79,1,0,10,8,3,Baixo,4,Alto,3,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo,3,Baixo
+6163158,before you go,lewis capaldi,1,2019,11,1,2019-11-01,2019-11,9157,8327,24,1608045237,205,130,625,0,112,45,19,60,63,0,9,6,2,Baixo,1,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto,1,Baixo,3,Baixo
+2092930,streets,doja cat,1,2019,11,7,2019-11-07,2019-11,5992,5728,0,865640097,85,87,179,0,90,75,19,46,21,4,34,8,1,Baixo,3,Baixo,1,Baixo,1,Baixo,3,Baixo,4,Alto,4,Alto,3,Baixo
+2553984,blinding lights,the weeknd,1,2019,11,29,2019-11-29,2019-11,47992,43899,69,3703895074,672,199,3421,20,171,50,38,80,0,0,9,7,4,Alto,1,Baixo,2,Baixo,4,Alto,1,Baixo,1,Baixo,1,Baixo,3,Baixo
+2977289,golden,harry styles,1,2019,12,13,2019-12-13,2019-12,8714,8429,1,807015863,85,24,200,0,140,45,25,84,21,0,13,6,3,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo,3,Baixo
+4341380,shut up my moms calling,hotel ugly,1,2020,2,10,2020-02-10,2020-02,1808,1788,14,405136812,1,50,19,0,139,48,37,41,32,0,10,10,3,Baixo,1,Baixo,2,Baixo,1,Baixo,3,Baixo,1,Baixo,2,Baixo,3,Baixo
+4974042,a tu merced,bad bunny,1,2020,2,29,2020-02-29,2020-02,4275,4214,11,685071800,21,20,40,0,92,86,89,79,17,0,11,6,1,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo,3,Baixo,2,Baixo,3,Baixo
+5370460,levitating,dua lipa,1,2020,3,27,2020-03-27,2020-03,10597,9833,0,797196073,233,82,531,1,103,69,90,88,5,0,29,8,2,Baixo,2,Baixo,4,Alto,4,Alto,1,Baixo,2,Baixo,4,Alto,3,Baixo
+5415405,levitating feat dababy ,dua lipa dababy,2,2020,3,27,2020-03-27,2020-03,16636,15894,8,1802514301,198,13,544,0,103,70,92,83,1,0,7,6,2,Baixo,3,Baixo,4,Alto,4,Alto,1,Baixo,2,Baixo,1,Baixo,3,Baixo
+8788368,heat waves,glass animals,1,2020,6,28,2020-06-28,2020-06,23636,22543,63,2557975762,386,144,707,28,81,76,53,53,44,0,9,9,1,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,1,Baixo,1,Baixo,3,Baixo
+8056641,life goes on,oliver tree,1,2020,7,17,2020-07-17,2020-07,3027,2868,0,501541661,43,15,116,0,80,70,57,49,19,0,12,8,1,Baixo,3,Baixo,3,Baixo,1,Baixo,3,Baixo,3,Baixo,2,Baixo,3,Baixo
+2816072,excuses,intense ap dhillon gurinder gill,3,2020,7,24,2020-07-24,2020-07,281,272,4,327498031,7,21,2,0,95,84,49,72,8,0,15,8,1,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo
+3745752,dynamite,bts,1,2020,8,21,2020-08-21,2020-08,9350,8528,5,1692897992,239,163,583,0,114,75,74,77,1,0,9,10,2,Baixo,3,Baixo,4,Alto,3,Baixo,1,Baixo,4,Alto,1,Baixo,3,Baixo
+8672552,mon amour remix,aitana zzoilo,2,2020,9,21,2020-09-21,2020-09,3427,3221,2,578207856,67,13,139,0,116,75,36,76,12,0,10,10,2,Baixo,3,Baixo,2,Baixo,3,Baixo,2,Baixo,3,Baixo,2,Baixo,3,Baixo
+6775509,good days,sza,1,2020,12,24,2020-12-24,2020-12,10741,10426,2,826623384,133,109,182,1,121,46,53,78,23,0,72,6,3,Baixo,1,Baixo,3,Baixo,4,Alto,3,Baixo,4,Alto,4,Alto,3,Baixo
+5750956,drivers license,olivia rodrigo,1,2021,1,8,2021-01-08,2021-01,13355,12685,3,1858144199,185,61,485,0,144,59,21,43,76,0,10,7,4,Alto,2,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,3,Baixo
+5498548,qu m ,j balvin maria becerra,2,2021,1,28,2021-01-28,2021-01,8310,8087,0,720825549,92,34,131,0,102,89,77,82,3,0,17,11,2,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo,3,Baixo,3,Baixo,3,Baixo
+6698200,ghost,justin bieber,1,2021,3,19,2021-03-19,2021-03,6068,5866,24,1167330737,107,38,95,0,154,61,41,74,21,0,40,6,4,Alto,2,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,3,Baixo
+1289598,deja vu,olivia rodrigo,1,2021,4,1,2021-04-01,2021-04,7803,7545,4,1256880657,117,39,141,0,181,44,22,60,61,0,42,9,4,Alto,1,Baixo,1,Baixo,2,Baixo,4,Alto,2,Baixo,4,Alto,3,Baixo
+1027228,mi n,tini maria becerra,2,2021,4,29,2021-04-29,2021-04,3537,3406,16,596152090,61,23,70,1,92,85,92,54,16,0,29,7,1,Baixo,4,Alto,4,Alto,2,Baixo,2,Baixo,4,Alto,4,Alto,3,Baixo
+8452012,butter,bts,1,2021,5,21,2021-05-21,2021-05,5182,4779,6,1143647827,180,135,223,0,110,79,70,36,0,0,6,11,2,Baixo,4,Alto,4,Alto,1,Baixo,1,Baixo,1,Baixo,1,Baixo,3,Baixo
+8480431,need to know,doja cat,1,2021,6,11,2021-06-11,2021-06,6947,6672,0,1042568408,125,36,150,0,130,66,19,61,30,0,9,7,3,Baixo,2,Baixo,1,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo,3,Baixo
+4967426,you right,doja cat the weeknd,2,2021,6,24,2021-06-24,2021-06,5256,5073,0,672656250,83,9,100,0,129,83,44,62,2,0,8,6,3,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo,3,Baixo,1,Baixo,3,Baixo
+6879361,desesperados,chencho corleone rauw alejandro,2,2021,6,25,2021-06-25,2021-06,7032,6821,34,809306935,83,58,128,7,90,87,51,69,36,0,9,8,1,Baixo,4,Alto,2,Baixo,3,Baixo,3,Baixo,1,Baixo,1,Baixo,3,Baixo
+5346382,woman,doja cat,1,2021,6,25,2021-06-25,2021-06,10089,9424,0,1329090101,202,50,463,4,108,82,88,76,9,0,12,9,2,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo,3,Baixo,3,Baixo,3,Baixo
+2011518,volando remix,sech bad bunny mora,3,2021,7,8,2021-07-08,2021-07,3443,3272,19,610045621,101,34,70,1,154,66,63,69,21,0,11,7,4,Alto,2,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo
+3378211,industry baby feat jack harlow ,jack harlow lil nas x,2,2021,7,23,2021-07-23,2021-07,14305,13315,0,1814349763,300,47,690,0,150,74,89,70,2,0,5,6,4,Alto,3,Baixo,4,Alto,3,Baixo,1,Baixo,3,Baixo,1,Baixo,3,Baixo
+6416915,where are you now,lost frequencies calum scott,2,2021,7,30,2021-07-30,2021-07,11360,10565,44,972509632,238,122,557,17,121,67,26,64,52,0,17,10,3,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto,3,Baixo,3,Baixo
+1828042,don t be shy,ti sto kar,2,2021,8,1,2021-08-01,2021-08,6384,6026,0,566954746,171,51,187,1,120,77,51,79,20,0,26,6,2,Baixo,3,Baixo,2,Baixo,4,Alto,3,Baixo,3,Baixo,4,Alto,3,Baixo
+1647815,se le ve,arcangel de la ghetto justin quiles lenny tav rez sech dalex dimelo flow rich music,8,2021,8,12,2021-08-12,2021-08,1632,1560,0,223319934,72,0,0,0,84,56,61,76,10,0,14,11,1,Baixo,1,Baixo,3,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo
+6984128,do it to it,cherish acraze,2,2021,8,20,2021-08-20,2021-08,13051,12403,0,674772936,183,63,465,0,125,85,64,81,2,5,7,9,3,Baixo,4,Alto,3,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,3,Baixo
+4102590,ley seca,anuel aa jhay cortez,2,2021,9,2,2021-09-02,2021-09,2151,2012,0,355219175,101,12,38,0,105,76,58,84,10,0,13,10,2,Baixo,3,Baixo,3,Baixo,4,Alto,2,Baixo,2,Baixo,3,Baixo,3,Baixo
+4551026,this is what falling in love feels like,jvke,1,2021,9,3,2021-09-03,2021-09,2064,2005,0,346127840,16,5,43,0,129,42,33,44,62,0,8,6,3,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,1,Baixo,3,Baixo
+1774478,shivers,ed sheeran,1,2021,9,9,2021-09-09,2021-09,10924,10147,30,1302184087,234,71,543,18,141,79,82,86,28,0,4,9,4,Alto,4,Alto,4,Alto,4,Alto,3,Baixo,2,Baixo,1,Baixo,3,Baixo
+3154799,mon y so,yeat,1,2021,9,10,2021-09-10,2021-09,1487,1473,0,263779030,2,0,12,0,138,69,35,57,12,0,10,9,3,Baixo,3,Baixo,2,Baixo,2,Baixo,2,Baixo,4,Alto,2,Baixo,3,Baixo
+6575753,sad girlz luv money remix feat kali uchis ,kali uchis amaarae moliy,3,2021,9,16,2021-09-16,2021-09,3782,3643,0,354065229,69,3,70,0,110,86,31,53,43,0,11,6,2,Baixo,4,Alto,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,3,Baixo
+8744804,the feels,twice,1,2021,10,1,2021-10-01,2021-10,1214,1150,0,345903614,20,99,44,0,120,81,92,90,9,0,8,7,2,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo,2,Baixo,1,Baixo,3,Baixo
+8990379,lo siento bb with bad bunny julieta venegas ,julieta venegas bad bunny tainy,3,2021,10,5,2021-10-05,2021-10,3537,3423,26,775542072,61,65,53,6,170,64,14,70,9,0,9,8,4,Alto,2,Baixo,1,Baixo,3,Baixo,2,Baixo,3,Baixo,1,Baixo,3,Baixo
+1633830,esque a me se for c,mar lia mendon a maiara ,2,2021,10,14,2021-10-14,2021-10,697,580,0,258316038,24,92,93,0,122,80,62,69,28,0,13,7,3,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo
+6427223,problem ,alvaro diaz rauw alejandro,2,2021,10,22,2021-10-22,2021-10,1574,1517,0,209768491,42,7,15,0,92,73,37,74,28,0,14,6,1,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo,3,Baixo,3,Baixo
+6759871,medallo,justin quiles lenny tav rez bl,3,2021,10,27,2021-10-27,2021-10,2891,2780,2,393230256,54,21,57,1,90,79,79,70,57,0,66,8,1,Baixo,4,Alto,4,Alto,3,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo
+5145584,envolver,anitta,1,2021,11,11,2021-11-11,2021-11,4976,4673,2,546191065,123,113,180,1,92,81,40,73,15,0,9,8,1,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo,2,Baixo,1,Baixo,3,Baixo
+2582262,bar,tini l gante,2,2021,11,11,2021-11-11,2021-11,777,755,4,200972675,22,3,0,0,94,52,68,69,13,0,33,8,1,Baixo,1,Baixo,3,Baixo,3,Baixo,2,Baixo,4,Alto,4,Alto,3,Baixo
+2726514,dance crip,trueno,1,2021,11,17,2021-11-17,2021-11,769,731,0,198883004,14,14,24,0,106,86,86,79,11,0,8,9,2,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo,1,Baixo,1,Baixo,3,Baixo
+2407166,s ,anuel aa myke towers jhay cortez,3,2021,11,18,2021-11-18,2021-11,948,903,0,177129919,30,26,15,0,90,63,75,75,17,0,11,8,1,Baixo,2,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo,2,Baixo,3,Baixo
+7235348,we don t talk about bruno,adassa mauro castillo stephanie beatriz encanto cast rhenzy feliz diane guerrero carolina gaitan,7,2021,11,19,2021-11-19,2021-11,2924,2785,0,432719968,95,89,44,0,206,58,83,45,36,0,11,8,4,Alto,2,Baixo,4,Alto,1,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo
+6158916,metamorphosis,interworld,1,2021,11,25,2021-11-25,2021-11,1603,1561,24,357580552,18,78,24,0,175,59,15,64,43,90,12,10,4,Alto,2,Baixo,1,Baixo,2,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo
+1640645,eleven,ive,1,2021,12,1,2021-12-01,2021-12,549,521,1,247737946,17,89,11,0,120,83,59,73,6,0,5,11,2,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,1,Baixo,1,Baixo,3,Baixo
+5930788,peru,ed sheeran fireboy dml,2,2021,12,23,2021-12-23,2021-12,3213,2999,0,261286503,60,17,154,0,108,96,71,42,57,0,8,9,2,Baixo,4,Alto,4,Alto,1,Baixo,4,Alto,2,Baixo,1,Baixo,3,Baixo
+8033263,slomo,chanel,1,2021,12,24,2021-12-24,2021-12,1261,1211,0,65719930,31,0,19,0,105,73,59,81,13,0,9,6,2,Baixo,3,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo,3,Baixo
+4464368,thought i was playing,21 savage gunna,2,2022,1,7,2022-01-07,2022-01,815,807,0,60680939,3,0,5,0,148,68,29,73,0,0,7,7,4,Alto,2,Baixo,1,Baixo,3,Baixo,1,Baixo,1,Baixo,1,Baixo,3,Baixo
+7726159,sacrifice,the weeknd,1,2022,1,7,2022-01-07,2022-01,4654,4440,0,326792833,81,77,133,0,122,70,91,79,3,0,7,10,3,Baixo,3,Baixo,4,Alto,4,Alto,1,Baixo,1,Baixo,1,Baixo,3,Baixo
+3355993,a tale by quincy,the weeknd,1,2022,1,7,2022-01-07,2022-01,735,733,0,41924466,0,2,2,0,94,46,55,50,71,0,10,11,1,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo
+4501584,how do i make you love me ,the weeknd,1,2022,1,7,2022-01-07,2022-01,1937,1915,0,119238316,7,47,15,0,121,80,62,51,2,0,9,8,3,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo,2,Baixo,1,Baixo,3,Baixo
+5810373,l ,stromae,1,2022,1,9,2022-01-09,2022-01,2470,2035,0,108809090,41,122,394,0,88,56,58,55,35,0,23,11,1,Baixo,1,Baixo,3,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo
+7822780,blessed cursed,enhypen,1,2022,1,10,2022-01-10,2022-01,258,246,0,77337771,2,12,10,0,127,60,40,89,9,0,60,6,3,Baixo,2,Baixo,2,Baixo,4,Alto,2,Baixo,2,Baixo,4,Alto,3,Baixo
+3569943,mal feito ao vivo,mar lia mendon a hugo g,2,2022,1,14,2022-01-14,2022-01,1099,971,2,291709698,35,104,93,1,124,73,68,83,55,0,90,7,3,Baixo,3,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,4,Alto,3,Baixo
+5418507,212,mainstreet chefin,2,2022,1,15,2022-01-15,2022-01,401,352,0,143139338,10,0,39,0,154,79,86,52,66,0,9,7,4,Alto,4,Alto,4,Alto,1,Baixo,4,Alto,3,Baixo,1,Baixo,3,Baixo
+7741272,rumble,skrillex flowdan fred again ,3,2022,1,17,2022-01-17,2022-01,2915,2849,0,78489819,39,45,27,0,140,81,6,84,5,23,6,6,3,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,3,Baixo
+3170547,una noche en medell ,cris mj,1,2022,1,21,2022-01-21,2022-01,5514,5415,32,682475162,46,16,53,1,96,87,82,53,10,0,5,8,1,Baixo,4,Alto,4,Alto,1,Baixo,2,Baixo,1,Baixo,1,Baixo,3,Baixo
+5673293,murder in my mind,kordhell,1,2022,1,21,2022-01-21,2022-01,2529,2459,20,448843705,20,68,50,0,120,71,57,97,1,0,13,11,2,Baixo,3,Baixo,3,Baixo,4,Alto,1,Baixo,3,Baixo,3,Baixo,3,Baixo
+3923724,numb little bug,em beihold,1,2022,1,28,2022-01-28,2022-01,2115,2026,0,258714692,47,3,42,12,85,74,61,52,30,0,26,9,1,Baixo,3,Baixo,3,Baixo,1,Baixo,3,Baixo,2,Baixo,4,Alto,3,Baixo
+8569518,dan a,mc pedrinho pedro sampaio,2,2022,2,1,2022-02-01,2022-02,1055,911,2,208166039,45,0,99,1,135,78,55,57,4,0,10,8,3,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo,3,Baixo,2,Baixo,3,Baixo
+2838411,mamiii,karol g becky g,2,2022,2,10,2022-02-10,2022-02,7135,6809,28,716591492,151,102,175,5,94,84,90,70,9,0,14,8,1,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo,1,Baixo,3,Baixo,3,Baixo
+1906058,boyfriend,dove cameron,1,2022,2,11,2022-02-11,2022-02,3944,3766,0,496311364,76,0,102,0,180,35,23,61,23,0,19,6,4,Alto,1,Baixo,1,Baixo,2,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo
+1461831,stay alive prod suga of bts ,jung kook,1,2022,2,11,2022-02-11,2022-02,614,590,5,246376690,4,113,20,0,130,51,50,76,30,0,10,7,3,Baixo,1,Baixo,2,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,3,Baixo
+3371670,nail tech,jack harlow,1,2022,2,18,2022-02-18,2022-02,3005,2939,0,193443895,42,0,24,0,150,65,11,58,0,0,12,9,4,Alto,2,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo,3,Baixo
+6403499,the shade,rex orange county,1,2022,3,11,2022-03-11,2022-03,1222,1189,6,244928911,17,10,16,0,120,90,73,51,39,0,9,6,2,Baixo,4,Alto,4,Alto,1,Baixo,3,Baixo,4,Alto,1,Baixo,3,Baixo
+4830246,idgaf with blackbear ,blackbear boywithuke,2,2022,3,18,2022-03-18,2022-03,648,625,0,197643795,10,2,13,0,98,78,83,75,41,0,27,8,1,Baixo,4,Alto,4,Alto,3,Baixo,3,Baixo,3,Baixo,4,Alto,3,Baixo
+7500786,pantysito,feid alejo robi,3,2022,3,18,2022-03-18,2022-03,3074,2995,0,273005485,49,17,30,0,98,83,63,74,14,0,16,6,1,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,4,Alto,3,Baixo,3,Baixo
+5675634,snap,rosa linn,1,2022,3,19,2022-03-19,2022-03,3576,3202,18,726307468,148,80,226,24,170,56,53,64,11,0,45,6,4,Alto,1,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo
+6644972,layla,sch rze dj r,2,2022,3,24,2022-03-24,2022-03,874,832,3,130419412,18,124,24,1,140,44,41,92,0,0,44,7,3,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto,3,Baixo
+1828295,fim de semana no rio,teto,1,2022,3,30,2022-03-30,2022-03,373,315,2,139193812,27,2,31,0,119,87,28,50,12,0,10,10,2,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo,3,Baixo,2,Baixo,3,Baixo
+3197174,as it was,harry styles,1,2022,3,31,2022-03-31,2022-03,24841,23575,130,2513188493,403,198,863,46,174,52,66,73,34,0,31,6,4,Alto,1,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,3,Baixo
+7402588,la inocente,feid mora,2,2022,4,1,2022-04-01,2022-04,2669,2598,37,477033549,28,57,43,8,92,76,46,79,31,0,7,6,1,Baixo,3,Baixo,2,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo,3,Baixo
+6130665,psychofreak feat willow ,camila cabello willow,2,2022,4,7,2022-04-07,2022-04,994,918,0,75476209,24,0,52,0,180,63,45,64,34,0,9,8,4,Alto,2,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,1,Baixo,3,Baixo
+5663428,first class,jack harlow,1,2022,4,8,2022-04-08,2022-04,9037,8737,0,694525298,163,32,137,15,107,91,32,56,3,0,11,10,2,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo,3,Baixo,2,Baixo,3,Baixo
+6116514,that s hilarious,charlie puth,1,2022,4,8,2022-04-08,2022-04,709,686,2,146363130,11,6,12,0,108,71,55,44,74,0,11,6,2,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo
+2698226,primera cita,carin leon,1,2022,4,20,2022-04-20,2022-04,278,266,27,77309611,6,40,6,6,158,54,50,40,61,0,10,6,4,Alto,1,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo,3,Baixo
+1593131,beautiful girl,luciano,1,2022,4,22,2022-04-22,2022-04,744,710,4,160035717,16,11,18,0,140,84,61,42,31,0,9,9,3,Baixo,4,Alto,3,Baixo,1,Baixo,3,Baixo,1,Baixo,1,Baixo,3,Baixo
+8779560,thousand miles,the kid laroi,1,2022,4,22,2022-04-22,2022-04,2148,2050,0,244741137,52,9,46,0,81,38,20,66,9,0,9,8,1,Baixo,1,Baixo,1,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,3,Baixo
+4487193,paulo londra bzrp music sessions vol 23,bizarrap paulo londra,2,2022,4,25,2022-04-25,2022-04,954,928,0,164163229,19,0,7,0,96,61,32,90,25,0,10,9,1,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,3,Baixo
+2442031,honest feat don toliver ,justin bieber don toliver,2,2022,4,29,2022-04-29,2022-04,1394,1351,0,106919680,26,1,17,0,150,82,82,66,13,0,11,6,4,Alto,4,Alto,4,Alto,3,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo
+6062396,that that prod feat suga of bts ,psy suga,2,2022,4,29,2022-04-29,2022-04,841,802,0,212109195,16,81,23,0,130,91,91,96,3,0,3,9,3,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo,3,Baixo,1,Baixo,3,Baixo
+4566008,afraid to feel,lf system,1,2022,5,2,2022-05-02,2022-05,6155,5898,5,244790012,129,55,128,0,128,58,68,91,2,0,27,11,3,Baixo,2,Baixo,3,Baixo,4,Alto,1,Baixo,3,Baixo,4,Alto,3,Baixo
+6347306,dua lipa,jack harlow,1,2022,5,6,2022-05-06,2022-05,2030,1992,0,150500965,35,0,3,0,158,83,41,65,0,10,11,8,4,Alto,4,Alto,2,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,3,Baixo
+3341212,party,bad bunny rauw alejandro,2,2022,5,6,2022-05-06,2022-05,3260,3185,4,614555082,38,64,37,3,97,83,47,80,2,0,24,9,1,Baixo,4,Alto,2,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto,3,Baixo
+2848319,ens ame,bad bunny,1,2022,5,6,2022-05-06,2022-05,1131,1112,3,279737940,7,25,12,0,105,81,77,79,19,0,47,8,2,Baixo,4,Alto,4,Alto,4,Alto,3,Baixo,2,Baixo,4,Alto,3,Baixo
+3331159,me porto bonito,chencho corleone bad bunny,2,2022,5,6,2022-05-06,2022-05,9115,8870,43,1440757818,104,120,141,26,92,91,43,71,9,0,9,8,1,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo,1,Baixo,1,Baixo,3,Baixo
+8457557,un verano sin ti,bad bunny,1,2022,5,6,2022-05-06,2022-05,1021,1004,1,283332261,8,12,9,0,188,50,41,50,69,0,12,6,4,Alto,1,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo
+1633065,aguacero,bad bunny,1,2022,5,6,2022-05-06,2022-05,843,829,0,283359161,4,15,10,0,121,86,67,65,42,0,35,7,3,Baixo,4,Alto,3,Baixo,2,Baixo,3,Baixo,2,Baixo,4,Alto,3,Baixo
+8555295,last last,burna boy,1,2022,5,12,2022-05-12,2022-05,4832,4526,12,293466523,156,275,150,3,88,80,55,56,13,0,8,9,1,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo,1,Baixo,1,Baixo,3,Baixo
+2861036,silent hill,kendrick lamar kodak black,2,2022,5,13,2022-05-13,2022-05,3073,3028,0,123216717,22,0,23,0,140,92,78,57,46,0,14,9,3,Baixo,4,Alto,4,Alto,2,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo
+1671724,count me out,kendrick lamar,1,2022,5,13,2022-05-13,2022-05,2745,2729,0,126191104,3,7,13,0,134,78,51,43,69,0,14,9,3,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,3,Baixo,3,Baixo
+5087776,mirror,kendrick lamar,1,2022,5,13,2022-05-13,2022-05,1935,1929,0,53603447,2,0,4,0,92,66,29,65,23,0,8,7,1,Baixo,2,Baixo,1,Baixo,2,Baixo,3,Baixo,2,Baixo,1,Baixo,3,Baixo
+5264430,rich interlude,kendrick lamar,1,2022,5,13,2022-05-13,2022-05,1103,1103,0,41210087,0,0,0,0,104,44,74,42,88,0,9,9,2,Baixo,1,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo,1,Baixo,3,Baixo
+6046483,pipoco,melody ana castela dj chris no beat,3,2022,5,20,2022-05-20,2022-05,1199,1112,4,191873381,22,2,65,1,135,77,74,74,47,0,34,8,3,Baixo,3,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo
+1912112,i like you a happier song with doja cat ,post malone doja cat,2,2022,6,3,2022-06-03,2022-06,5455,5281,14,609293408,94,21,80,15,101,74,43,69,12,0,12,7,2,Baixo,3,Baixo,2,Baixo,3,Baixo,2,Baixo,3,Baixo,2,Baixo,3,Baixo
+2939499,ferxxo 100,feid,1,2022,6,3,2022-06-03,2022-06,1690,1647,30,278920007,20,49,23,2,164,70,58,57,25,0,15,7,4,Alto,3,Baixo,3,Baixo,2,Baixo,3,Baixo,1,Baixo,3,Baixo,3,Baixo
+4012549,villano antillano bzrp music sessions vol 51,bizarrap villano antillano,2,2022,6,8,2022-06-08,2022-06,1444,1401,0,248511839,26,16,17,0,128,82,42,75,6,0,63,6,3,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo
+4845139,born singer,bts,1,2022,6,10,2022-06-10,2022-06,285,279,0,79095270,0,18,6,0,158,60,68,84,4,0,24,11,4,Alto,2,Baixo,3,Baixo,4,Alto,1,Baixo,3,Baixo,4,Alto,3,Baixo
+2352439,ku lo sa a colors show,oxlade,1,2022,6,10,2022-06-10,2022-06,2243,2019,8,222410722,117,72,107,1,93,65,79,66,31,0,22,7,1,Baixo,2,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo,3,Baixo,3,Baixo
+6549461,betty get money ,yung gravy,1,2022,6,10,2022-06-10,2022-06,2473,2402,0,221752937,45,2,26,0,102,73,62,75,0,0,34,8,2,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,2,Baixo,4,Alto,3,Baixo
+8090551,ultra solo remix,de la ghetto feid polima westcoast paloma mami pailita,5,2022,6,16,2022-06-16,2022-06,2416,2341,0,279717388,37,2,38,2,110,91,59,82,8,0,6,8,2,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo,3,Baixo
+8121763,break my soul,beyonc ,1,2022,6,21,2022-06-21,2022-06,10205,9724,0,354614964,222,61,259,14,115,70,87,88,4,0,26,8,2,Baixo,3,Baixo,4,Alto,4,Alto,1,Baixo,4,Alto,4,Alto,3,Baixo
+5565096,la loto,anitta tini becky g,3,2022,7,6,2022-07-06,2022-07,1051,945,0,121189256,49,3,57,0,90,85,80,83,10,0,8,11,1,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo,3,Baixo,1,Baixo,3,Baixo
+4579313,2 be loved am i ready ,lizzo,1,2022,7,14,2022-07-14,2022-07,3881,3682,6,247689123,41,0,158,2,156,72,92,77,9,0,8,11,4,Alto,3,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo,1,Baixo,3,Baixo
+5080031,about damn time,lizzo,1,2022,7,15,2022-07-15,2022-07,2357,2332,2,723894473,0,0,25,0,109,84,72,74,10,0,34,7,2,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo,2,Baixo,4,Alto,3,Baixo
+4758406,static,steve lacy,1,2022,7,15,2022-07-15,2022-07,1647,1613,0,202452860,21,15,13,0,79,34,22,31,43,63,10,7,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo
+5757514,despech ,rosal ,1,2022,7,28,2022-07-28,2022-07,8215,7613,33,782369383,180,90,422,15,130,92,78,62,18,0,6,10,3,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,4,Alto,1,Baixo,3,Baixo
+5337859,alien superstar,beyonc ,1,2022,7,29,2022-07-29,2022-07,2763,2688,0,171788484,39,47,36,0,122,55,46,64,0,0,17,10,3,Baixo,1,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo,3,Baixo
+6604479,si te la encuentras por ah ,feid,1,2022,8,5,2022-08-05,2022-08,1420,1379,4,179061440,23,10,18,0,172,74,46,58,15,0,13,8,4,Alto,3,Baixo,2,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo
+8803071,how do i say goodbye,dean lewis,1,2022,8,5,2022-08-05,2022-08,2293,2163,15,284785823,72,97,58,0,82,40,39,64,21,0,7,7,1,Baixo,1,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo,3,Baixo
+6485441,staying alive feat drake lil baby ,drake dj khaled lil baby,3,2022,8,5,2022-08-05,2022-08,2208,2107,0,170732845,51,1,50,0,130,72,18,46,7,0,28,8,3,Baixo,3,Baixo,1,Baixo,1,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo
+6026926,baby otaku,fran c polima westcoast nickoog clk pablito pesadilla,4,2022,8,18,2022-08-18,2022-08,863,836,0,159240673,14,1,13,0,102,84,43,75,5,0,6,8,2,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo,3,Baixo,1,Baixo,3,Baixo
+2122853,pink venom,blackpink,1,2022,8,19,2022-08-19,2022-08,2097,1963,16,551305895,57,119,77,1,90,80,71,69,2,0,27,10,1,Baixo,4,Alto,4,Alto,3,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo
+7783887,feliz cumplea os fe,feid,1,2022,8,19,2022-08-19,2022-08,3527,3430,38,601863821,45,69,52,4,95,87,57,55,10,0,29,7,1,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo
+3827200,xq te pones as ,yandel feid,2,2022,9,13,2022-09-13,2022-09,320,308,0,47093942,6,1,6,0,92,81,48,70,13,0,15,7,1,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo
+7512111,lady mi amor,feid,1,2022,9,13,2022-09-13,2022-09,335,330,0,53987404,3,0,2,0,93,78,75,62,6,0,15,6,1,Baixo,4,Alto,4,Alto,2,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo
+7662363,shut up my moms calling sped up ,hotel ugly,1,2022,9,14,2022-09-14,2022-09,721,713,7,181831132,2,4,6,0,85,65,36,47,31,0,12,10,1,Baixo,2,Baixo,2,Baixo,1,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo
+5095829,typa girl,blackpink,1,2022,9,16,2022-09-16,2022-09,467,452,10,235549288,2,129,13,0,132,92,53,62,7,0,63,10,3,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo
+2302386,unholy feat kim petras ,sam smith kim petras,2,2022,9,22,2022-09-22,2022-09,9123,8576,42,1230675890,216,108,331,26,131,71,24,47,1,0,27,9,3,Baixo,3,Baixo,1,Baixo,1,Baixo,1,Baixo,2,Baixo,4,Alto,3,Baixo
+5526636,punto 40,baby rasta rauw alejandro,2,2022,9,22,2022-09-22,2022-09,3126,3006,12,304079786,54,32,66,2,107,87,20,83,0,4,31,9,2,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,4,Alto,4,Alto,3,Baixo
+1221828,worth nothing,twisted oliver tree,2,2022,9,28,2022-09-28,2022-09,1680,1612,0,213438580,34,54,34,0,140,58,17,62,18,0,20,8,3,Baixo,2,Baixo,1,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo
+4004325,obsessed,abhijay sharma riar saab,2,2022,9,29,2022-09-29,2022-09,173,161,6,71007139,10,79,2,0,135,80,85,74,62,0,8,9,3,Baixo,4,Alto,4,Alto,3,Baixo,4,Alto,1,Baixo,1,Baixo,3,Baixo
+3469822,gatita,bellakath,1,2022,10,3,2022-10-03,2022-10,1078,1054,0,168684524,9,0,15,0,101,90,76,81,15,24,33,6,2,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo,4,Alto,4,Alto,3,Baixo
+3608552,escapism ,raye 070 shake,2,2022,10,12,2022-10-12,2022-10,5359,5129,25,532336353,116,84,114,18,96,54,25,74,14,0,9,11,1,Baixo,1,Baixo,1,Baixo,3,Baixo,2,Baixo,1,Baixo,1,Baixo,3,Baixo
+2009624,kick back,kenshi yonezu,1,2022,10,12,2022-10-12,2022-10,638,574,4,210038833,38,101,26,0,102,58,29,94,0,0,9,11,2,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo,3,Baixo
+4492232,antifragile,le sserafim,1,2022,10,17,2022-10-17,2022-10,795,761,12,301051721,23,95,11,0,105,88,82,80,8,0,11,8,2,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo,2,Baixo,2,Baixo,3,Baixo
+7370086,karma,taylor swift,1,2022,10,21,2022-10-21,2022-10,3887,3818,23,404562836,37,55,32,0,90,64,10,62,7,0,48,7,1,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo,4,Alto,4,Alto,3,Baixo
+2284105,maroon,taylor swift,1,2022,10,21,2022-10-21,2022-10,2330,2304,0,317726339,12,16,14,0,108,64,4,40,6,0,10,6,2,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo,3,Baixo
+2341529,bigger than the whole sky,taylor swift,1,2022,10,21,2022-10-21,2022-10,1192,1180,0,121871870,4,0,8,0,166,42,7,24,83,1,12,6,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo
+4257818,made you look,meghan trainor,1,2022,10,21,2022-10-21,2022-10,4225,3956,6,502574952,142,23,127,3,145,84,88,53,35,0,8,7,4,Alto,4,Alto,4,Alto,1,Baixo,3,Baixo,2,Baixo,1,Baixo,3,Baixo
+1218742,bejeweled,taylor swift,1,2022,10,21,2022-10-21,2022-10,2760,2699,0,328207708,39,35,22,2,164,70,39,56,6,0,9,7,4,Alto,3,Baixo,2,Baixo,2,Baixo,1,Baixo,1,Baixo,1,Baixo,3,Baixo
+3694791,midnight rain,taylor swift,1,2022,10,21,2022-10-21,2022-10,2652,2612,4,433356509,19,29,21,0,140,64,18,37,72,0,12,7,3,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,3,Baixo
+2987008,lavender haze,taylor swift,1,2022,10,21,2022-10-21,2022-10,3852,3763,8,488386797,51,43,38,10,97,73,10,44,26,0,16,8,1,Baixo,3,Baixo,1,Baixo,1,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo
+3146245,you re on your own kid,taylor swift,1,2022,10,21,2022-10-21,2022-10,2565,2537,2,348647203,8,18,20,0,120,69,40,39,41,0,13,6,2,Baixo,2,Baixo,2,Baixo,1,Baixo,3,Baixo,3,Baixo,3,Baixo,3,Baixo
+7526938,shirt,sza,1,2022,10,28,2022-10-28,2022-10,3571,3469,0,309653982,71,95,31,0,120,82,55,45,15,3,9,10,2,Baixo,4,Alto,3,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo,3,Baixo
+4967469,spit in my face ,thxsomch,1,2022,10,31,2022-10-31,2022-10,670,629,14,303216294,32,3,9,0,94,73,65,79,5,2,11,6,1,Baixo,3,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto,2,Baixo,3,Baixo
+0:00,10 35,ti sto tate m,2,2022,11,1,2022-11-01,2022-11,5279,4942,26,325592432,190,104,147,18,120,70,70,79,7,0,18,10,2,Baixo,3,Baixo,3,Baixo,4,Alto,2,Baixo,2,Baixo,3,Baixo,3,Baixo
+8553734,a veces feat feid ,feid paulo londra,2,2022,11,3,2022-11-03,2022-11,582,573,0,73513683,2,0,7,0,92,80,81,67,4,0,8,6,1,Baixo,4,Alto,4,Alto,3,Baixo,1,Baixo,2,Baixo,1,Baixo,3,Baixo
+3506706,circo loco,drake 21 savage,2,2022,11,4,2022-11-04,2022-11,1837,1794,0,141720999,26,9,17,0,104,73,25,61,1,0,32,7,2,Baixo,3,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,3,Baixo
+8123858,amg,natanael cano gabito ballesteros peso pluma,3,2022,11,24,2022-11-24,2022-11,1016,995,19,463564958,12,117,9,5,136,77,79,73,15,0,27,10,3,Baixo,3,Baixo,4,Alto,3,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo
+1054764,chorrito pa las animas,feid,1,2022,12,2,2022-12-02,2022-12,2384,2321,36,345031710,29,65,34,5,96,74,61,83,11,0,35,6,1,Baixo,3,Baixo,3,Baixo,4,Alto,2,Baixo,1,Baixo,4,Alto,3,Baixo
+3305057,wild flower with youjeen ,rm,1,2022,12,2,2022-12-02,2022-12,369,353,2,135611421,2,74,14,0,155,49,42,77,3,0,12,9,4,Alto,1,Baixo,2,Baixo,3,Baixo,1,Baixo,3,Baixo,2,Baixo,3,Baixo
+6143073,on time with john legend ,john legend metro boomin,2,2022,12,2,2022-12-02,2022-12,406,398,0,78139948,2,2,6,0,80,33,51,59,76,0,44,6,1,Baixo,1,Baixo,2,Baixo,2,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo
+4890110,people,libianca,1,2022,12,2,2022-12-02,2022-12,3780,3506,56,373199958,105,64,169,8,198,59,71,42,55,0,10,7,4,Alto,2,Baixo,4,Alto,1,Baixo,4,Alto,2,Baixo,2,Baixo,3,Baixo
+2678616,too late,sza,1,2022,12,8,2022-12-08,2022-12,716,714,0,49262961,0,9,2,0,128,45,35,68,78,0,39,8,3,Baixo,1,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo
+3439901,used feat don toliver ,sza don toliver,2,2022,12,8,2022-12-08,2022-12,1052,1042,0,94005786,7,29,3,0,150,73,71,69,53,0,32,9,4,Alto,3,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo
+5602322,far,sza,1,2022,12,9,2022-12-09,2022-12,683,680,0,51641685,2,15,1,0,116,61,48,55,67,0,16,8,2,Baixo,2,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo,3,Baixo,3,Baixo
+2587921,conceited,sza,1,2022,12,9,2022-12-09,2022-12,903,899,0,56870689,2,14,2,0,150,79,77,46,5,0,11,7,4,Alto,4,Alto,4,Alto,1,Baixo,1,Baixo,3,Baixo,2,Baixo,3,Baixo
+2578085,low,sza,1,2022,12,9,2022-12-09,2022-12,1948,1911,0,272377463,23,71,14,0,145,70,34,55,43,0,16,6,4,Alto,3,Baixo,2,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo
+6791135,seek destroy,sza,1,2022,12,9,2022-12-09,2022-12,1013,1007,0,98709329,5,31,1,0,152,65,35,65,44,18,21,7,4,Alto,2,Baixo,2,Baixo,2,Baixo,4,Alto,4,Alto,3,Baixo,3,Baixo
+4989276,love language,sza,1,2022,12,9,2022-12-09,2022-12,1151,1127,0,110849052,16,63,8,0,65,71,55,26,85,0,13,8,1,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,1,Baixo,3,Baixo,3,Baixo
+5279142,ditto,newjeans,1,2022,12,19,2022-12-19,2022-12,1193,1154,22,397582059,28,125,11,1,134,81,18,64,3,0,10,11,3,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo,3,Baixo
+2415106,yandel 150,yandel feid,2,2022,12,20,2022-12-20,2022-12,3745,3618,38,585695368,47,74,80,14,168,78,58,73,5,0,10,7,4,Alto,3,Baixo,3,Baixo,3,Baixo,1,Baixo,3,Baixo,2,Baixo,3,Baixo
+6602768,jhoome jo pathaan,arijit singh vishal dadlani sukriti kakar vishal shekhar shekhar ravjiani kumaar,6,2022,12,22,2022-12-22,2022-12,153,138,4,1365184,13,78,2,0,105,82,62,74,10,0,33,7,2,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,2,Baixo,4,Alto,3,Baixo
+5088165,igualito a mi ap ,fuerza regida peso pluma,2,2022,12,30,2022-12-30,2022-12,278,265,6,158950978,8,84,5,1,145,76,80,81,19,0,6,9,4,Alto,3,Baixo,4,Alto,4,Alto,3,Baixo,3,Baixo,1,Baixo,3,Baixo
+8756692,mu ,steve aoki tini la joaqui,3,2023,1,12,2023-01-12,2023-01,744,658,6,120972253,33,7,53,2,90,68,83,71,3,0,31,8,1,Baixo,2,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo
+7662572,flowers,miley cyrus,1,2023,1,12,2023-01-12,2023-01,13256,12211,115,1316855716,300,215,745,58,118,71,65,68,6,0,3,7,2,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,2,Baixo,1,Baixo,3,Baixo
+5836808,fin de semana,oscar maydon junior h,2,2023,1,13,2023-01-13,2023-01,609,592,14,307370144,11,84,6,1,98,70,37,54,6,0,9,8,1,Baixo,3,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,3,Baixo
+2395685,wanda,quevedo,1,2023,1,20,2023-01-20,2023-01,906,888,22,175399345,11,24,7,1,176,72,96,63,25,0,21,7,4,Alto,3,Baixo,4,Alto,2,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo
+8537557,sugar rush ride,tomorrow x together,1,2023,1,27,2023-01-27,2023-01,384,359,0,107642809,12,56,13,0,125,71,83,89,1,0,17,9,3,Baixo,3,Baixo,4,Alto,4,Alto,1,Baixo,1,Baixo,3,Baixo,3,Baixo
+2023447,trustfall,p nk,1,2023,1,27,2023-01-27,2023-01,2287,2098,16,134255790,88,24,101,7,122,64,25,89,0,0,15,9,3,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,1,Baixo,3,Baixo,3,Baixo
+2296238,i m not here to make friends,sam smith calvin harris jessie reyez,3,2023,1,27,2023-01-27,2023-01,2025,1890,0,103787664,86,1,49,0,115,70,84,90,17,0,41,6,2,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,4,Alto,3,Baixo
+6845168,erro gostoso ao vivo,simone mendes,1,2023,1,27,2023-01-27,2023-01,1068,984,5,153454328,8,57,76,2,154,59,63,89,18,0,80,9,4,Alto,2,Baixo,3,Baixo,4,Alto,2,Baixo,3,Baixo,4,Alto,3,Baixo
+3595953,el azul,junior h peso pluma,2,2023,2,10,2023-02-10,2023-02,708,692,25,354495408,10,107,6,3,144,56,84,65,23,0,10,6,4,Alto,1,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo,2,Baixo,3,Baixo
+4945945,amargura,karol g,1,2023,2,24,2023-02-24,2023-02,1170,1133,39,153372011,14,71,23,10,107,92,55,70,18,0,15,7,2,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo
+6230777,die for you remix,ariana grande the weeknd,2,2023,2,24,2023-02-24,2023-02,3569,3408,47,518745108,87,86,74,1,67,53,50,53,23,0,44,7,1,Baixo,1,Baixo,2,Baixo,2,Baixo,3,Baixo,1,Baixo,4,Alto,3,Baixo
+8246992,tormenta feat bad bunny ,gorillaz bad bunny,2,2023,2,24,2023-02-24,2023-02,1600,1529,0,149778242,32,18,39,2,95,64,30,77,46,0,38,6,1,Baixo,2,Baixo,1,Baixo,4,Alto,4,Alto,1,Baixo,4,Alto,3,Baixo
+5667205,tattoo,loreen,1,2023,2,25,2023-02-25,2023-02,3207,2988,59,201660859,74,102,145,18,150,55,30,78,24,0,12,8,4,Alto,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo,3,Baixo
+2484929,mas rica que ayer,mambo kingz dj luian anuel aa,3,2023,3,2,2023-03-02,2023-03,1238,1208,34,146409671,10,41,20,0,94,82,53,67,34,0,9,8,1,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo,2,Baixo,1,Baixo,3,Baixo
+5402623,dijeron que no la iba lograr,fuerza regida chino pacas,2,2023,3,14,2023-03-14,2023-03,327,320,6,116334601,5,48,2,1,142,70,76,79,26,0,11,7,4,Alto,3,Baixo,4,Alto,4,Alto,3,Baixo,1,Baixo,2,Baixo,3,Baixo
+4148996,what it is solo version ,doechii,1,2023,3,17,2023-03-17,2023-03,857,804,25,95131998,29,76,24,0,172,74,76,76,6,0,10,9,4,Alto,3,Baixo,4,Alto,3,Baixo,2,Baixo,3,Baixo,2,Baixo,3,Baixo
+8513259,set me free pt 2,jimin,1,2023,3,17,2023-03-17,2023-03,360,340,13,168448603,4,71,16,1,132,59,56,82,12,0,12,6,3,Baixo,2,Baixo,3,Baixo,4,Alto,2,Baixo,2,Baixo,3,Baixo,3,Baixo
+1956320,eyes closed,ed sheeran,1,2023,3,23,2023-03-23,2023-03,3138,2915,30,195576623,116,69,107,3,107,78,39,53,30,0,11,6,2,Baixo,3,Baixo,2,Baixo,1,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo
+1214913,i know pr1svx edit,kanii pr1isvx,2,2023,3,24,2023-03-24,2023-03,428,407,0,77377503,16,15,5,0,134,67,11,76,8,47,30,7,3,Baixo,2,Baixo,1,Baixo,3,Baixo,2,Baixo,4,Alto,4,Alto,3,Baixo
+1207987,un finde crossover 2,big one fmk ke personajes,3,2023,4,4,2023-04-04,2023-04,577,561,14,142095275,4,14,12,5,192,50,85,52,11,0,28,6,4,Alto,1,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo
+2754241,search rescue,drake,1,2023,4,7,2023-04-07,2023-04,2167,2066,6,175097833,58,70,43,0,142,82,54,44,6,0,33,7,4,Alto,4,Alto,3,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto,3,Baixo
+6619922,people pt 2 feat iu ,iu agust d,2,2023,4,7,2023-04-07,2023-04,224,209,4,95816024,4,45,11,2,89,73,44,57,39,0,32,6,1,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo,4,Alto,3,Baixo
+6720570,nao identificado,yoasobi,1,2023,4,12,2023-04-12,2023-04,399,356,16,143573775,35,102,8,1,166,57,84,94,11,0,37,9,4,Alto,2,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo,4,Alto,3,Baixo
+4502825,super,seventeen,1,2023,4,24,2023-04-24,2023-04,296,271,12,91221625,16,103,9,0,137,77,35,88,16,0,17,9,3,Baixo,3,Baixo,2,Baixo,4,Alto,2,Baixo,4,Alto,3,Baixo,3,Baixo
+3546474,shoong feat lisa of blackpink ,taeyang lisa,2,2023,4,25,2023-04-25,2023-04,377,351,9,76910644,16,90,10,0,110,76,26,70,1,0,41,6,2,Baixo,3,Baixo,1,Baixo,3,Baixo,1,Baixo,3,Baixo,4,Alto,3,Baixo
+7264781,vagabundo,sebastian yatra manuel turizo be ,3,2023,5,12,2023-05-12,2023-05,1181,1094,34,90839753,40,58,47,8,127,82,89,85,4,0,23,6,3,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo,1,Baixo,3,Baixo,3,Baixo
+5563881,fukumean,gunna,1,2023,5,15,2023-05-15,2023-05,1204,1096,83,95217315,60,210,48,11,130,85,22,62,12,0,28,9,3,Baixo,4,Alto,1,Baixo,2,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo
+4386478,where she goes,bad bunny,1,2023,5,18,2023-05-18,2023-05,3304,3133,50,303236322,84,133,87,15,144,65,23,80,14,63,11,6,4,Alto,2,Baixo,1,Baixo,4,Alto,2,Baixo,4,Alto,2,Baixo,3,Baixo
+8129977,novo balan ,veigh bvga beatz supernova ent prod malax,4,2023,5,19,2023-05-19,2023-05,315,283,7,81102253,6,9,26,1,124,84,65,50,67,0,13,6,3,Baixo,4,Alto,3,Baixo,1,Baixo,4,Alto,2,Baixo,3,Baixo,3,Baixo
+7070604,tqm,fuerza regida,1,2023,5,19,2023-05-19,2023-05,615,584,28,176553476,16,159,15,6,125,79,96,85,27,0,11,6,3,Baixo,4,Alto,4,Alto,4,Alto,3,Baixo,1,Baixo,2,Baixo,3,Baixo
+1452364,karma feat ice spice ,taylor swift ice spice,2,2023,5,26,2023-05-26,2023-05,642,588,0,46142772,23,21,31,0,90,62,7,62,6,0,58,6,1,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo
+6436155,link up metro boomin don toliver wizkid feat beam toian spider verse remix spider man across the spider verse ,wizkid toian metro boomin don toliver beam,5,2023,6,2,2023-06-02,2023-06,203,197,0,32761689,3,10,3,0,101,92,59,51,41,51,26,8,2,Baixo,4,Alto,3,Baixo,1,Baixo,3,Baixo,4,Alto,4,Alto,3,Baixo
+6470158,annihilate spider man across the spider verse metro boomin swae lee lil wayne offset ,swae lee lil wayne offset metro boomin,4,2023,6,2,2023-06-02,2023-06,584,551,4,86773632,13,46,20,1,146,61,20,48,21,0,12,6,4,Alto,2,Baixo,1,Baixo,1,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo
+4497491,calling spider man across the spider verse metro boomin swae lee nav feat a boogie wit da hoodie ,swae lee a boogie wit da hoodie metro boomin nav,4,2023,6,2,2023-06-02,2023-06,1113,1051,16,109276132,31,37,31,0,140,63,22,54,46,0,12,8,3,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo
+1193878,lilith feat suga of bts diablo iv anthem ,halsey suga,2,2023,6,5,2023-06-05,2023-06,229,215,6,51985779,6,14,8,2,84,43,14,74,1,0,19,8,1,Baixo,1,Baixo,1,Baixo,3,Baixo,1,Baixo,1,Baixo,3,Baixo,3,Baixo
+7948655,polaris remix,feid mora saiko quevedo,4,2023,6,8,2023-06-08,2023-06,814,773,33,57312735,20,46,21,8,170,62,55,80,15,0,37,7,4,Alto,2,Baixo,3,Baixo,4,Alto,2,Baixo,1,Baixo,4,Alto,3,Baixo
+7510507,sabor fresa,fuerza regida,1,2023,6,22,2023-06-22,2023-06,276,250,26,78300654,16,149,10,5,130,79,96,86,9,0,9,9,3,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo,1,Baixo,1,Baixo,3,Baixo
+4847849,coraz n va,maria becerra,1,2023,6,22,2023-06-22,2023-06,400,370,20,43857627,12,16,18,4,98,68,40,79,33,0,30,6,1,Baixo,2,Baixo,2,Baixo,4,Alto,3,Baixo,2,Baixo,4,Alto,3,Baixo
+2162220,novidade na ,mc livinho dj matt d,2,2023,6,23,2023-06-23,2023-06,301,267,9,39709092,9,6,25,2,130,63,36,34,76,0,35,9,3,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,4,Alto,3,Baixo
+6974739,vampire,olivia rodrigo,1,2023,6,30,2023-06-30,2023-06,1582,1397,113,140003974,94,207,91,14,138,51,32,53,17,0,31,6,3,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto,3,Baixo
+7016313,super shy,newjeans,1,2023,7,7,2023-07-07,2023-07,480,422,55,58255150,37,202,21,5,150,78,52,82,18,0,15,7,4,Alto,3,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo,3,Baixo
+3054476,better than revenge taylor s version ,taylor swift,1,2023,7,7,2023-07-07,2023-07,92,86,11,30343206,3,33,3,0,146,50,67,89,0,0,19,8,4,Alto,1,Baixo,3,Baixo,4,Alto,1,Baixo,1,Baixo,3,Baixo,3,Baixo
+2808274,rush,troye sivan,1,2023,7,13,2023-07-13,2023-07,985,864,78,22581161,71,135,50,1,126,74,35,84,0,0,11,6,3,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo,3,Baixo
+3333614,the next episode,dr dre snoop dogg,2,1999,1,1,1999-01-01,1999-01,37355,31762,0,843309044,142,40,5451,1,95,92,31,89,3,0,8,25,1,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,4,Alto,1,Baixo,4,Alto
+2285737,still d r e ,dr dre snoop dogg,2,1999,1,1,1999-01-01,1999-01,40698,33966,0,1210599487,141,78,6591,1,93,81,53,78,18,0,6,24,1,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo,4,Alto
+5694303,stan,eminem dido,2,1999,11,21,1999-11-21,1999-11,21378,17115,0,918915401,83,63,4180,0,80,78,53,74,4,0,45,21,1,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto
+4918126,in da club,50 cent,1,2002,1,1,2002-01-01,2002-01,35883,30427,7,1202722675,235,106,5221,1,90,90,79,71,26,0,7,37,1,Baixo,4,Alto,4,Alto,3,Baixo,3,Baixo,1,Baixo,1,Baixo,4,Alto
+6766942,lose yourself soundtrack version,eminem,1,2002,1,1,2002-01-01,2002-01,38316,32502,21,1829992958,247,54,5567,1,171,70,6,73,1,0,36,26,4,Alto,3,Baixo,1,Baixo,3,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto
+1486311,till i collapse,eminem nate dogg,2,2002,5,26,2002-05-26,2002-05,25516,22923,0,1695712020,78,46,2515,1,171,55,10,85,7,0,8,20,4,Alto,1,Baixo,1,Baixo,4,Alto,2,Baixo,1,Baixo,1,Baixo,4,Alto
+2394886,mockingbird,eminem,1,2004,1,1,2004-01-01,2004-01,15428,12985,61,1241559043,49,98,2394,5,84,62,24,67,21,0,13,28,1,Baixo,2,Baixo,1,Baixo,3,Baixo,3,Baixo,2,Baixo,3,Baixo,4,Alto
+1840761,yo voy feat daddy yankee ,zion lennox,1,2004,5,4,2004-05-04,2004-05,2972,2954,2,527033089,18,82,0,0,95,81,56,70,4,0,5,24,1,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo,4,Alto,1,Baixo,4,Alto
+8455676,heartless,kanye west,1,2008,1,1,2008-01-01,2008-01,18882,17504,34,887906111,63,39,1315,0,88,79,66,65,5,0,25,14,1,Baixo,4,Alto,3,Baixo,2,Baixo,1,Baixo,4,Alto,4,Alto,4,Alto
+3766692,danza kuduro,don omar lucenzo,2,2010,1,1,2010-01-01,2010-01,18231,17138,37,1279434863,119,81,974,1,130,47,86,92,8,0,5,24,3,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,4,Alto,1,Baixo,4,Alto
+3115886,lost,frank ocean,1,2012,1,1,2012-01-01,2012-01,30210,29499,11,822239726,124,27,587,0,123,91,49,61,3,0,17,22,3,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo,4,Alto
+4722538,thinking with my dick,kevin gates juicy j,2,2013,7,16,2013-07-16,2013-07,1564,1550,0,109091573,0,0,14,0,81,77,68,70,6,0,17,20,1,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,4,Alto,3,Baixo,4,Alto
+1236328,santa tell me,ariana grande,1,2013,12,13,2013-12-13,2013-12,10078,9408,0,834129063,231,106,439,0,133,46,53,63,5,0,30,18,3,Baixo,1,Baixo,3,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto
+2031309,shake it off,taylor swift,1,2014,1,1,2014-01-01,2014-01,23041,21335,13,1113838873,328,70,1378,9,160,65,95,80,5,0,41,16,4,Alto,2,Baixo,4,Alto,4,Alto,1,Baixo,4,Alto,4,Alto,4,Alto
+8189388,no role modelz,j cole,1,2014,12,9,2014-12-09,2014-12,21720,21164,36,1791000570,80,65,476,0,100,70,47,52,30,0,6,33,2,Baixo,3,Baixo,2,Baixo,1,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto
+2188178,love yourself,justin bieber,1,2015,11,9,2015-11-09,2015-11,25449,22730,5,2123309722,289,87,2430,0,100,61,53,38,84,0,28,44,2,Baixo,2,Baixo,3,Baixo,1,Baixo,4,Alto,4,Alto,4,Alto,4,Alto
+4367298,starboy,the weeknd daft punk,2,2016,9,21,2016-09-21,2016-09,32262,29536,79,2565529693,281,137,2445,1,186,68,49,59,16,0,13,28,4,Alto,2,Baixo,2,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,4,Alto
+3612400,no lie,sean paul dua lipa,2,2016,11,18,2016-11-18,2016-11,8681,7370,0,956865266,92,127,1219,0,102,74,45,89,5,0,26,13,2,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto,4,Alto
+6320673,reminder,the weeknd,1,2016,11,25,2016-11-25,2016-11,6801,6518,17,684675814,45,85,238,1,160,71,40,50,16,0,16,22,4,Alto,3,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo,3,Baixo,4,Alto
+5223297,humble ,kendrick lamar,1,2017,3,30,2017-03-30,2017-03,34971,33206,1,1929770265,284,114,1481,0,150,91,42,60,0,0,9,12,4,Alto,4,Alto,2,Baixo,2,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto
+8949659,lucid dreams,juice wrld,1,2017,6,15,2017-06-15,2017-06,15647,14749,0,2288695111,188,34,710,0,84,44,22,48,38,0,33,24,1,Baixo,1,Baixo,1,Baixo,1,Baixo,3,Baixo,2,Baixo,4,Alto,4,Alto
+2061546,revenge,xxxtentacion,1,2017,8,25,2017-08-25,2017-08,3810,3600,11,1022258230,7,0,203,0,140,75,18,25,78,0,11,26,3,Baixo,3,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto
+1346774,hold me closer,elton john britney spears,2,2017,11,10,2017-11-10,2017-11,5309,4967,0,284216603,165,10,177,4,126,67,49,77,11,0,19,11,3,Baixo,2,Baixo,2,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo,4,Alto
+1322961,new magic wand,tyler the creator,2,2019,5,16,2019-05-16,2019-05,4776,4708,0,461437791,13,7,55,0,140,62,46,73,10,0,67,11,3,Baixo,2,Baixo,2,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto,4,Alto
+6990936,callaita,bad bunny tainy,2,2019,5,31,2019-05-31,2019-05,10056,9539,15,1304313953,162,116,355,7,176,61,24,62,60,0,24,31,4,Alto,2,Baixo,1,Baixo,2,Baixo,4,Alto,2,Baixo,4,Alto,4,Alto
+7885122,mount everest,labrinth,1,2019,6,21,2019-06-21,2019-06,5568,5443,0,467727006,45,1,80,0,89,46,43,43,23,8,8,22,1,Baixo,1,Baixo,2,Baixo,1,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto
+2748330,tom s diner,annenmaykantereit giant rooks,2,2019,6,28,2019-06-28,2019-06,2670,2605,0,236872197,15,48,50,0,98,68,33,43,38,0,36,14,1,Baixo,2,Baixo,2,Baixo,1,Baixo,3,Baixo,4,Alto,4,Alto,4,Alto
+2767209,la canci ,j balvin bad bunny,2,2019,6,28,2019-06-28,2019-06,6880,6398,31,1435127549,177,109,305,3,176,75,43,65,15,0,11,32,4,Alto,3,Baixo,2,Baixo,2,Baixo,2,Baixo,2,Baixo,2,Baixo,4,Alto
+2362023,cruel summer,taylor swift,1,2019,8,23,2019-08-23,2019-08,8099,7858,100,800840817,116,207,125,12,170,55,58,72,11,0,11,15,4,Alto,1,Baixo,3,Baixo,3,Baixo,2,Baixo,2,Baixo,2,Baixo,4,Alto
+1647722,still don t know my name,labrinth,1,2019,10,4,2019-10-04,2019-10,6645,6332,0,563902868,47,116,266,0,88,31,31,63,47,27,21,12,1,Baixo,1,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto,3,Baixo,4,Alto
+2392756,when i r i p ,labrinth,1,2019,10,4,2019-10-04,2019-10,2652,2578,0,203680270,8,67,66,0,80,39,45,55,73,0,9,21,1,Baixo,1,Baixo,2,Baixo,2,Baixo,4,Alto,4,Alto,1,Baixo,4,Alto
+3557036,the business,ti ,1,2020,1,1,2020-01-01,2020-01,15148,14311,0,1062345656,255,32,582,0,120,80,24,62,41,2,11,23,2,Baixo,4,Alto,1,Baixo,2,Baixo,3,Baixo,4,Alto,2,Baixo,4,Alto
+2744235,contection,godzz__ zakaria,2,2020,1,16,2020-01-16,2020-01,7418,6955,0,1180896317,65,45,398,0,166,81,83,75,14,0,29,34,4,Alto,4,Alto,4,Alto,3,Baixo,2,Baixo,3,Baixo,4,Alto,4,Alto
+7748090,montero call me by your name ,lil nas x,1,2020,9,18,2020-09-18,2020-09,13342,12329,0,1735441776,275,19,738,0,179,61,76,51,30,0,38,15,4,Alto,2,Baixo,4,Alto,1,Baixo,3,Baixo,4,Alto,4,Alto,4,Alto
+5355322,demasiadas mujeres,c tangana,1,2020,10,8,2020-10-08,2020-10,2273,2226,0,339473453,36,2,11,0,126,67,37,46,13,0,10,39,3,Baixo,2,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,2,Baixo,4,Alto
+7298366,positions,ariana grande,1,2020,10,23,2020-10-23,2020-10,8477,8207,0,1252563873,175,55,95,0,144,73,66,80,44,0,9,12,4,Alto,3,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo,4,Alto
+2797126,caile,luar la l,1,2020,12,18,2020-12-18,2020-12,1526,1494,2,273914335,17,12,15,0,122,70,46,76,30,0,9,45,3,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto
+3023667,sky,playboi carti,1,2020,12,25,2020-12-25,2020-12,3374,3297,3,506778838,25,3,52,0,140,79,56,91,26,0,13,21,4,Alto,4,Alto,3,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo,4,Alto
+7271843,friday feat mufasa hypeman dopamine re edit,riton nightcrawlers mufasa hypeman dopamine,4,2021,1,15,2021-01-15,2021-01,12962,12043,0,863756573,209,54,710,0,123,82,80,86,1,0,30,13,3,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo,3,Baixo,4,Alto,4,Alto
+3252166,peaches feat daniel caesar giveon ,justin bieber daniel caesar giveon,3,2021,3,19,2021-03-19,2021-03,14983,14140,0,1445941661,231,52,612,6,90,63,49,68,38,0,42,18,1,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo,2,Baixo,4,Alto,4,Alto
+5347552,rapstar,polo g,1,2021,4,9,2021-04-09,2021-04,4950,4731,0,797402345,141,12,78,0,81,79,44,54,41,0,13,24,1,Baixo,4,Alto,2,Baixo,2,Baixo,3,Baixo,2,Baixo,3,Baixo,4,Alto
+2835063,2055,sleepy hallow,1,2021,4,14,2021-04-14,2021-04,2299,2226,0,624515457,29,0,44,0,161,78,65,52,46,0,12,31,4,Alto,4,Alto,3,Baixo,1,Baixo,4,Alto,4,Alto,3,Baixo,4,Alto
+3076130,jordan,ryan castro,1,2021,4,30,2021-04-30,2021-04,2908,2844,2,394030335,29,2,35,1,180,80,71,68,6,0,10,37,4,Alto,4,Alto,4,Alto,3,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto
+6554843,good 4 u,olivia rodrigo,1,2021,5,14,2021-05-14,2021-05,16283,15563,6,1887039593,259,55,461,1,166,56,68,66,28,0,11,18,4,Alto,1,Baixo,3,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,4,Alto
+1539892,295,sidhu moose wala,1,2021,5,15,2021-05-15,2021-05,250,246,4,183273246,4,106,0,0,90,68,54,76,21,0,11,20,1,Baixo,2,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,2,Baixo,4,Alto
+7403072,happier,olivia rodrigo,1,2021,5,21,2021-05-21,2021-05,3199,3069,4,850608354,25,46,105,0,169,39,36,45,81,0,8,13,4,Alto,1,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo,1,Baixo,4,Alto
+8835305,jealousy jealousy,olivia rodrigo,1,2021,5,21,2021-05-21,2021-05,3337,3257,0,665765558,10,0,70,0,164,70,71,58,24,0,7,13,4,Alto,3,Baixo,4,Alto,2,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto
+3365981,yonaguni,bad bunny,1,2021,6,4,2021-06-04,2021-06,9928,9644,28,1260594497,120,86,164,4,180,64,44,65,28,0,14,12,4,Alto,2,Baixo,2,Baixo,2,Baixo,3,Baixo,2,Baixo,3,Baixo,4,Alto
+8454029,am remix,j balvin nio garcia bad bunny,3,2021,6,24,2021-06-24,2021-06,6716,6556,0,528544703,93,5,67,1,172,74,79,66,11,0,8,16,4,Alto,3,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto
+5085460,get into it yuh ,doja cat,1,2021,6,25,2021-06-25,2021-06,5115,4999,0,516784627,43,19,73,12,92,91,79,66,32,0,9,16,1,Baixo,4,Alto,4,Alto,3,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto
+5897675,ain t shit,doja cat,1,2021,6,25,2021-06-25,2021-06,3514,3436,0,499710590,32,6,46,0,124,86,62,49,51,0,35,21,3,Baixo,4,Alto,3,Baixo,1,Baixo,4,Alto,3,Baixo,4,Alto,4,Alto
+3386819,sobrio,maluma,1,2021,7,8,2021-07-08,2021-07,3709,3506,10,513643924,103,76,100,1,178,76,63,77,14,0,15,22,4,Alto,3,Baixo,3,Baixo,4,Alto,2,Baixo,2,Baixo,3,Baixo,4,Alto
+5111873,volv ,aventura bad bunny,2,2021,8,3,2021-08-03,2021-08,5646,5375,10,673801126,138,24,133,0,176,73,79,86,42,0,7,18,4,Alto,3,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo,1,Baixo,4,Alto
+3933523,flowers,lauren spencer smith,1,2021,8,9,2021-08-09,2021-08,867,801,0,184826429,42,9,24,1,138,70,31,44,84,0,9,39,3,Baixo,3,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,1,Baixo,4,Alto
+5406019,family ties with kendrick lamar ,kendrick lamar baby keem,2,2021,8,27,2021-08-27,2021-08,6485,6308,5,560222750,114,15,63,0,134,71,14,61,1,0,23,33,3,Baixo,3,Baixo,1,Baixo,2,Baixo,1,Baixo,3,Baixo,3,Baixo,4,Alto
+2542321,praise god,kanye west,1,2021,8,29,2021-08-29,2021-08,4780,4651,0,376333030,24,6,105,0,118,80,21,55,1,0,26,17,2,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto
+4666772,knife talk with 21 savage ft project pat ,drake project pat 21 savage,3,2021,9,3,2021-09-03,2021-09,5289,5199,0,594482982,45,43,45,0,146,85,22,37,13,0,7,30,4,Alto,4,Alto,1,Baixo,1,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto
+1519987,enemy with jid from the series arcane league of legends,imagine dragons league of legends jid arcane,4,2021,9,3,2021-09-03,2021-09,6882,6180,7,1223481149,122,88,580,21,77,72,59,76,24,0,42,28,1,Baixo,3,Baixo,3,Baixo,3,Baixo,3,Baixo,4,Alto,4,Alto,4,Alto
+6195210,way 2 sexy with future young thug ,drake future young thug,3,2021,9,3,2021-09-03,2021-09,5711,5481,0,489945871,144,30,86,0,136,80,33,60,0,0,32,14,3,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto
+6599493,fair trade with travis scott ,drake travis scott,2,2021,9,3,2021-09-03,2021-09,5617,5403,6,593917618,118,116,96,0,168,67,29,47,5,0,22,26,4,Alto,2,Baixo,1,Baixo,1,Baixo,1,Baixo,2,Baixo,3,Baixo,4,Alto
+1266830,toxic,boywithuke,1,2021,9,10,2021-09-10,2021-09,1947,1795,0,582981380,34,23,118,0,180,59,69,61,84,0,46,36,4,Alto,2,Baixo,3,Baixo,2,Baixo,4,Alto,2,Baixo,4,Alto,4,Alto
+2320654,money,lisa,1,2021,9,10,2021-09-10,2021-09,2741,2566,13,863625566,44,109,131,0,140,83,40,55,16,0,14,23,3,Baixo,4,Alto,2,Baixo,2,Baixo,2,Baixo,4,Alto,3,Baixo,4,Alto
+2636311,thats what i want,lil nas x,1,2021,9,17,2021-09-17,2021-09,8434,7963,0,920797189,173,7,298,0,88,74,55,85,1,0,5,22,1,Baixo,3,Baixo,3,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo,4,Alto
+4169887,vai l em casa,mar lia mendon a george henrique ,2,2021,10,22,2021-10-22,2021-10,868,772,0,263894529,7,3,89,0,158,46,62,83,53,0,97,28,4,Alto,1,Baixo,3,Baixo,4,Alto,4,Alto,4,Alto,4,Alto,4,Alto
+1367281,enemy from the series arcane league of legends,imagine dragons league of legends arcane,3,2021,10,27,2021-10-27,2021-10,840,824,0,1223481149,8,8,8,2,77,73,54,74,23,0,41,23,1,Baixo,3,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,4,Alto,4,Alto
+2106751,super gremlin,kodak black,1,2021,10,30,2021-10-30,2021-10,2638,2551,0,342779426,52,15,35,0,73,83,11,41,0,0,36,14,1,Baixo,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,4,Alto
+8333879,to the moon,jnr choi,1,2021,11,5,2021-11-05,2021-11,3182,2979,0,245095641,44,0,159,0,144,74,39,65,5,1,11,35,4,Alto,3,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,4,Alto
+5311211,i am woman,emmy meli,1,2021,11,18,2021-11-18,2021-11,2947,2795,0,225259194,45,0,107,0,170,65,46,47,12,0,13,16,4,Alto,2,Baixo,2,Baixo,1,Baixo,2,Baixo,3,Baixo,3,Baixo,4,Alto
+2761463,down under feat colin hay ,luude colin hay,2,2021,11,19,2021-11-19,2021-11,3648,3541,2,252871192,57,13,50,1,172,31,4,86,1,0,28,17,4,Alto,1,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto,4,Alto
+7298940,hrs and hrs,muni long,1,2021,11,19,2021-11-19,2021-11,1889,1800,0,181328253,43,36,46,13,140,51,66,53,60,0,11,18,3,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto,4,Alto,2,Baixo,4,Alto
+4923571,surface pressure,jessica darrow,1,2021,11,19,2021-11-19,2021-11,1814,1756,0,267758538,38,48,20,0,180,65,37,58,2,0,4,31,4,Alto,2,Baixo,2,Baixo,2,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto
+3559931,the family madrigal,olga merediz stephanie beatriz encanto cast,3,2021,11,19,2021-11-19,2021-11,1182,1150,0,184937148,20,38,12,0,141,59,56,63,12,0,6,36,4,Alto,2,Baixo,3,Baixo,2,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto
+2503884,malvad ,xam gustah neo b,3,2021,11,30,2021-11-30,2021-11,743,648,1,240684449,14,3,81,0,133,82,52,61,38,0,14,27,3,Baixo,4,Alto,3,Baixo,2,Baixo,3,Baixo,1,Baixo,3,Baixo,4,Alto
+3782910,i hate u,sza,1,2021,12,3,2021-12-03,2021-12,4203,4094,0,356709897,66,96,43,0,107,54,41,39,51,0,11,16,2,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,4,Alto
+2003358,mujeriego,ryan castro,1,2021,12,17,2021-12-17,2021-12,1627,1492,0,231996128,44,63,91,0,80,76,92,62,6,0,8,13,1,Baixo,3,Baixo,4,Alto,2,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto
+5615912,la bebe,yng lvcas,1,2021,12,24,2021-12-24,2021-12,498,489,17,191945597,4,11,5,1,170,78,75,46,62,0,12,35,4,Alto,3,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo,2,Baixo,4,Alto
+3885692,tiago pzk bzrp music sessions vol 48,bizarrap tiago pzk,2,2021,12,29,2021-12-29,2021-12,1713,1678,12,374191487,20,4,15,1,96,66,76,82,47,0,10,32,1,Baixo,2,Baixo,4,Alto,4,Alto,4,Alto,1,Baixo,2,Baixo,4,Alto
+6457168,25k jacket feat lil baby ,gunna lil baby,2,2022,1,7,2022-01-07,2022-01,640,620,0,54937991,17,3,3,0,115,90,74,54,16,0,13,28,2,Baixo,4,Alto,4,Alto,2,Baixo,2,Baixo,3,Baixo,3,Baixo,4,Alto
+6386843,best friends,the weeknd,1,2022,1,7,2022-01-07,2022-01,1309,1292,0,101114984,3,18,14,0,87,49,49,59,44,0,35,21,1,Baixo,1,Baixo,2,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto,4,Alto
+1297061,every angel is terrifying,the weeknd,1,2022,1,7,2022-01-07,2022-01,717,715,0,37307967,0,1,2,0,118,44,52,94,11,0,4,29,2,Baixo,1,Baixo,3,Baixo,4,Alto,2,Baixo,4,Alto,1,Baixo,4,Alto
+1582892,pushin p feat young thug ,young thug future gunna,3,2022,1,7,2022-01-07,2022-01,3614,3517,0,311395144,54,28,43,0,78,77,49,42,1,1,13,19,1,Baixo,3,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,4,Alto
+7432867,i heard you re married feat lil wayne ,the weeknd lil wayne,2,2022,1,7,2022-01-07,2022-01,1196,1178,0,91656026,9,10,9,0,110,75,85,84,10,0,31,19,2,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,4,Alto,4,Alto
+7870658,cay la noche feat cruz cafun abhir hathi bejo el ima ,quevedo la pantera juseph cruz cafun b jo abhir hathi,7,2022,1,14,2022-01-14,2022-01,1065,1034,1,245400167,19,5,12,0,174,67,74,75,44,0,7,30,4,Alto,2,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo,1,Baixo,4,Alto
+7120733,light switch,charlie puth,1,2022,1,19,2022-01-19,2022-01,4253,4049,0,500340342,119,6,85,1,184,69,91,63,11,0,9,31,4,Alto,2,Baixo,4,Alto,2,Baixo,2,Baixo,3,Baixo,1,Baixo,4,Alto
+3284752,billie eilish ,armani white,1,2022,1,20,2022-01-20,2022-01,2653,2537,0,277132266,49,1,67,11,100,90,75,50,11,0,9,26,2,Baixo,4,Alto,4,Alto,1,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto
+1338081,do we have a problem ,nicki minaj lil baby,2,2022,2,4,2022-02-04,2022-02,1132,1064,0,81350745,42,1,26,0,120,84,54,51,47,0,12,40,2,Baixo,4,Alto,3,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,4,Alto
+7165052,gospel with eminem ,eminem dr dre,2,2022,2,4,2022-02-04,2022-02,1077,1040,0,64787943,8,0,29,0,117,92,62,86,11,0,24,24,2,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo,2,Baixo,4,Alto,4,Alto
+1336403,city of gods,kanye west alicia keys fivio foreign,3,2022,2,11,2022-02-11,2022-02,2160,2096,0,107255472,34,3,30,0,147,47,50,80,10,0,32,38,4,Alto,1,Baixo,2,Baixo,4,Alto,2,Baixo,4,Alto,4,Alto,4,Alto
+3434265,worst day,future,1,2022,2,11,2022-02-11,2022-02,954,910,0,50746620,20,3,24,0,89,65,60,60,11,0,10,40,1,Baixo,2,Baixo,3,Baixo,2,Baixo,2,Baixo,4,Alto,2,Baixo,4,Alto
+3833877,ultra solo,polima westcoast pailita,2,2022,2,14,2022-02-14,2022-02,1449,1367,0,307752576,48,4,34,1,110,80,26,85,23,0,11,21,2,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo,4,Alto
+7724259,fuera del mercado,danny ocean,1,2022,2,17,2022-02-17,2022-02,2610,2499,21,421365166,68,24,43,1,92,45,27,67,32,0,13,14,1,Baixo,1,Baixo,1,Baixo,3,Baixo,3,Baixo,4,Alto,3,Baixo,4,Alto
+8174616,jgl,luis r conriquez la adictiva,2,2022,2,18,2022-02-18,2022-02,803,782,9,323455692,15,33,6,1,113,70,97,59,55,0,27,12,2,Baixo,3,Baixo,4,Alto,2,Baixo,4,Alto,3,Baixo,4,Alto,4,Alto
+3380441,belly dancer,byor imanbek,2,2022,2,18,2022-02-18,2022-02,5525,5115,13,383835984,109,38,301,1,122,85,42,80,6,0,17,14,3,Baixo,4,Alto,2,Baixo,4,Alto,2,Baixo,3,Baixo,3,Baixo,4,Alto
+2166249,o o,nmixx,1,2022,2,22,2022-02-22,2022-02,309,290,0,135444283,9,66,10,0,200,39,28,77,4,0,6,29,4,Alto,1,Baixo,1,Baixo,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto
+5350195,nobody like u from turning red ,jordan fisher josh levi finneas o connell 4 town from disney and pixar s turning red topher ngo grayson vill,6,2022,2,25,2022-02-25,2022-02,982,918,0,120847157,34,39,30,0,105,91,73,72,13,0,9,15,2,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto
+4265182,residente bzrp music sessions vol 49,residente bizarrap,2,2022,3,3,2022-03-03,2022-03,481,461,0,94616487,7,11,13,0,71,59,70,74,56,0,11,40,1,Baixo,2,Baixo,3,Baixo,3,Baixo,4,Alto,2,Baixo,2,Baixo,4,Alto
+5701355,starlight,dave,1,2022,3,3,2022-03-03,2022-03,1916,1856,3,229473310,29,40,31,1,124,95,36,37,35,0,10,28,3,Baixo,4,Alto,2,Baixo,1,Baixo,3,Baixo,4,Alto,2,Baixo,4,Alto
+1904497,sweetest pie,dua lipa megan thee stallion,2,2022,3,11,2022-03-11,2022-03,3621,3501,0,299634472,69,2,51,11,124,81,68,63,17,0,10,22,3,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo,2,Baixo,2,Baixo,4,Alto
+6577689,sentadona remix s2,lu sa sonza mc frog dj gabriel do borel davi k,4,2022,3,17,2022-03-17,2022-03,951,870,0,176290831,32,0,49,0,135,93,77,45,25,0,13,27,3,Baixo,4,Alto,4,Alto,1,Baixo,3,Baixo,2,Baixo,3,Baixo,4,Alto
+3555344,maniac,stray kids,1,2022,3,18,2022-03-18,2022-03,677,651,0,212234990,6,188,20,0,120,58,71,80,15,0,7,41,2,Baixo,2,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,1,Baixo,4,Alto
+5128815,me arrepent ,ak4 20 cris mj pailita,3,2022,3,30,2022-03-30,2022-03,289,273,2,118381354,12,2,4,0,92,86,91,79,29,0,60,16,1,Baixo,4,Alto,4,Alto,4,Alto,3,Baixo,4,Alto,4,Alto,4,Alto
+3841850,si quieren frontear,de la ghetto duki quevedo,3,2022,3,31,2022-03-31,2022-03,884,859,0,178512385,14,0,11,0,82,79,48,84,13,0,21,23,1,Baixo,4,Alto,2,Baixo,4,Alto,2,Baixo,1,Baixo,3,Baixo,4,Alto
+5191929,in my head,lil tjay,1,2022,4,1,2022-04-01,2022-04,1237,1185,0,190981339,21,0,31,0,143,68,41,55,16,0,10,12,4,Alto,2,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,2,Baixo,4,Alto
+2142936,tus l gr,sech mora,2,2022,4,1,2022-04-01,2022-04,1340,1308,2,184622518,23,16,9,0,174,68,45,71,18,0,11,25,4,Alto,2,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo,2,Baixo,4,Alto
+7434389,right on,lil baby,1,2022,4,8,2022-04-08,2022-04,1162,1116,0,101780047,31,9,15,0,166,70,22,61,2,0,10,34,4,Alto,3,Baixo,1,Baixo,2,Baixo,1,Baixo,1,Baixo,2,Baixo,4,Alto
+5975489,zoom,jessi,1,2022,4,13,2022-04-13,2022-04,627,608,0,136996305,5,29,14,0,100,87,46,60,1,0,13,16,2,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo,3,Baixo,3,Baixo,4,Alto
+5937798,te felicito,shakira rauw alejandro,2,2022,4,21,2022-04-21,2022-04,5132,4796,9,606361689,124,66,212,13,174,70,57,64,23,0,8,32,4,Alto,3,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto
+8297242,slut me out,nle choppa,1,2022,4,22,2022-04-22,2022-04,850,816,4,190490915,21,4,13,0,121,94,71,61,12,0,53,42,3,Baixo,4,Alto,4,Alto,2,Baixo,2,Baixo,3,Baixo,4,Alto,4,Alto
+3827734,wait for u feat drake tems ,drake future tems,3,2022,4,27,2022-04-27,2022-04,5694,5491,14,556585270,128,84,75,0,83,46,34,64,31,0,7,34,1,Baixo,1,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto
+1545230,puffin on zootiez,future,1,2022,4,29,2022-04-29,2022-04,2401,2350,0,254218729,28,42,23,0,125,88,28,66,6,0,13,31,3,Baixo,4,Alto,1,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo,4,Alto
+8654169,fearless,le sserafim,1,2022,5,2,2022-05-02,2022-05,656,629,0,229497852,18,75,9,0,104,86,43,62,5,0,13,14,2,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo,3,Baixo,3,Baixo,4,Alto
+3122686,la corriente,tony dize bad bunny,2,2022,5,6,2022-05-06,2022-05,1822,1796,8,479655659,8,25,18,1,196,66,58,79,23,0,22,20,4,Alto,2,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo,4,Alto
+7321459,vegas from the original motion picture soundtrack elvis ,doja cat,1,2022,5,6,2022-05-06,2022-05,4748,4576,0,448500832,79,13,93,0,160,80,74,60,8,0,14,26,4,Alto,4,Alto,4,Alto,2,Baixo,2,Baixo,4,Alto,3,Baixo,4,Alto
+8956923,despu s de la p,bad bunny,1,2022,5,6,2022-05-06,2022-05,2280,2229,0,461558540,27,44,24,0,78,56,61,90,36,0,18,31,1,Baixo,1,Baixo,3,Baixo,4,Alto,3,Baixo,3,Baixo,3,Baixo,4,Alto
+6339593,el apag ,bad bunny,1,2022,5,6,2022-05-06,2022-05,1232,1209,0,212351890,9,7,14,0,118,63,60,70,5,0,9,31,2,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto
+6322459,titi me pregunt ,bad bunny,1,2022,5,6,2022-05-06,2022-05,9300,9037,42,1264310836,124,133,139,14,107,65,19,72,10,0,13,25,2,Baixo,2,Baixo,1,Baixo,3,Baixo,2,Baixo,1,Baixo,3,Baixo,4,Alto
+2830739,i tried to tell y all,ugly dray tesla jnr,2,2022,5,6,2022-05-06,2022-05,1675,1657,0,121077868,15,3,3,0,96,71,37,52,62,0,11,36,1,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,2,Baixo,4,Alto
+4940529,agosto,bad bunny,1,2022,5,6,2022-05-06,2022-05,911,897,0,246127838,6,20,8,0,115,85,72,58,9,0,49,12,2,Baixo,4,Alto,4,Alto,2,Baixo,2,Baixo,4,Alto,4,Alto,4,Alto
+5848183,andrea,buscabulla bad bunny,2,2022,5,6,2022-05-06,2022-05,1216,1195,0,344055883,8,30,13,1,103,80,45,62,76,0,10,38,2,Baixo,4,Alto,2,Baixo,2,Baixo,4,Alto,3,Baixo,2,Baixo,4,Alto
+6509365,the heart part 5,kendrick lamar,1,2022,5,8,2022-05-08,2022-05,2998,2939,0,71423324,29,0,30,0,98,76,79,81,18,0,6,34,1,Baixo,3,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo,1,Baixo,4,Alto
+4528930,cooped up with roddy ricch ,post malone roddy ricch,2,2022,5,12,2022-05-12,2022-05,3027,2942,0,271666301,42,28,43,0,125,50,39,78,4,0,11,33,3,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo,2,Baixo,2,Baixo,4,Alto
+3184472,united in grief,kendrick lamar,1,2022,5,13,2022-05-13,2022-05,2591,2575,0,156898322,4,5,12,0,87,52,32,83,24,0,17,43,1,Baixo,1,Baixo,1,Baixo,4,Alto,3,Baixo,2,Baixo,3,Baixo,4,Alto
+7762851,savior,kendrick lamar sam dew baby keem,3,2022,5,13,2022-05-13,2022-05,2308,2291,0,86176890,9,0,8,0,123,61,66,71,53,0,32,46,3,Baixo,2,Baixo,3,Baixo,3,Baixo,4,Alto,3,Baixo,4,Alto,4,Alto
+7513238,we cry together,kendrick lamar taylour paige,2,2022,5,13,2022-05-13,2022-05,1645,1635,0,68895644,4,1,6,0,108,65,52,69,31,0,8,36,2,Baixo,2,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto
+1713130,auntie diaries,kendrick lamar,1,2022,5,13,2022-05-13,2022-05,1550,1545,0,37778188,1,0,4,0,78,43,60,38,76,1,48,38,1,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto,4,Alto,4,Alto,4,Alto
+2612867,mother i sober feat beth gibbons of portishead ,kendrick lamar beth gibbons,2,2022,5,13,2022-05-13,2022-05,1895,1890,0,33381454,3,0,2,0,140,49,50,37,87,0,11,35,3,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,2,Baixo,4,Alto
+3186172,worldwide steppers,kendrick lamar,1,2022,5,13,2022-05-13,2022-05,1486,1480,0,61739839,1,0,5,0,72,56,56,47,76,0,8,36,1,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto,1,Baixo,1,Baixo,4,Alto
+1109166,n95,kendrick lamar,1,2022,5,13,2022-05-13,2022-05,5659,5542,0,301242089,52,16,65,0,140,81,39,66,38,0,12,14,3,Baixo,4,Alto,2,Baixo,3,Baixo,3,Baixo,3,Baixo,2,Baixo,4,Alto
+5005107,mr morale,kendrick lamar tanna leone,2,2022,5,13,2022-05-13,2022-05,1864,1860,0,58687425,1,0,3,0,174,73,26,54,30,0,34,32,4,Alto,3,Baixo,1,Baixo,2,Baixo,3,Baixo,4,Alto,4,Alto,4,Alto
+6774092,purple hearts,kendrick lamar ghostface killah summer walker,3,2022,5,13,2022-05-13,2022-05,2322,2308,0,76831876,7,0,7,0,138,57,71,82,19,0,15,29,3,Baixo,1,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo,3,Baixo,4,Alto
+3635714,savior interlude,kendrick lamar,1,2022,5,13,2022-05-13,2022-05,1197,1194,0,37091576,0,0,3,0,118,66,83,43,84,0,19,19,2,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo,3,Baixo,4,Alto
+1493023,rich spirit,kendrick lamar,1,2022,5,13,2022-05-13,2022-05,3539,3486,0,173702135,20,10,33,0,96,85,41,43,39,0,12,21,1,Baixo,4,Alto,2,Baixo,1,Baixo,3,Baixo,2,Baixo,2,Baixo,4,Alto
+8555603,die hard,kendrick lamar blxst amanda reifer,3,2022,5,13,2022-05-13,2022-05,4697,4627,0,237351106,38,13,32,0,101,78,40,74,36,0,17,27,2,Baixo,3,Baixo,2,Baixo,3,Baixo,3,Baixo,2,Baixo,3,Baixo,4,Alto
+6177084,father time feat sampha ,kendrick lamar sampha,2,2022,5,13,2022-05-13,2022-05,3133,3107,0,127309180,4,0,22,0,153,55,50,78,19,0,11,35,4,Alto,1,Baixo,2,Baixo,4,Alto,3,Baixo,1,Baixo,2,Baixo,4,Alto
+2079115,keep driving,harry styles,1,2022,5,20,2022-05-20,2022-05,2120,2094,1,236060709,8,1,18,0,165,72,90,48,32,0,18,23,4,Alto,3,Baixo,4,Alto,1,Baixo,3,Baixo,1,Baixo,3,Baixo,4,Alto
+7220913,la llevo al cielo ft engo f,nengo flow anuel aa chris jedi chencho corleone,4,2022,5,20,2022-05-20,2022-05,3626,3559,3,333146475,36,1,31,0,170,80,77,85,11,0,17,14,4,Alto,4,Alto,4,Alto,4,Alto,2,Baixo,4,Alto,3,Baixo,4,Alto
+1771212,die young feat 347aidan ,sleepy hallow 347aidan,2,2022,5,25,2022-05-25,2022-05,930,896,0,160845341,19,0,15,0,77,81,68,58,83,0,11,34,1,Baixo,4,Alto,3,Baixo,2,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto
+7503630,true love,kanye west xxxtentacion,2,2022,5,27,2022-05-27,2022-05,2196,2129,0,194902696,23,1,44,1,84,71,39,86,2,0,51,25,1,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto,4,Alto
+5141433,antes de perderte,duki,1,2022,6,2,2022-06-02,2022-06,604,584,8,157136970,12,1,8,0,110,81,61,93,49,0,12,11,2,Baixo,4,Alto,3,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo,4,Alto
+3070266,ai preto,l7nnon dj biel do furduncinho bianca,3,2022,6,3,2022-06-03,2022-06,976,894,4,176103902,28,0,54,0,130,95,83,57,54,0,10,25,3,Baixo,4,Alto,4,Alto,2,Baixo,4,Alto,2,Baixo,2,Baixo,4,Alto
+8917301,baile no morro,mc vitin da igrejinha mc tairon dj win,3,2022,6,10,2022-06-10,2022-06,726,685,2,129314708,17,0,24,0,130,71,78,40,46,0,7,45,3,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto,3,Baixo,1,Baixo,4,Alto
+4070434,yet to come,bts,1,2022,6,10,2022-06-10,2022-06,887,829,0,302006641,32,110,26,0,172,56,68,89,4,0,33,19,4,Alto,1,Baixo,3,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto,4,Alto
+5477581,run bts,bts,1,2022,6,10,2022-06-10,2022-06,758,736,0,330881149,5,132,17,0,77,72,70,82,2,0,4,17,1,Baixo,3,Baixo,4,Alto,4,Alto,1,Baixo,1,Baixo,1,Baixo,4,Alto
+3007244,jimmy cooks feat 21 savage ,drake 21 savage,2,2022,6,17,2022-06-17,2022-06,6010,5871,27,618885532,81,121,58,1,163,54,40,67,0,0,9,17,4,Alto,1,Baixo,2,Baixo,3,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto
+6670857,sticky,drake,1,2022,6,17,2022-06-17,2022-06,2877,2814,0,191448892,38,105,25,0,137,88,8,49,9,0,9,14,3,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto
+6191375,die first,nessa barrett,1,2022,6,24,2022-06-24,2022-06,814,767,0,131746175,25,0,22,0,183,44,44,67,7,0,12,13,4,Alto,1,Baixo,2,Baixo,3,Baixo,2,Baixo,3,Baixo,2,Baixo,4,Alto
+1769305,casei com a putaria,mc ryan sp love funk mc paiva zs,3,2022,7,1,2022-07-01,2022-07,678,648,4,187701588,0,0,30,0,161,59,62,60,12,0,5,44,4,Alto,2,Baixo,3,Baixo,2,Baixo,2,Baixo,2,Baixo,1,Baixo,4,Alto
+6621439,hot shit feat ye lil durk ,kanye west lil durk cardi b,3,2022,7,1,2022-07-01,2022-07,1614,1601,0,85924992,11,0,2,0,157,88,52,69,0,0,8,23,4,Alto,4,Alto,3,Baixo,3,Baixo,1,Baixo,4,Alto,1,Baixo,4,Alto
+6286315,normal,feid,1,2022,7,8,2022-07-08,2022-07,2553,2461,36,459276435,47,66,45,5,170,71,59,56,4,0,27,12,4,Alto,3,Baixo,3,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto
+2865125,doja,central cee,1,2022,7,20,2022-07-20,2022-07,4409,4169,44,482257456,57,44,183,1,140,91,97,57,38,0,40,29,3,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,1,Baixo,4,Alto,4,Alto
+5686736,givenchy,duki,1,2022,7,20,2022-07-20,2022-07,650,625,4,185236961,13,18,12,0,103,61,38,62,14,0,23,40,2,Baixo,2,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,3,Baixo,4,Alto
+6364406,el rescate,grupo marca registrada junior h,2,2022,7,22,2022-07-22,2022-07,540,527,4,287278853,10,43,3,1,99,79,64,59,28,0,11,14,1,Baixo,4,Alto,3,Baixo,2,Baixo,3,Baixo,4,Alto,2,Baixo,4,Alto
+1936158,cuff it,beyonc ,1,2022,7,29,2022-07-29,2022-07,8387,7842,10,595900742,215,88,330,26,115,78,64,69,4,0,7,14,2,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto
+7166872,hype boy,newjeans,1,2022,8,1,2022-08-01,2022-08,924,892,17,363472647,20,119,12,2,100,59,78,94,27,0,29,23,2,Baixo,2,Baixo,4,Alto,4,Alto,3,Baixo,1,Baixo,4,Alto,4,Alto
+7502400,c mo dormi,rels b,1,2022,8,4,2022-08-04,2022-08,1488,1452,35,331511413,16,15,20,0,126,63,56,43,24,0,12,23,3,Baixo,2,Baixo,3,Baixo,1,Baixo,3,Baixo,1,Baixo,2,Baixo,4,Alto
+6270180,bad decisions with bts snoop dogg ,snoop dogg bts benny blanco,3,2022,8,5,2022-08-05,2022-08,1542,1456,0,219196651,53,2,33,0,120,77,94,87,2,0,23,12,2,Baixo,3,Baixo,4,Alto,4,Alto,1,Baixo,3,Baixo,3,Baixo,4,Alto
+6640464,limbo,freddie dredd,1,2022,8,11,2022-08-11,2022-08,719,688,0,199386237,14,1,17,0,75,80,46,62,3,6,11,46,1,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,4,Alto
+6643902,super freaky girl,nicki minaj,1,2022,8,12,2022-08-12,2022-08,5007,4827,0,428685680,104,17,76,9,133,95,91,89,6,0,31,24,3,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo,4,Alto,4,Alto,4,Alto
+2357691,after like,ive,1,2022,8,22,2022-08-22,2022-08,798,767,12,265548837,20,129,11,0,125,68,80,92,10,0,9,12,3,Baixo,2,Baixo,4,Alto,4,Alto,2,Baixo,1,Baixo,1,Baixo,4,Alto
+2468227,gat ,maldy karol g,2,2022,8,25,2022-08-25,2022-08,3424,3328,13,322336177,39,50,57,3,93,63,34,86,26,0,21,39,1,Baixo,2,Baixo,2,Baixo,4,Alto,3,Baixo,1,Baixo,3,Baixo,4,Alto
+4363557,talk that talk,twice,1,2022,8,26,2022-08-26,2022-08,644,615,0,189476119,14,77,15,1,120,77,78,91,14,0,33,12,2,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,4,Alto,4,Alto
+5086845,talk,yeat,1,2022,9,2,2022-09-02,2022-09,938,920,0,148461629,10,1,8,0,140,70,26,76,8,0,54,23,3,Baixo,3,Baixo,1,Baixo,3,Baixo,2,Baixo,3,Baixo,4,Alto,4,Alto
+3875589,vista al mar,quevedo,1,2022,9,8,2022-09-08,2022-09,1806,1769,34,362361576,16,19,21,3,105,76,49,56,80,12,10,13,2,Baixo,3,Baixo,2,Baixo,2,Baixo,4,Alto,4,Alto,2,Baixo,4,Alto
+6055373,evoque prata,dj escobar mc menor sg mc menor hr,3,2022,9,9,2022-09-09,2022-09,916,852,0,174006928,14,1,50,0,87,87,52,52,31,0,28,24,1,Baixo,4,Alto,3,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto,4,Alto
+5283123,prohibidox,feid,1,2022,9,13,2022-09-13,2022-09,1523,1473,12,185392587,25,36,25,1,180,65,52,80,5,0,6,25,4,Alto,2,Baixo,3,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo,4,Alto
+7654973,bamba feat aitch bia ,luciano aitch b ,3,2022,9,22,2022-09-22,2022-09,895,869,7,146223492,14,12,12,2,138,80,82,81,14,0,13,36,3,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo,1,Baixo,3,Baixo,4,Alto
+8164697,tubar o te,dj lk da esc cia tchakabum mc jhenny m,4,2022,9,28,2022-09-28,2022-09,1068,1003,0,116144341,21,0,44,0,130,89,48,74,30,0,7,36,3,Baixo,4,Alto,2,Baixo,3,Baixo,3,Baixo,2,Baixo,1,Baixo,4,Alto
+1899106,hey mor,ozuna feid,2,2022,10,6,2022-10-06,2022-10,4789,4637,38,674072710,63,79,89,11,98,90,40,59,0,0,10,29,1,Baixo,4,Alto,2,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,4,Alto
+3476652,california breeze,lil baby,1,2022,10,14,2022-10-14,2022-10,1040,991,0,85559365,36,38,13,0,162,74,22,67,0,0,11,46,4,Alto,3,Baixo,1,Baixo,3,Baixo,1,Baixo,1,Baixo,2,Baixo,4,Alto
+7691321,nxde, g i dle,1,2022,10,17,2022-10-17,2022-10,453,430,6,170709584,14,116,9,0,136,73,65,91,4,0,48,18,3,Baixo,3,Baixo,3,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto,4,Alto
+6590514,mastermind,taylor swift,1,2022,10,21,2022-10-21,2022-10,1956,1936,0,218320587,7,5,13,0,126,66,12,35,55,0,9,14,3,Baixo,2,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto,1,Baixo,4,Alto
+8471839,would ve could ve should ve,taylor swift,1,2022,10,21,2022-10-21,2022-10,1727,1715,0,177503916,4,5,8,0,158,48,55,84,43,0,15,12,4,Alto,1,Baixo,3,Baixo,4,Alto,4,Alto,2,Baixo,3,Baixo,4,Alto
+5899602,question ,taylor swift,1,2022,10,21,2022-10-21,2022-10,1630,1608,0,223064273,10,3,12,0,109,75,11,50,20,0,30,17,2,Baixo,3,Baixo,1,Baixo,1,Baixo,3,Baixo,2,Baixo,4,Alto,4,Alto
+7270435,vigilante shit,taylor swift,1,2022,10,21,2022-10-21,2022-10,1976,1948,0,253650850,12,9,16,0,80,80,16,28,17,0,12,39,1,Baixo,4,Alto,1,Baixo,1,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto
+3035987,on bs,drake 21 savage,2,2022,11,4,2022-11-04,2022-11,1354,1338,0,170413877,9,20,7,0,158,84,33,36,2,0,39,59,4,Alto,4,Alto,2,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto,4,Alto
+2598352,pussy millions feat travis scott ,drake travis scott 21 savage,3,2022,11,4,2022-11-04,2022-11,1971,1930,0,191333656,24,8,17,0,122,75,45,63,6,0,35,12,3,Baixo,3,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,4,Alto,4,Alto
+4604858,rich flex,drake 21 savage,2,2022,11,4,2022-11-04,2022-11,4783,4657,18,573633020,84,84,42,0,153,56,42,52,5,0,36,24,4,Alto,1,Baixo,2,Baixo,1,Baixo,1,Baixo,3,Baixo,4,Alto,4,Alto
+8471078,punto g,quevedo,1,2022,11,4,2022-11-04,2022-11,2056,1985,35,381161027,34,26,37,5,92,75,55,76,25,0,10,15,1,Baixo,3,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,2,Baixo,4,Alto
+5974857,major distribution,drake 21 savage,2,2022,11,4,2022-11-04,2022-11,1582,1545,0,154863153,22,7,15,0,131,91,23,55,1,0,7,32,3,Baixo,4,Alto,1,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto
+4322356,privileged rappers,drake 21 savage,2,2022,11,4,2022-11-04,2022-11,1016,1007,0,112436403,6,5,3,0,144,93,62,61,0,0,12,20,4,Alto,4,Alto,3,Baixo,2,Baixo,1,Baixo,2,Baixo,2,Baixo,4,Alto
+3108815,backoutsideboyz,drake,1,2022,11,4,2022-11-04,2022-11,1055,1045,0,93367537,8,5,2,0,142,85,40,43,4,0,39,32,4,Alto,4,Alto,2,Baixo,1,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto
+8174233,broke boys,drake 21 savage,2,2022,11,4,2022-11-04,2022-11,1068,1060,0,106249219,3,8,5,0,120,64,11,53,1,0,25,27,2,Baixo,2,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,4,Alto,4,Alto
+5152397,cairo,karol g ovy on the drums,2,2022,11,13,2022-11-13,2022-11,2525,2418,26,294352144,52,66,55,1,115,95,43,69,47,0,9,31,2,Baixo,4,Alto,2,Baixo,3,Baixo,4,Alto,3,Baixo,1,Baixo,4,Alto
+2432426,escapism sped up,raye 070 shake,2,2022,11,25,2022-11-25,2022-11,1391,1368,0,184308753,12,1,11,0,108,44,38,77,9,0,9,20,2,Baixo,1,Baixo,2,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo,4,Alto
+7137376,players,coi leray,1,2022,11,30,2022-11-30,2022-11,4357,4096,6,335074782,118,48,143,0,105,95,62,52,3,0,5,16,2,Baixo,4,Alto,3,Baixo,1,Baixo,1,Baixo,4,Alto,1,Baixo,4,Alto
+1443757,la jumpa,arcangel bad bunny,2,2022,11,30,2022-11-30,2022-11,3894,3794,34,538115192,47,77,53,10,123,71,58,70,30,0,32,19,3,Baixo,3,Baixo,3,Baixo,3,Baixo,3,Baixo,4,Alto,4,Alto,4,Alto
+6794169,ch y la pizza,fuerza regida natanael cano,2,2022,12,1,2022-12-01,2022-12,554,536,10,288101651,10,72,8,3,149,66,85,60,40,0,14,13,4,Alto,2,Baixo,4,Alto,2,Baixo,3,Baixo,1,Baixo,3,Baixo,4,Alto
+3512881,superhero heroes villains with future chris brown ,future chris brown metro boomin,3,2022,12,2,2022-12-02,2022-12,3038,2959,16,401036314,41,69,38,0,117,72,45,59,14,0,20,21,2,Baixo,3,Baixo,2,Baixo,2,Baixo,2,Baixo,2,Baixo,3,Baixo,4,Alto
+2121928,trance with travis scott young thug ,travis scott young thug metro boomin,3,2022,12,2,2022-12-02,2022-12,1736,1682,46,276259178,24,90,30,1,119,75,48,53,18,0,18,34,2,Baixo,3,Baixo,2,Baixo,1,Baixo,3,Baixo,3,Baixo,3,Baixo,4,Alto
+1718193,niagara falls foot or 2 with travis scott 21 savage ,travis scott 21 savage metro boomin,3,2022,12,2,2022-12-02,2022-12,1626,1602,0,195516622,12,22,12,0,88,49,24,66,19,0,18,29,1,Baixo,1,Baixo,1,Baixo,3,Baixo,3,Baixo,2,Baixo,3,Baixo,4,Alto
+7122267,open arms feat travis scott ,sza travis scott,2,2022,12,8,2022-12-08,2022-12,1450,1420,4,155653938,13,87,17,0,78,67,22,59,76,1,15,16,1,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto,3,Baixo,4,Alto
+2628329,notice me,sza,1,2022,12,9,2022-12-09,2022-12,833,819,0,62019074,14,22,0,0,160,72,78,68,28,0,11,12,4,Alto,3,Baixo,4,Alto,3,Baixo,3,Baixo,1,Baixo,2,Baixo,4,Alto
+4311407,snooze,sza,1,2022,12,9,2022-12-09,2022-12,2939,2839,25,399686758,58,156,42,1,143,56,39,55,14,0,11,13,4,Alto,1,Baixo,2,Baixo,2,Baixo,2,Baixo,2,Baixo,2,Baixo,4,Alto
+7103818,smoking on my ex pack,sza,1,2022,12,9,2022-12-09,2022-12,820,811,0,57144458,6,11,3,0,81,47,33,68,24,0,22,38,1,Baixo,1,Baixo,2,Baixo,3,Baixo,3,Baixo,3,Baixo,3,Baixo,4,Alto
+7780139,sos,sza,1,2022,12,9,2022-12-09,2022-12,834,827,0,73981293,6,18,1,0,119,51,51,66,67,0,9,23,2,Baixo,1,Baixo,2,Baixo,3,Baixo,4,Alto,1,Baixo,1,Baixo,4,Alto
+5073649,let go,central cee,1,2022,12,15,2022-12-15,2022-12,2460,2301,20,298063749,49,23,110,0,146,74,51,45,86,0,21,38,4,Alto,3,Baixo,2,Baixo,1,Baixo,4,Alto,4,Alto,3,Baixo,4,Alto
+5478299,mercho,migrantes lil cake nico valdi,3,2022,12,16,2022-12-16,2022-12,1364,1267,20,231332117,41,22,56,4,93,84,96,79,43,0,18,11,1,Baixo,4,Alto,4,Alto,4,Alto,4,Alto,4,Alto,3,Baixo,4,Alto
+2339996,gato de noche,nengo flow bad bunny,2,2022,12,22,2022-12-22,2022-12,2704,2651,30,304118600,21,55,32,3,94,89,61,66,17,0,36,16,1,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,2,Baixo,4,Alto,4,Alto
+8024591,sem alian a no,mc xenon os gemeos da putaria,2,2022,12,23,2022-12-23,2022-12,481,454,4,93587665,6,1,21,0,83,53,40,36,73,0,11,33,1,Baixo,1,Baixo,2,Baixo,1,Baixo,4,Alto,1,Baixo,2,Baixo,4,Alto
+8704695,llylm,rosal ,1,2023,1,27,2023-01-27,2023-01,2057,1838,0,124988687,105,41,114,1,170,56,56,63,13,0,19,27,4,Alto,1,Baixo,3,Baixo,2,Baixo,2,Baixo,1,Baixo,3,Baixo,4,Alto
+6778924,x si volvemos,karol g romeo santos,2,2023,2,2,2023-02-02,2023-02,2225,2127,33,266624541,45,80,53,8,178,79,58,78,34,0,11,25,4,Alto,4,Alto,3,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo,4,Alto
+4335470,nosso quadro,ana castela agroplay,2,2023,2,2,2023-02-02,2023-02,974,894,9,233801632,14,88,66,3,160,69,61,71,33,0,31,20,4,Alto,3,Baixo,3,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto,4,Alto
+1696728,rara vez,taiu milo j,2,2023,2,8,2023-02-08,2023-02,936,893,38,248088961,19,23,24,3,120,84,96,71,18,0,34,17,2,Baixo,4,Alto,4,Alto,3,Baixo,3,Baixo,3,Baixo,4,Alto,4,Alto
+1743307,cupido,tini,1,2023,2,14,2023-02-14,2023-02,1354,1240,24,217672943,51,29,63,4,120,91,63,58,52,0,31,22,2,Baixo,4,Alto,3,Baixo,2,Baixo,4,Alto,1,Baixo,4,Alto,4,Alto
+4141537,pero t ,karol g quevedo,2,2023,2,23,2023-02-23,2023-02,412,387,11,93438910,11,15,14,3,140,86,68,79,39,0,11,29,3,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo,4,Alto
+3464535,tqg,karol g shakira,2,2023,2,23,2023-02-23,2023-02,4583,4284,49,618990393,115,123,184,18,180,72,61,63,67,0,9,28,4,Alto,3,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,1,Baixo,4,Alto
+1397395,mientras me curo del cora,karol g,1,2023,2,24,2023-02-24,2023-02,1065,1020,35,206399629,15,26,30,6,80,52,57,48,86,0,15,39,1,Baixo,1,Baixo,3,Baixo,1,Baixo,4,Alto,2,Baixo,3,Baixo,4,Alto
+3986213,on the street with j cole ,j hope j cole,2,2023,3,3,2023-03-03,2023-03,645,615,2,116599790,22,82,8,0,94,68,81,82,53,0,9,13,1,Baixo,2,Baixo,4,Alto,4,Alto,4,Alto,2,Baixo,1,Baixo,4,Alto
+2853933,red ruby da sleeze,nicki minaj,1,2023,3,3,2023-03-03,2023-03,1233,1168,0,81419389,45,11,20,0,98,70,29,73,12,0,11,26,1,Baixo,3,Baixo,1,Baixo,3,Baixo,2,Baixo,2,Baixo,2,Baixo,4,Alto
+4823840,shorty party,cartel de santa la kelly,2,2023,3,4,2023-03-04,2023-03,452,432,12,162887075,8,14,12,2,96,93,47,47,33,0,10,36,1,Baixo,4,Alto,2,Baixo,1,Baixo,3,Baixo,2,Baixo,2,Baixo,4,Alto
+5586506,la bebe remix,peso pluma yng lvcas,2,2023,3,17,2023-03-17,2023-03,3068,2953,44,553634067,49,110,66,13,170,81,56,48,21,0,8,33,4,Alto,4,Alto,3,Baixo,1,Baixo,3,Baixo,4,Alto,1,Baixo,4,Alto
+7989475,remix exclusivo,feid,1,2023,3,17,2023-03-17,2023-03,1270,1235,9,117206995,20,8,15,0,87,65,71,56,4,0,15,20,1,Baixo,2,Baixo,4,Alto,2,Baixo,1,Baixo,3,Baixo,3,Baixo,4,Alto
+2969049,area codes,kaliii kaliii,2,2023,3,17,2023-03-17,2023-03,1266,1197,13,113509496,44,34,25,1,155,82,51,39,2,0,9,49,4,Alto,4,Alto,2,Baixo,1,Baixo,1,Baixo,1,Baixo,1,Baixo,4,Alto
+7996425,arc ngel bzrp music sessions vol,arcangel bizarrap,2,2023,3,22,2023-03-22,2023-03,683,654,3,100409613,11,3,18,1,124,72,79,78,55,0,15,30,3,Baixo,3,Baixo,4,Alto,4,Alto,4,Alto,3,Baixo,3,Baixo,4,Alto
+3276282,beso,rauw alejandro rosal ,2,2023,3,24,2023-03-24,2023-03,4317,4053,50,357925728,82,121,182,12,95,77,53,64,74,0,17,14,1,Baixo,3,Baixo,3,Baixo,2,Baixo,4,Alto,1,Baixo,3,Baixo,4,Alto
+1111875,dogtooth,tyler the creator,2,2023,3,27,2023-03-27,2023-03,1520,1479,0,80758350,23,0,18,0,78,71,80,65,51,0,22,32,1,Baixo,3,Baixo,4,Alto,2,Baixo,4,Alto,2,Baixo,3,Baixo,4,Alto
+6456333,classy 101,feid young miko,2,2023,3,31,2023-03-31,2023-03,2707,2610,40,335222234,43,100,54,14,100,86,67,66,14,0,12,16,2,Baixo,4,Alto,3,Baixo,3,Baixo,2,Baixo,2,Baixo,2,Baixo,4,Alto
+6083108,sorry not sorry,tyler the creator,2,2023,3,31,2023-03-31,2023-03,730,709,0,58473276,8,1,13,0,96,48,50,80,40,0,37,20,1,Baixo,1,Baixo,2,Baixo,4,Alto,3,Baixo,3,Baixo,4,Alto,4,Alto
+5442505,princess diana with nicki minaj ,nicki minaj ice spice,2,2023,4,14,2023-04-14,2023-04,1444,1444,4,104992946,0,0,0,0,148,90,74,68,14,0,10,19,4,Alto,4,Alto,4,Alto,3,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto
+1183111,ni a bo,sean paul feid,2,2023,4,21,2023-04-21,2023-04,1377,1305,34,115010040,29,26,43,5,91,82,47,62,10,0,10,15,1,Baixo,4,Alto,2,Baixo,2,Baixo,2,Baixo,4,Alto,2,Baixo,4,Alto
+1442233,haegeum,agust d,1,2023,4,21,2023-04-21,2023-04,260,244,12,118810253,6,84,10,2,85,70,83,84,31,0,47,30,1,Baixo,3,Baixo,4,Alto,4,Alto,3,Baixo,1,Baixo,4,Alto,4,Alto
+8666108,angel pt 1 feat jimin of bts jvke muni long ,kodak black nle choppa muni long jvke jimin,5,2023,5,1,2023-05-01,2023-05,614,577,14,133753727,22,18,15,1,74,53,24,67,11,0,10,28,1,Baixo,1,Baixo,1,Baixo,3,Baixo,2,Baixo,4,Alto,2,Baixo,4,Alto
+4165407,cart o b,mc caverinha kayblack,2,2023,5,11,2023-05-11,2023-05,306,269,4,71573339,7,2,30,1,108,84,55,47,26,0,20,64,2,Baixo,4,Alto,3,Baixo,1,Baixo,3,Baixo,3,Baixo,3,Baixo,4,Alto
+6136667,acr s,shakira,1,2023,5,11,2023-05-11,2023-05,1071,955,29,123124076,37,50,79,11,144,75,35,48,84,0,10,12,4,Alto,3,Baixo,2,Baixo,1,Baixo,4,Alto,2,Baixo,2,Baixo,4,Alto
+7083603,all my life feat j cole ,j cole lil durk,2,2023,5,12,2023-05-12,2023-05,2313,2175,23,144565150,69,145,69,2,143,83,69,44,15,0,10,33,4,Alto,4,Alto,3,Baixo,1,Baixo,2,Baixo,4,Alto,2,Baixo,4,Alto
+5495832,69,nicky jam feid,2,2023,5,18,2023-05-18,2023-05,1221,1134,22,57945987,39,14,48,2,93,79,58,62,11,0,11,23,1,Baixo,4,Alto,3,Baixo,2,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto
+6620188,bite me,enhypen,1,2023,5,22,2023-05-22,2023-05,362,349,69,76767396,8,96,5,0,105,80,69,78,28,0,11,14,2,Baixo,4,Alto,3,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo,4,Alto
+5031502,sprinter,dave central cee,2,2023,6,1,2023-06-01,2023-06,2341,2186,91,183706234,67,213,88,17,141,92,66,58,19,0,8,24,4,Alto,4,Alto,3,Baixo,2,Baixo,3,Baixo,3,Baixo,1,Baixo,4,Alto
+1589586,gol bolinha gol quadrado 2,mc pedrinho dj 900,2,2023,6,1,2023-06-01,2023-06,328,293,8,11956641,5,2,30,2,133,93,68,65,42,0,12,25,3,Baixo,4,Alto,3,Baixo,2,Baixo,3,Baixo,3,Baixo,2,Baixo,4,Alto
+5229182,pi man de ,semicenk do u ,2,2023,6,2,2023-06-02,2023-06,194,185,3,43522589,5,6,4,1,98,73,45,62,28,0,13,13,1,Baixo,3,Baixo,2,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo,4,Alto
+5420196,popular with playboi carti madonna the idol vol 1 music from the hbo original series ,the weeknd madonna playboi carti,3,2023,6,2,2023-06-02,2023-06,2106,1945,87,115364561,74,182,87,14,99,85,83,68,7,0,36,20,1,Baixo,4,Alto,4,Alto,3,Baixo,2,Baixo,4,Alto,4,Alto,4,Alto
+1274739,s class,stray kids,1,2023,6,2,2023-06-02,2023-06,304,290,19,65496046,9,101,5,0,105,89,67,78,9,0,7,33,2,Baixo,4,Alto,3,Baixo,4,Alto,2,Baixo,4,Alto,1,Baixo,4,Alto
+8346639,hummingbird metro boomin james blake ,james blake metro boomin,2,2023,6,2,2023-06-02,2023-06,283,277,1,39666245,1,20,5,0,81,59,26,60,46,1,25,13,1,Baixo,2,Baixo,1,Baixo,2,Baixo,4,Alto,4,Alto,4,Alto,4,Alto
+5554493,danger spider offset jid ,offset jid,2,2023,6,2,2023-06-02,2023-06,223,214,0,24975653,3,3,6,0,143,83,25,69,4,0,23,12,4,Alto,4,Alto,1,Baixo,3,Baixo,1,Baixo,4,Alto,3,Baixo,4,Alto
+4866757,all the way live spider man across the spider verse metro boomin future lil uzi vert ,future lil uzi vert metro boomin,3,2023,6,2,2023-06-02,2023-06,269,259,0,37126685,5,17,5,0,135,77,28,55,18,0,22,15,3,Baixo,3,Baixo,1,Baixo,2,Baixo,3,Baixo,4,Alto,3,Baixo,4,Alto
+5168392,barbie world with aqua from barbie the album ,nicki minaj aqua ice spice,3,2023,6,23,2023-06-23,2023-06,1264,1117,80,65156199,82,145,65,16,144,77,75,58,52,0,23,25,4,Alto,3,Baixo,4,Alto,2,Baixo,4,Alto,3,Baixo,3,Baixo,4,Alto
+7624098,s91,karol g,1,2023,7,14,2023-07-14,2023-07,598,525,41,16011326,34,115,39,6,128,86,42,72,59,0,9,19,3,Baixo,4,Alto,2,Baixo,3,Baixo,4,Alto,1,Baixo,1,Baixo,4,Alto
