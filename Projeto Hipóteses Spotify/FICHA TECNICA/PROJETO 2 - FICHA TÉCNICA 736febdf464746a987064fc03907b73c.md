@@ -290,6 +290,9 @@ Apresentação Slides:
 
 https://docs.google.com/presentation/d/134fd0cRt3o7M8z03gilCGxrsX4Q12DFIED5aQzSXMBY/edit?usp=sharing
 
+Apresentação por vídeo (Loom):
+https://www.loom.com/share/768e22bed8054f379bdf86948ecaf475?sid=636df92b-b3fa-45f0-b55c-1ec1bdfc6419
+
 ---
 
 ---
