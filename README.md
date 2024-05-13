@@ -74,8 +74,9 @@ Linguagens: SQL e Python
 
 4 registros 
 
-| SNAP | Rosa Linn |
+| Música | Artista |
 | --- | --- |
+| SNAP | Rosa Linnn |
 | About Damn Time | Lizzo |
 | Take My Breath | The Weeknd |
 | SPIT IN MY FACE! | ThxSoMch |
