@@ -1,6 +1,5 @@
-# PROJETO 2 - FICHA TÉCNICA
 
-# Ficha Técnica: Projeto Análise de Dados 2
+# Ficha Técnica: Projeto Análise de Dados 
 
 ## Título do Projeto: Hipóteses Spotify 🎶
 
