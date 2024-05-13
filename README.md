@@ -1,5 +1,5 @@
 
-# Ficha Técnica: Projeto Análise de Dados 
+# Projeto Análise de Dados 
 
 ## Título do Projeto: Hipóteses Spotify 🎶
 
