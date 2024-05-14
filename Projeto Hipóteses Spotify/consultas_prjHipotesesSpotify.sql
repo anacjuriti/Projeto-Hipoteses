@@ -182,9 +182,6 @@ DROP TABLE meu_dataset.minha_tabela;
 ALTER TABLE meu_dataset.minha_tabela_nova RENAME TO minha_tabela;
 
 //editar registro
-UPDATE clientes SET nome = 'João' WHERE id = 123; --NO
-
-//editar registro
 CREATE OR REPLACE TABLE sua_tabela_nova AS
 SELECT
   IF(id = 123, 'Novo Nome', nome) AS nome,
@@ -255,13 +252,7 @@ WITH musicas_por_artista AS (
 )
 SELECT * FROM musicas_por_artista;
 
-//não pode
-UPDATE `hipoteses-spotify.projeto002.full_table_spotify`
-SET track_name = 'nao identificado'
-WHERE (track_id = 6720570 OR track_id = 5865058)
-AND track_name IS NULL;
-
-//pode
+//nao identificado nas variáveis null
 CREATE TABLE `hipoteses-spotify.projeto002.full_table_spotify_atualizada` AS
 SELECT
     CASE 
