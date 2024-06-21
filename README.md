@@ -1,7 +1,7 @@
 
 # Projeto Análise de Dados 
 
-## Título do Projeto: Hipóteses Spotify 🎶
+## Hipóteses Spotify 🎶
 
 ---
 
