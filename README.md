@@ -3,7 +3,6 @@
 
 ## Hipóteses Spotify 🎶
 
----
 
 ## Objetivo
 
