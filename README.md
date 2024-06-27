@@ -176,21 +176,25 @@ A gravadora levantou diversas hipóteses sobre os fatores que influenciam o suce
 
 ## Links de interesse
 
-- Google Colab:
+- **Ficha Técnica - Notion**
 
-[Google Colab](https://colab.research.google.com/drive/1oKcHaF7ROJ3hp2auwhVCIWDdbWtnxGMs?usp=sharing)
+    https://walnut-amethyst-a91.notion.site/PROJETO-HIP-TESES-e80441baea494eaebf79cce19188dfea?pvs=4
 
-[Google Colab](https://colab.research.google.com/drive/1KDlF_7hDtZcjJq9SCO2ABN95_M45Xodp?usp=sharing)
+- **Relatório - Google Colab:**
 
-- Dashboards Power BI: 
+    [Google Colab](https://colab.research.google.com/drive/1oKcHaF7ROJ3hp2auwhVCIWDdbWtnxGMs?usp=sharing)
+    
+    [Google Colab](https://colab.research.google.com/drive/1KDlF_7hDtZcjJq9SCO2ABN95_M45Xodp?usp=sharing)
 
-https://drive.google.com/file/d/1F58I_QV7m2A0PQPooYIY2M2afwGw14bC/view?usp=sharing 
+- **Dashboard - Power BI:** 
 
-https://drive.google.com/file/d/1rhSR1RTUVbL5y28KzmcoA5wISuWXDRrN/view?usp=sharing
+    https://drive.google.com/file/d/1F58I_QV7m2A0PQPooYIY2M2afwGw14bC/view?usp=sharing 
+    
+    https://drive.google.com/file/d/1rhSR1RTUVbL5y28KzmcoA5wISuWXDRrN/view?usp=sharing
 
-- Apresentação Slides:
+- **Slides - Apresentações Google:**
 
-https://docs.google.com/presentation/d/134fd0cRt3o7M8z03gilCGxrsX4Q12DFIED5aQzSXMBY/edit?usp=sharing
+    https://docs.google.com/presentation/d/134fd0cRt3o7M8z03gilCGxrsX4Q12DFIED5aQzSXMBY/edit?usp=sharing
 
 ---
 
