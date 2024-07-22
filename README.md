@@ -3,7 +3,9 @@
 ## Desvendando os Segredos do Sucesso Musical com Dados do Spotify em 2023
 ### Um mergulho profundo em análise de dados e validação de hipóteses para impulsionar decisões estratégicas na indústria musical.
 
-![image](https://github.com/anacjuriti/Projeto-Hipoteses/assets/108712844/6f23ef44-33d2-44c7-8988-d0d666795b86)
+## Dashboard 
+![image](https://github.com/user-attachments/assets/4e988742-0e6a-46f0-87fa-bfa6ac9835e4)
+![image](https://github.com/user-attachments/assets/d887b2e2-4a9a-439c-8301-62e6af485e78)
 
 ## Equipe
 - Ana Guimarães https://www.linkedin.com/in/ana-juriti
